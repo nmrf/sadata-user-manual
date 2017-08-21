@@ -1,5 +1,7 @@
 # Summary
 
+## How to Use
+
 * [Introduction](README.md)
 * [Users & Roles](chapter1.md)
 * [Human Rights Reporting](human-rights-reporting.md)
@@ -9,5 +11,5 @@
 
 ## Part 2
 
-* second chapter
+* [second chapter](part-2/second-chapter.md)
 
