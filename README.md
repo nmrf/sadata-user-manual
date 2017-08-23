@@ -6,5 +6,5 @@ The Sadata user manual will describe in simple terms how to use the software, fr
 
 # What is Sadata?
 
-
+Sadata is a web tool for coordinating and monitoring implementation of human rights and the SDGs, built using IMPACT OSS \(**I**ntegrated **M**anagement and **P**lanning of **Act**ions **O**pen **S**ource **S**oftware\)
 
