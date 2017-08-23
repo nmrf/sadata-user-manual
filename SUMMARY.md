@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Users & Roles](chapter1.md)
+* New Article
 
 ## Human Rights Reporting
 
