@@ -3,12 +3,26 @@
 ## Welcome
 
 * [Introduction](README.md)
-* [Users & Roles](chapter1.md)
-* New Article
 
-## Human Rights Reporting
+## Overview
 
-* [Importing/Adding Recommendations](human-rights-reporting/importingadding-recommendations.md)
+## Categories
 
-## SDG Reporting
+## Actions
+
+## Indicators
+
+## Recommendations
+
+## SDG Targets
+
+## Users and Roles
+
+* Registration
+* No role assigned
+* Contributor
+* Manager
+* Administrator
+
+## Pages
 
