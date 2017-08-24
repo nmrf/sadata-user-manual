@@ -3,6 +3,8 @@
 ## Welcome
 
 * [Introduction](README.md)
+* [History](history.md)
+* [Meet the team](meet-the-team.md)
 
 ## Overview
 
