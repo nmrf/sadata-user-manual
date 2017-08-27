@@ -20,7 +20,7 @@
 
 ## Users and Roles
 
-* Registration
+* [Registration](users-and-roles/registration.md)
 * No role assigned
 * Contributor
 * Manager
