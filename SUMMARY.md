@@ -21,10 +21,14 @@
 ## Users and Roles
 
 * [Registration](users-and-roles/registration.md)
-* No role assigned
+* [No role assigned](users-and-roles/no-role-assigned.md)
 * Contributor
 * Manager
 * Administrator
 
 ## Pages
+
+## Contact Us
+
+* Contacts
 
