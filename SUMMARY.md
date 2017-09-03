@@ -6,6 +6,10 @@
 * [History](history.md)
 * [Getting Started](getting-started.md)
 
+## Visitors
+
+* Using Sadata as a Visitor
+
 ## Users and Roles
 
 * [Registration](users-and-roles/registration.md)
@@ -13,8 +17,6 @@
 * Contributor
 * Manager
 * [Administrator](users-and-roles/administrator.md)
-
-## Visitors
 
 ## Overview
 
