@@ -8,7 +8,7 @@
 
 ## Visitors
 
-* Using Sadata as a Visitor
+* [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
 
 ## Users and Roles
 
