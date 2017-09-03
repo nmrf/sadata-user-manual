@@ -8,7 +8,7 @@
 
 ## Overview
 
-* [Overview](overview/overview.md)
+* [Overview Tab](overview/overview.md)
 
 ## Categories
 
@@ -19,6 +19,11 @@
 ## Recommendations
 
 ## SDG Targets
+
+## Common Use Cases
+
+* Developing an Implementation Plan from Scratch
+* Adding in new recommendations or actions
 
 ## Users and Roles
 
