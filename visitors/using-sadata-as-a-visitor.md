@@ -14,9 +14,11 @@ The headline bar allows you to navigate through the different types of informati
 
 **Overview: **The landing page \(pictured\)
 
-**Categories: **Categories are the ways in which actions, indicators, recommendations and the SDGs are indexed. The different types of categories are listed down the left hand side of the overview screen. You can look at the categories in more detail by clicking on this tab or on any of the categories in the list on this page. For more details click [here](/visitors/categories.md).
+**Categories: **Categories are the ways in which actions, indicators, recommendations and the SDGs are indexed. The different types of categories are listed down the left hand side of the overview screen. You can look at the categories in more detail by clicking on this tab or on any of the categories in the list on this page. This will allow you to easily explore recommendations and actions within each category. For more details click [here](/visitors/categories.md).
 
-**Actions: **This tab will take you straight to the Implementation Plan view, containing all of the actions the Government and partners are doing or planning to implement human rights and achieve the SDGs in Samoa. You can filter through the list of all recommendations depending on your area of interest, see how the Government is progressing, access data relating and even upload information relating to your own work. For more information click [here](/visitors/actions.md). 
+**Actions: **This tab will take you straight to the Implementation Plan view, containing all of the actions the Government and partners are doing or planning to implement human rights and achieve the SDGs in Samoa. You can filter through the list of all recommendations depending on your area of interest, see how the Government is progressing, access data relating and even upload information relating to your own work. For more information click [here](/visitors/actions.md).
+
+**Indicators:** Each action, as described above, has at least one indicator of success. This tab  
 
 #### 2. Categories
 
