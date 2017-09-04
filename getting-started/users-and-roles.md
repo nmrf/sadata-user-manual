@@ -19,7 +19,11 @@ Users have to be registered in the following way:
 
 ##### Contributors
 
-##### 
+Contributors are key to the success of data - they are the users who upload information against all of the indicators. A user becomes a contributor when an Administrator allocates one of more indicators to that user. That user then becomes responsible for uploading data at the required time \(set by the Administrator\). The user will receive an email when it is time to upload that information.
+
+_Example Indicator 1:_ _CEDAW Legislative Compliance Review Report. Due October 2018.                                                                               = In October 2018 the assigned User will receive an automated email with a link to upload that required report.  _
+
+Example Indicator 2: 
 
 ##### Managers
 
