@@ -1,10 +1,10 @@
 # ![](/assets/Explore.png)
 
-# Getting Started
+#### Getting Started
 
 The Sadata homepage \(pictured above\) is the gateway to the Sadata application, whether you are a user or if you are just a visitor to the site.
 
-# Visitors v Users
+#### Visitors v Users
 
 Sadata is a tool intended for two different audiences - users and visitors. It is important to know which you are in order to make best use of this manual. The main difference is that 'users' have access to the behind-the-scenes of Sadata where information can be uploaded and changes made. Access is granted by the allocation of a username and password. Users are predominantly civil servants, who are responsible for
 

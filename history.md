@@ -1,4 +1,4 @@
-# History
+#### History
 
 The initial design for [IMPACT OSS](http://impactoss.org/) was produced by human rights consultant [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/) who was subsequently employed by the [Office of the United Nations High Commissioner for Human Rights](http://www.ohchr.org/) to fundraise and project manage the development of the software.
 
