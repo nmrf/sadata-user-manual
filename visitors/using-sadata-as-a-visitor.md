@@ -18,7 +18,9 @@ The headline bar allows you to navigate through the different types of informati
 
 **Actions: **This tab will take you straight to the Implementation Plan view, containing all of the actions the Government and partners are doing or planning to implement human rights and achieve the SDGs in Samoa. You can filter through the list of all recommendations depending on your area of interest, see how the Government is progressing, access data relating and even upload information relating to your own work. For more information click [here](/visitors/actions.md).
 
-**Indicators:** Each action, as described above, has at least one indicator of success. This tab  
+**Indicators:** Each action, as described above, has at least one indicator of success. This tab allows you to explore all indicators depending on your area of interest and is also an area where you can upload your own information relating to these indicators. For more information click [here](/visitors/indicators.md). 
+
+**Recommendations: **
 
 #### 2. Categories
 
