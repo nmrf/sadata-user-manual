@@ -4,13 +4,13 @@ Sadata has been built to ensure there are always a number of different ways to m
 
 Once you click 'Explore' on the Sadata homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within Sadata, tailored to your own needs using our advanced search and filtering systems.
 
-#### ![](/assets/Overview for Visitors.png)
+![](/assets/Overview for Visitors.png)_\*\*All information demonstrated is for illustrative purposes only \*\*_
 
 #### 1. Headline Bar
 
 The headline bar allows you to navigate through the different types of information you can find within Sadata:
 
-**Overview: **The landing page \(pictured\)
+**Overview: **The landing page \(pictured above\)
 
 **Categories: **Categories are the ways in which actions, indicators, recommendations and the SDGs are indexed. The different types of categories are listed down the left hand side of the overview screen. You can look at the categories in more detail by clicking on this tab or on any of the categories in the list on this page. This will allow you to easily explore recommendations and actions within each category. For more details click [here](/visitors/categories.md).
 
@@ -22,13 +22,15 @@ The headline bar allows you to navigate through the different types of informati
 
 This tab allows visitors to browse through all of the recommendations Samoa has received, and to see what the Government is doing to meet its commitments. This is the tab where visitors can view the overall Implementation Plan, assess progress or filter recommendations specific to their own area of interest. For more information click [here](/visitors/recommendations.md).
 
-**SDG Targets: **The Sustainable Development Goal targets are 169 internationally agreed goals to achieve the 17 SDGs. Visitors can use this tab to look through the targets and explore what the Samoan Government is doing to achieve them and examine progress to date. For more information click [here](/visitors/sdg-targets.md). 
+**SDG Targets: **The Sustainable Development Goal targets are 169 internationally agreed goals to achieve the 17 SDGs. Visitors can use this tab to look through the targets and explore what the Samoan Government is doing to achieve them and examine progress to date. For more information click [here](/visitors/sdg-targets.md).
 
 #### 2. Categories
 
-![](/assets/Categories.png)By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each. For more information click [here](/visitors/categories.md). 
+![](/assets/Categories.png)By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each. For more information click [here](/visitors/categories.md).
 
 #### 3. Sadata Overview
+
+The Sadata Overview map is a visual representation of the information cotnained within the application at any moment in time. It allows users to see how
 
 #### 4. Additional Links
 
