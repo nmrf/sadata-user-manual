@@ -12,7 +12,7 @@ Visitors, by comparison, can use Sadata to access all of the information uploade
 
 Now it's time to turn to the chapter that you need!
 
-[I'm a Visitor](https://www.gitbook.com/book/nmrf/sadata/edit#)
+[I'm a Visitor](/visitors/what-can-i-do-as-a-visitor.md)
 
-[I'm a User](https://www.gitbook.com/book/nmrf/sadata/edit#)
+[I'm a User](/users/being-a-sadata-user.md)
 

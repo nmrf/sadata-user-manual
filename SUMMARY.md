@@ -10,11 +10,7 @@
 
 * [Who are you?](getting-started/visitors-and-users.md)
 * Visitors
-* [Users and roles](getting-started/users-and-roles.md)
-  * Registration
-  * Contributor
-  * Manager
-  * Administrator
+* [Users, Roles & Registration](getting-started/users-and-roles.md)
 
 ## Visitors
 
@@ -30,7 +26,7 @@
 
 ## Users
 
-* Being a Sadata User
+* [Being a Sadata User](users/being-a-sadata-user.md)
 * Categories
 * Actions
 * Indicators
