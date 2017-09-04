@@ -1,10 +1,9 @@
 # Summary
 
-## Welcome
+## Introduction
 
-* [Introduction](README.md)
+* [What is Sadata?](README.md)
 * [History](history.md)
-* [The National Implementation Plan](the-national-implementation-plan.md)
 
 ## Getting Started
 
