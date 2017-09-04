@@ -18,7 +18,11 @@ The headline bar allows you to navigate through the different types of informati
 
 **Indicators:** Each action, as described above, has at least one indicator of success. This tab allows you to explore all indicators depending on your area of interest and is also an area where you can upload your own information relating to these indicators. For more information click [here](/visitors/indicators.md).
 
-**Recommendations: **
+**Recommendations: **Samoa is party to a number of human rights treaties \(e.g Convention on the Elimination of All Forms of Discrimination Against Women\). For each treaty it has signed it has a range of legal obligations to implement and regularly receives recommendations from the respective Treaty Bodies on specific areas for improvement. Additionally Samoa undertakes a Universal periodic Review every 4.5 years and has a standing invitation to all United Nations Special Procedures. Out of both of these processes Samoa receives recommendations for how to implement its human rights obligations too. 
+
+This tab allows visitors to browse through all of the recommendations Samoa has received, and to see what the Government is doing to meet its commitments. This is the tab where visitors can view the overall Implementation Plan, assess progress or filter recommendations specific to their own area of interest. For more information click [here](/visitors/recommendations.md). 
+
+**SDG Targets: **
 
 #### 2. Categories
 
