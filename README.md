@@ -14,7 +14,9 @@ To learn more about what Sadata does you can read our common use cases for both 
 
 [User Common Case Uses](/users/common-use-cases.md)
 
-# 
+#### Who is Sadata for?
 
+Sadata was developed at the request of the Government of Samoa to help them track implementation of their human rights obligations and the SDGs. The Government established an inter-Ministerial National Mechanism for Reporting and Follow-Up \(NMRF\) with responsibility for the implementation and reporting of all Samoa's human rights obligations. Sadata is a tool designed to support the work of the NMRF. 
 
+However, Sadata is more than just a database for Government. It is a tool for civil society, international organisations and individuals. It is a platform to ensure greater oversight and accountability of Government and for greater collaboration and partnerships. 
 
