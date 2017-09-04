@@ -9,7 +9,7 @@
 ## Getting Started
 
 * [Who are you?](getting-started/visitors-and-users.md)
-* Visitors
+* [Visitors](getting-started/visitors.md)
 * [Users, Roles & Registration](getting-started/users-and-roles.md)
 
 ## Visitors
@@ -22,7 +22,7 @@
 * [Recommendations](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
 * [Becoming a User](visitors/becoming-a-user.md)
-* Common Use Cases
+* [Common Use Cases](visitors/common-use-cases.md)
 
 ## Users
 
@@ -35,7 +35,7 @@
 * Users
 * Pages
 * User Profile
-* Common Use Cases
+* [Common Use Cases](users/common-use-cases.md)
 
 ## Contact Us
 
