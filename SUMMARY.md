@@ -5,7 +5,16 @@
 * [Introduction](README.md)
 * [History](history.md)
 * The National Implementation Plan
-* [Getting Started](getting-started.md)
+
+## Getting Started
+
+* [Who are you?](getting-started/visitors-and-users.md)
+* Visitors
+* [Users and roles](getting-started/users-and-roles.md)
+  * Registration
+  * Contributor
+  * Manager
+  * Administrator
 
 ## Visitors
 
@@ -17,34 +26,20 @@
 * [Recommendations](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
 * [Becoming a User](visitors/becoming-a-user.md)
+* Common Use Cases
 
-## Users and Roles
+## Users
 
-* [Roles & Registration](users-and-roles/registration.md)
-* Contributor
-* Manager
-* [Administrator](users-and-roles/administrator.md)
-
-## Overview
-
-* [Overview Tab](overview/overview.md)
-
-## Categories
-
-## Actions
-
-## Indicators
-
-## Recommendations
-
-## SDG Targets
-
-## Common Use Cases
-
-* Developing an Implementation Plan from Scratch
-* Adding in new recommendations or actions
-
-## Pages
+* Being a Sadata User
+* Categories
+* Actions
+* Indicators
+* Recommednations
+* SDG Targets
+* Users
+* Pages
+* User Profile
+* Common Use Cases
 
 ## Contact Us
 
