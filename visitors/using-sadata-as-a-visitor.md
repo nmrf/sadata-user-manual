@@ -1,8 +1,8 @@
 #### Using Sadata as a Visitor
 
-Sadata has been built to ensure there are always a number of different ways to meet your needs and give you quick easy access to the information you want. Interested in what Government is doing with regards to both women and persons with indigenous people? No problem? Need to know what actions are planned which address both child rights and SDGs5-10? Easy! Or simply want to know what the Ministry of Women has planned in relation to human rights and the SDGs? It's only a click away.
+Sadata has been built to ensure there are always a number of different ways to meet your needs and give you quick easy access to the information you want. Interested in what Government is doing with regards to both women and persons with indigenous people? No problem? Need to know what actions are planned which address both child rights and SDGs5-10? Easy! Or simply want to know what the Ministry of Women has planned in relation to both human rights and the SDGs? It's only a click away.
 
-The next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within Sadata, tailored to your own needs using our advanced search and filtering systems.
+Once you click 'Explore' on the Sadata homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within Sadata, tailored to your own needs using our advanced search and filtering systems.
 
 #### ![](/assets/Overview for Visitors.png)
 
