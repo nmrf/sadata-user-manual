@@ -24,7 +24,7 @@
 
 ## Users
 
-* [Being a Sadata User](users/being-a-sadata-user.md)
+* [Sadata Administration](users/being-a-sadata-user.md)
 * Categories
 * Actions
 * Indicators
