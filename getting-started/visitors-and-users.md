@@ -12,7 +12,7 @@ Visitors, by comparison, can use Sadata to access all of the information uploade
 
 Now it's time to turn to the chapter that you need!
 
-[I'm a Visitor](/visitors/what-can-i-do-as-a-visitor.md)
+[I'm a Visitor](/getting-started/visitors.md)
 
-[I'm a User](/users/being-a-sadata-user.md)
+[I'm a User](/getting-started/users-and-roles.md)
 

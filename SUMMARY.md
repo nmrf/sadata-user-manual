@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [History](history.md)
-* The National Implementation Plan
+* [The National Implementation Plan](the-national-implementation-plan.md)
 
 ## Getting Started
 
@@ -14,7 +14,6 @@
 
 ## Visitors
 
-* [What can I do as a Visitor?](visitors/what-can-i-do-as-a-visitor.md)
 * [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
 * [Categories](visitors/categories.md)
 * [Actions](visitors/actions.md)

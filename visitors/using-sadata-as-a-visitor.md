@@ -1,6 +1,4 @@
-![](/assets/Explore.png)
-
-As a visitor to the site all you need to do on the Sadata homepage to get going is to hit '[Explore](https://sadata-production.firebaseapp.com)'
+#### Using Sadata as a Visitor
 
 Sadata has been built to ensure there are always a number of different ways to meet your needs and give you quick easy access to the information you want. Interested in what Government is doing with regards to both women and persons with indigenous people? No problem? Need to know what actions are planned which address both child rights and SDGs5-10? Easy! Or simply want to know what the Ministry of Women has planned in relation to human rights and the SDGs? It's only a click away.
 
@@ -18,7 +16,7 @@ The headline bar allows you to navigate through the different types of informati
 
 **Actions: **This tab will take you straight to the Implementation Plan view, containing all of the actions the Government and partners are doing or planning to implement human rights and achieve the SDGs in Samoa. You can filter through the list of all recommendations depending on your area of interest, see how the Government is progressing, access data relating and even upload information relating to your own work. For more information click [here](/visitors/actions.md).
 
-**Indicators:** Each action, as described above, has at least one indicator of success. This tab allows you to explore all indicators depending on your area of interest and is also an area where you can upload your own information relating to these indicators. For more information click [here](/visitors/indicators.md). 
+**Indicators:** Each action, as described above, has at least one indicator of success. This tab allows you to explore all indicators depending on your area of interest and is also an area where you can upload your own information relating to these indicators. For more information click [here](/visitors/indicators.md).
 
 **Recommendations: **
 
