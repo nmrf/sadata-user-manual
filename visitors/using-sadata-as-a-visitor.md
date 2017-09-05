@@ -30,9 +30,15 @@ This tab allows visitors to browse through all of the recommendations Samoa has 
 
 #### 3. Sadata Overview
 
-The Sadata Overview map is a visual representation of the information cotnained within the application at any moment in time. It allows users to see how
+The Sadata Overview map is a visual representation of the information contained within the application at any moment in time. It allows users to see how many human rights recommendations and SDG targets there are at a glance and how the actions being taken to address these form the overall National Implementation Plan. Clicking on any element of the Overview map will take the user to the relevant area of Sadata where they are able to delve into that information further.
 
 #### 4. Additional Links
+
+In the top right-hand corner of all pages on Sadata are the additional links for visitors to access the following:
+
+* Sign-in, if they are a registered user
+* Register, if they wish to become a registered user \(for more information click [here](/getting-started/users-and-roles.md)\)
+* Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
 #### 
 
