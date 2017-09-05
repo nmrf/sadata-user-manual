@@ -83,7 +83,7 @@ Clustering recommendations in this way not only helps make implementation more m
 
 For the user, this category once again allows them to explore potential areas of interest using the categorisation system. The thematic clusters are liable to change. At the launch date of Sadata, the initial draft thematic clusters are:
 
-| Address child labour | Adoption | SDG Alignment of national planning  |
+| Address child labour | Adoption | SDG Alignment of national planning |
 | :--- | :--- | :--- |
 | Bring all places of detention into line  with the Mandela Rules | CRPD implementation | Climate change, disaster management and human rights |
 | **Establishment of a National                Mechanism for Reporting and Follow-Up** | **Family and domestic violence** | **Gender equality and empowerment of women** |
@@ -91,8 +91,35 @@ For the user, this category once again allows them to explore potential areas of
 | **Improved education** | **Improved health and healthcare** | **Improved water and sanitation** |
 | Increased participation of women in   public life and decision making | law and justice sector legislative          review and reform | Mental health |
 | **National Human Rights institution      establishment and strengthening** | **Protect and promote the rights of       children and youth** | **Protection of indigenous peoples and protection of land rights** |
-| Raise human rights awareness and     increase human rights education | Ratify and implement outstanding        human rights treaties | Ratify the 3 optional protocols to the  CRC |
+| Raise human rights awareness and      increase human rights education | Ratify and implement outstanding        human rights treaties | Ratify the 3 optional protocols to the  CRC |
 | **Sexual and reproductive health rights** | **Sexual orientation and gender identity** | **Submission of overdue reports to the Treaty Bodies** |
+
+---
+
+**Organisations: **The organisations category lists the Government agencies \(and others\) carrying out actions contained within the national Implementation Plan. Visitors can use this category to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the Sadata administrator using the 'Contact' link on the website to discuss your involvement. 
+
+Organisations:
+
+| Civil Society Support Program | Ministry of Commerce. Industry and   Labour | Ministry of Education, Sport and         Culture |
+| :--- | :--- | :--- |
+| Ministry of Foreign Affairs and Trade | Ministry of Health | Ministry of Police |
+| **Ministry of Justice and Courts            Administration** | **Ministry of Prisons and Corrections   Services** | **Ministry of Women, Community and   Social Development** |
+| National Human Rights Institution | Office of the Attorney General | Public Service Commission |
+| **Samoa Bureau of Statistics** | **Samoa Chamber of Commerce and      Industry** | **Office of the High Commissioner for  Human Rights** |
+
+---
+
+**Sustainable Development Goals: **In addition to being a tool which helps track and coordinate implementation of Samoa's human rights obligations, Sadata is also does the same in relation to the SDGs. Visitors can therefore click on this category to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. Sadata helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency. 
+
+The SDGs: 
+
+| No poverty | Zero hunger | Good health and well-being |
+| :--- | :--- | :--- |
+| Quality education | Gender equality | Clean water and sanitation |
+| **Affordable and clean energy** | **Decent work and economic growth** | **Industry, innovation and infrastructure** |
+| Reduced inequalities | Sustainable cities and communities | Responsible consumption and             production |
+| **Climate action** | **Life below water** | **Life on land** |
+| Peace, justice and strong institutions | Partnerships for the goals |  |
 
 
 
