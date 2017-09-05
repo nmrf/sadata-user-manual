@@ -22,9 +22,7 @@ Human Rights Bodies sub-categories:
 | **Committee on Enforced                        Disappearance** | **Committee on the Rights of the Child** | **Committee on the Elimination of         Racial Discrimination** |
 | Sub-committee on the Prevention of     Torture | Universal Periodic Review |  |
 
-
-
-**Cycles: **Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' category allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category. 
+**Cycles: **Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' category allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category.
 
 The National Implementation Plan was initially developed using the recommendations received from the two most recent reviews for Samoa. Therefore there are only initially two Cycles sub-categories \(but this will grow over time\):
 
@@ -34,5 +32,24 @@ The National Implementation Plan was initially developed using the recommendatio
 
 
 
-**Human Rights Issues: **
+**Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work. 
+
+Human Rights Issues sub-categories: 
+
+| Scope of International Obligations | Cooperation with human rights           mechanisms and institutions | Inter-State cooperation and                 development assistance |
+| :--- | :--- | :--- |
+| Legal, institutional and policy                framework | Human rights education, training and  awareness raising | Context, statistics, budget, civil            society |
+| **International criminal and                    humanitarian law** | **Right to self-determination** | **Equality and non-discrimination** |
+| Right to development | Right to a remedy | Business and human rights |
+| **Human rights and environmental         issues** | **Human rights & counter-terrorism** | **Human rights & use of mercenaries** |
+| Civil & political rights - general            measures of implementation | Right to physical and moral integrity | Liberty and security of the person |
+| **Fundamental freedoms** | **Administration of justice** | **Rights related to name, identity,          nationality** |
+| Right to participation in public affairs and right to vote | Rights related to marriage and family | Economic, social and cultural rights -  general measures of implementation |
+| **Right to education** | **Labour rights** | **Right to health** |
+| Right to an adequate standard of living | Rights to protection of property;          financial credit | Cultural rights |
+| **Women** | **Children** | **Persons with disabilities** |
+| Members of minorities | Indigenous peoples | Migrants |
+| **Refugees & asylum seekers** | **Internally displaced persons** | **Human rights defenders** |
+
+
 
