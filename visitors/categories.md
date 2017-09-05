@@ -32,9 +32,9 @@ The National Implementation Plan was initially developed using the recommendatio
 
 
 
-**Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work. 
+**Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
-Human Rights Issues sub-categories: 
+Human Rights Issues sub-categories:
 
 | Scope of International Obligations | Cooperation with human rights           mechanisms and institutions | Inter-State cooperation and                 development assistance |
 | :--- | :--- | :--- |
@@ -50,6 +50,26 @@ Human Rights Issues sub-categories:
 | **Women** | **Children** | **Persons with disabilities** |
 | Members of minorities | Indigenous peoples | Migrants |
 | **Refugees & asylum seekers** | **Internally displaced persons** | **Human rights defenders** |
+
+
+
+**Affected persons: **In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system. 
+
+Affected persons sub-categories:
+
+| Children | Children in street situations | Disappeared persons |
+| :--- | :--- | :--- |
+| Educational staff | General | Girls |
+| Human rights defenders | Indigenous peoples | Internally displaced persons |
+| Judges, lawyers and prosecutors | Law enforcement/police officials | Lesbian, gay, bisexual and transgender and intersex persons \(LGBTI\) |
+| Media | Medical staff | Mercenaries |
+| Migrants | Military staff | Minorities/racial, ethnic, linguistic, religious or descent-based groups |
+| Non-citizens | Older persons | Persons affected by armed conflict |
+| Persons deprived of their liberty | Persons living in poverty | Persons living in rural areas |
+| Persons living with HIV/AIDS | Persons with disabilities | Prison officials |
+| Private security | Public officials | Refugees & asylum seekers |
+| Rural women | Social workers | Stateless persons |
+| Vulnerable persons/groups | Women | Youth |
 
 
 
