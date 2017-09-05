@@ -30,8 +30,6 @@ The National Implementation Plan was initially developed using the recommendatio
 | :--- | :--- | :--- |
 
 
-
-
 **Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
 Human Rights Issues sub-categories:
@@ -53,23 +51,40 @@ Human Rights Issues sub-categories:
 
 
 
-**Affected persons: **In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system. 
+**Affected persons: **In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system.
 
 Affected persons sub-categories:
 
 | Children | Children in street situations | Disappeared persons |
 | :--- | :--- | :--- |
 | Educational staff | General | Girls |
-| Human rights defenders | Indigenous peoples | Internally displaced persons |
+| **Human rights defenders** | **Indigenous peoples** | **Internally displaced persons** |
 | Judges, lawyers and prosecutors | Law enforcement/police officials | Lesbian, gay, bisexual and transgender and intersex persons \(LGBTI\) |
-| Media | Medical staff | Mercenaries |
-| Migrants | Military staff | Minorities/racial, ethnic, linguistic, religious or descent-based groups |
-| Non-citizens | Older persons | Persons affected by armed conflict |
+| **Media** | **Medical staff** | **Mercenaries** |
+| Migrants | Military staff | Minorities/racial, ethnic, linguistic,       religious or descent-based groups |
+| **Non-citizens** | **Older persons** | **Persons affected by armed conflict** |
 | Persons deprived of their liberty | Persons living in poverty | Persons living in rural areas |
-| Persons living with HIV/AIDS | Persons with disabilities | Prison officials |
+| **Persons living with HIV/AIDS** | **Persons with disabilities** | **Prison officials** |
 | Private security | Public officials | Refugees & asylum seekers |
-| Rural women | Social workers | Stateless persons |
+| **Rural women** | **Social workers** | **Stateless persons** |
 | Vulnerable persons/groups | Women | Youth |
 
 
+
+**Thematic clusters: **Samoa receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can essentially be the same. This can make the management of those recommendations more difficult than it needs to be. Sadata allows the Government to cluster recommendations into general headings to help alleviate this issue. 
+
+Clustering recommendations in this way not only helps make implementation more manageable but it also helps to identify crossover and eliminate duplication of work and reporting. The NMRF and Sadata work hand in hand to achieve this and the thematic clusters are an important part of that. The National Implementation Plan is a series of thematic clusters \(which each contain one of more recommendations\) for each of which the Government has identified a number of actions and indicators. As more recommendations are received by Samoa these can either be added to existing thematic clusters or a new cluster created. 
+
+For the user, this category once again allows them to explore potential areas of interest using the categorisation system. The thematic clusters are liable to change. At the launch date of Sadata, the initial draft thematic clusters are:
+
+|  |  |  |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
