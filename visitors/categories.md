@@ -6,6 +6,8 @@
 
 In the example above, the user can easily see a number of categories that the recommendation falls within. Hovering the cursor over any of the tags will bring up the full title, in this case 'CRC' is shown to be 'Convention on the Rights of the Child'. Clicking on any of the tags will take the user to a page specifically for that category, and display all recommendations and actions associated with it.
 
+---
+
 #### The Categories in Detail
 
 **Human Rights Bodies: **This category covers all human rights bodies or mechanisms that can make recommendations to a State on how to implement its human rights obligations. There are three different types which may fall under this category:
@@ -22,6 +24,8 @@ Human Rights Bodies sub-categories:
 | **Committee on Enforced                        Disappearance** | **Committee on the Rights of the Child** | **Committee on the Elimination of         Racial Discrimination** |
 | Sub-committee on the Prevention of     Torture | Universal Periodic Review |  |
 
+---
+
 **Cycles: **Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' category allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category.
 
 The National Implementation Plan was initially developed using the recommendations received from the two most recent reviews for Samoa. Therefore there are only initially two Cycles sub-categories \(but this will grow over time\):
@@ -29,6 +33,8 @@ The National Implementation Plan was initially developed using the recommendatio
 | CRC cycle 2-4 | UPR 2nd cycle |  |
 | :--- | :--- | :--- |
 
+
+---
 
 **Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
@@ -49,7 +55,7 @@ Human Rights Issues sub-categories:
 | Members of minorities | Indigenous peoples | Migrants |
 | **Refugees & asylum seekers** | **Internally displaced persons** | **Human rights defenders** |
 
-
+---
 
 **Affected persons: **In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system.
 
@@ -69,22 +75,24 @@ Affected persons sub-categories:
 | **Rural women** | **Social workers** | **Stateless persons** |
 | Vulnerable persons/groups | Women | Youth |
 
+---
 
+**Thematic clusters: **Samoa receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can essentially be the same. This can make the management of those recommendations more difficult than it needs to be. Sadata allows the Government to cluster recommendations into general headings to help alleviate this issue.
 
-**Thematic clusters: **Samoa receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can essentially be the same. This can make the management of those recommendations more difficult than it needs to be. Sadata allows the Government to cluster recommendations into general headings to help alleviate this issue. 
-
-Clustering recommendations in this way not only helps make implementation more manageable but it also helps to identify crossover and eliminate duplication of work and reporting. The NMRF and Sadata work hand in hand to achieve this and the thematic clusters are an important part of that. The National Implementation Plan is a series of thematic clusters \(which each contain one of more recommendations\) for each of which the Government has identified a number of actions and indicators. As more recommendations are received by Samoa these can either be added to existing thematic clusters or a new cluster created. 
+Clustering recommendations in this way not only helps make implementation more manageable but it also helps to identify crossover and eliminate duplication of work and reporting. The NMRF and Sadata work hand in hand to achieve this and the thematic clusters are an important part of that. The National Implementation Plan is a series of thematic clusters \(which each contain one of more recommendations\) for each of which the Government has identified a number of actions and indicators. As more recommendations are received by Samoa these can either be added to existing thematic clusters or a new cluster created.
 
 For the user, this category once again allows them to explore potential areas of interest using the categorisation system. The thematic clusters are liable to change. At the launch date of Sadata, the initial draft thematic clusters are:
 
-|  |  |  |
+| Address child labour | Adoption | SDG Alignment of national planning  |
 | :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Bring all places of detention into line  with the Mandela Rules | CRPD implementation | Climate change, disaster management and human rights |
+| **Establishment of a National                Mechanism for Reporting and Follow-Up** | **Family and domestic violence** | **Gender equality and empowerment of women** |
+| Harmonise laws with CRC | Human rights training for law               enforcement officials | Identify and address human trafficking |
+| **Improved education** | **Improved health and healthcare** | **Improved water and sanitation** |
+| Increased participation of women in   public life and decision making | law and justice sector legislative          review and reform | Mental health |
+| **National Human Rights institution      establishment and strengthening** | **Protect and promote the rights of       children and youth** | **Protection of indigenous peoples and protection of land rights** |
+| Raise human rights awareness and     increase human rights education | Ratify and implement outstanding        human rights treaties | Ratify the 3 optional protocols to the  CRC |
+| **Sexual and reproductive health rights** | **Sexual orientation and gender identity** | **Submission of overdue reports to the Treaty Bodies** |
+
+
 
