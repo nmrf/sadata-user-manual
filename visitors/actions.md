@@ -17,12 +17,24 @@ When you first arrive on this page, the default view is to group the actions by 
 5. Denotes the number of indicators associated with that action. The user can expand this box by clicking on it. 
 6. The number of reports/pieces of data uploaded to Sadata related to that action. The user can expand this box by clicking on it. 
 
-##### Expanding the Implementation Plan - 'Implementation View' 
+##### Expanding the Implementation Plan - 'Implementation View'
 
 The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst "Implementation View' gives the user a more detailed view and with direct access to any associated reports/data/  The user can toggle between the views in two ways:
 
 1. By clicking on 'Implementation View' towards the top right-hand corner of the screen \(see image at top of this page\). Once selected the user can revert by clicking on 'List View' in the same place. 
-2. By 
+2. By clicking to expand the boxes in list view as described above. 
 
+The difference between the two views is illustrated below.
 
+List View:![](/assets/List View.png)
+
+Implementation View![](/assets/Imp View.png)
+
+#### Grouping Actions
+
+The default view of all Actions contained within Sadata is first by Human Rights Issue and then by Thematic Cluster. The user can change this as they wish to suit their needs. 
+
+![](/assets/Grouping.png)
+
+By clicking on the cross next to the grouping or sub-grouping category selected the user can remove that category and select their preferred category from a drop down list. Alternatively, the user can remove both grouping categories and just have an un-grouped list of all the recommendations contained within Sadata. 
 
