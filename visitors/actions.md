@@ -4,6 +4,8 @@ The 'Actions' page is the heart of Sadata. It contains all of the actions the Go
 
 When you first arrive on this page, the default view is to group the actions by both human rights issue and by thematic cluster. This is the National Implementation Plan.![](/assets/Implementation Plan 1.png)
 
+---
+
 #### Page Elements and How to use Them
 
 ##### The Implementation Plan
@@ -30,11 +32,25 @@ List View:![](/assets/List View.png)
 
 Implementation View![](/assets/Imp View.png)
 
+---
+
 #### Grouping Actions
 
-The default view of all Actions contained within Sadata is first by Human Rights Issue and then by Thematic Cluster. The user can change this as they wish to suit their needs. 
+The default view of all Actions contained within Sadata is first by Human Rights Issue and then by Thematic Cluster. The user can change this as they wish to suit their needs.
 
 ![](/assets/Grouping.png)
 
-By clicking on the cross next to the grouping or sub-grouping category selected the user can remove that category and select their preferred category from a drop down list. Alternatively, the user can remove both grouping categories and just have an un-grouped list of all the recommendations contained within Sadata. 
+By clicking on the cross next to the grouping or sub-grouping category selected the user can remove that category and select their preferred category from a drop down list. Alternatively, the user can remove both grouping categories and just have an un-grouped list of all the recommendations contained within Sadata.
+
+---
+
+#### Filtering
+
+For a user there may be an overwhelming number of actions, nor may they all be of interest. Sadata therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest. 
+
+##### By Reference or Title
+
+Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:![](/assets/Keyword filter.png)** **_\*\* Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu \*\*_
+
+
 
