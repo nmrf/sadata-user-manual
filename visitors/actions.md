@@ -8,5 +8,12 @@ When you first arrive on this page, the default view is to group the actions by 
 
 ##### The Implementation Plan
 
-![](/assets/Imp Plan Elements.png)
+![](/assets/Imp Plan Elements1.png)
+
+1. The 'Human Rights Issue', which the thematic cluster and actions fall within. Users can click on the text to see all recommendations associated with this issue. 
+2. The 'Human Rights Cluster', which the actions fall within. Users can click on the cluster text to see all of the actions and recommendations associated with that cluster. 
+3. The Actions themselves. Users can click on any of the actions to see all of the recommendations and SDGs it is helping to address, the target date, which clusters it falls within the the organisations responsible for carrying out the action. 
+4. The first two boxes are the categories connected to that action. In this case the 'Human Rights Training cluster and the Office of the Attorney general. Clicking on either of these tags will take the user to see all actions associated with that category. 
+
+
 

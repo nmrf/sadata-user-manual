@@ -4,7 +4,7 @@
 
 * [What is Sadata?](README.md)
 * [History](history.md)
-* [Glossary](glossary.md)
+* [Glossary & Icons](glossary.md)
 
 ## Getting Started
 
