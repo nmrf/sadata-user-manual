@@ -26,8 +26,8 @@
 ## Users
 
 * [Sadata Administration](users/being-a-sadata-user.md)
-* Categories
-* Actions
+* [Categories](users/categories.md)
+* [Actions](users/actions.md)
 * Indicators
 * Recommednations
 * SDG Targets
