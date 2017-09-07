@@ -10,6 +10,8 @@ In the example above, the user can easily see a number of categories that the re
 
 #### The Categories in Detail
 
+![](/assets/1_humanRightsBody.png)
+
 **Human Rights Bodies: **This category covers all human rights bodies or mechanisms that can make recommendations to a State on how to implement its human rights obligations. There are three different types which may fall under this category:
 
 * Treaty body committees: For each international human rights convention \(e.g. Convention on the Rights of the Child\) there is an accompanying Treaty Body Committee. This Committee comprises independent experts who carry out regular reviews of a country's record relating to its area of expertise. The body makes recommendations and it is these recommendations which are entered into Satada and are addressed through the National Implementation Plan. Samoa is not yet party to all of the core human rights treaties so for the time being there will be no recommendations falling within some of the human rights bodies within this category. 
@@ -26,6 +28,8 @@ Human Rights Bodies sub-categories:
 
 ---
 
+![](/assets/2_UNsession.png)
+
 **Cycles: **Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' category allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category.
 
 The National Implementation Plan was initially developed using the recommendations received from the two most recent reviews for Samoa. Therefore there are only initially two Cycles sub-categories \(but this will grow over time\):
@@ -35,6 +39,8 @@ The National Implementation Plan was initially developed using the recommendatio
 
 
 ---
+
+
 
 **Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
@@ -96,7 +102,7 @@ For the user, this category once again allows them to explore potential areas of
 
 ---
 
-**Organisations: **The organisations category lists the Government agencies \(and others\) carrying out actions contained within the national Implementation Plan. Visitors can use this category to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the Sadata administrator using the 'Contact' link on the website to discuss your involvement. 
+**Organisations: **The organisations category lists the Government agencies \(and others\) carrying out actions contained within the national Implementation Plan. Visitors can use this category to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the Sadata administrator using the 'Contact' link on the website to discuss your involvement.
 
 Organisations:
 
@@ -109,9 +115,9 @@ Organisations:
 
 ---
 
-**Sustainable Development Goals: **In addition to being a tool which helps track and coordinate implementation of Samoa's human rights obligations, Sadata is also does the same in relation to the SDGs. Visitors can therefore click on this category to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. Sadata helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency. 
+**Sustainable Development Goals: **In addition to being a tool which helps track and coordinate implementation of Samoa's human rights obligations, Sadata is also does the same in relation to the SDGs. Visitors can therefore click on this category to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. Sadata helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
 
-The SDGs: 
+The SDGs:
 
 | No poverty | Zero hunger | Good health and well-being |
 | :--- | :--- | :--- |

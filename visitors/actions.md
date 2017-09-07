@@ -21,7 +21,7 @@ When you first arrive on this page, the default view is to group the actions by 
 
 ##### Expanding the Implementation Plan - 'Implementation View'
 
-The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst "Implementation View' gives the user a more detailed view and with direct access to any associated reports/data/  The user can toggle between the views in two ways:
+The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst "Implementation View' gives the user a more detailed view and with direct access to any associated indicators and reports/data.  The user can toggle between the views in two ways:
 
 1. By clicking on 'Implementation View' towards the top right-hand corner of the screen \(see image at top of this page\). Once selected the user can revert by clicking on 'List View' in the same place. 
 2. By clicking to expand the boxes in list view as described above. 
@@ -54,11 +54,9 @@ Each Action has a reference number and title describing the action. Users can en
 
 ##### By Category, connected category, connection or attribute
 
-The filter list is one of Sadata's most powerful tools for users, allowing them to filter actions \(and also indicators and recommendations, as discussed in chapters below\) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section. 
+The filter list is one of Sadata's most powerful tools for users, allowing them to filter actions \(and also indicators and recommendations, as discussed in chapters below\) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section.
 
-Clicking on any of the headings in the filter list will bring out the sub-categories of that heading:![](/assets/Filter list.png)The pop out menu shows the user all of the sub-categories and the number beside each one shows how many actions each sub-category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. \(Please note that this is test data\). 
+Clicking on any of the headings in the filter list will bring out the sub-categories of that heading:![](/assets/Filter list.png)The pop out menu shows the user all of the sub-categories and the number beside each one shows how many actions each sub-category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. \(Please note that this is test data\).
 
-The user can simply select which organisation they are interested in and the filter will be applied. For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:![](/assets/AGO Actions.png)The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above. 
-
-
+The user can simply select which organisation they are interested in and the filter will be applied. For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:![](/assets/AGO Actions.png)The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
 
