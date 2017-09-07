@@ -46,11 +46,19 @@ By clicking on the cross next to the grouping or sub-grouping category selected 
 
 #### Filtering
 
-For a user there may be an overwhelming number of actions, nor may they all be of interest. Sadata therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest. 
+For a user there may be an overwhelming number of actions, nor may they all be of interest. Sadata therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest.
 
 ##### By Reference or Title
 
 Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:![](/assets/Keyword filter.png)** **_\*\* Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu \*\*_
+
+##### By Category, connected category, connection or attribute
+
+The filter list is one of Sadata's most powerful tools for users, allowing them to filter actions \(and also indicators and recommendations, as discussed in chapters below\) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section. 
+
+Clicking on any of the headings in the filter list will bring out the sub-categories of that heading:![](/assets/Filter list.png)The pop out menu shows the user all of the sub-categories and the number beside each one shows how many actions each sub-category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. \(Please note that this is test data\). 
+
+The user can simply select which organisation they are interested in and the filter will be applied. For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:![](/assets/AGO Actions.png)The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above. 
 
 
 
