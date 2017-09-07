@@ -14,7 +14,7 @@ By default recommendations are grouped by human rights body and then cycle, show
 
 #### Filtering
 
-Filtering of recommendations works in the same way as filtering actions and indicators. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side. This includes being able to filter by Action or by Government response \(UPR recommendations can be either accepted or 'noted' - all other recommendations received are inherently accepted by the Government by way of being party to that Treaty. 
+Filtering of recommendations works in the same way as filtering actions and indicators. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side. This includes being able to filter by Action or by Government response \(UPR recommendations can be either accepted or 'noted' - all other recommendations received are inherently accepted by the Government by way of being party to that Treaty.
 
 For more details on how to filter read the [Actions page](/visitors/actions.md).
 
