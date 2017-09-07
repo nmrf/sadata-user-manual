@@ -40,8 +40,6 @@ The National Implementation Plan was initially developed using the recommendatio
 
 ---
 
-
-
 **Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
 Human Rights Issues sub-categories:
