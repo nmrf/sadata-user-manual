@@ -29,7 +29,7 @@
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
 * Indicators
-* Recommednations
+* Recommendations
 * SDG Targets
 * Users
 * Pages
