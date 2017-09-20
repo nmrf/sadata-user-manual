@@ -14,6 +14,14 @@ Cycle
 
 Categories
 
+Connected category
+
+Connection
+
+Attribute
+
+Status
+
 National Implementation Plan
 
 Recommendations

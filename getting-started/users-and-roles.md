@@ -41,15 +41,12 @@ Administrators of Sadata play a critical role in the establishment and maintenan
 
 * Assigning contributors and managers to indicators and human rights bodies respectively
 * Adding newly received recommendations into the database and assigning them to clusters, as directed by the NMRF
+* maintaining and updating the category lists
 * Adding new actions and indicators as required
 * Maintaining content pages
 * Reporting bugs 
 
-The role of Administrator is the most wide-ranging of all the roles. This manual goes into detail in all of the areas of responsibility of Administrators and how to undertake all of the functions in Chapter 4 - 'Users'. 
+The role of Administrator is the most wide-ranging of all the roles. This manual goes into detail in all of the areas of responsibility of Administrators and how to undertake all of the functions in Chapter 4 - 'Users'.
 
-To go to Chapter 5, [click here](/users/being-a-sadata-user.md). 
-
-
-
-
+To go to Chapter 5, [click here](/users/being-a-sadata-user.md).
 
