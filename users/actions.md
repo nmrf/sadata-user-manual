@@ -59,8 +59,20 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 Batch editing of actions \(or other entities within Sadata such as recommendations, indicators or SDG targets\) is a powerful feature that allows Administrators to efficiently edit actions in a variety of ways including:
 
 * By setting the status of multiple actions from draft to public
-* By linking multiple actions with any category \(i.e. a thematic cluster, human rights issue, etc.\) 
-* 
+* By linking multiple actions with any category \(i.e. a thematic cluster or organisation\) 
+* By linking multiple actions with any connected category \(i.e. human rights body, cycle, issue, affected persons or SDG\)
+* By linking multiple actions with any connection \(i.e. Indicators, recommendations or SDG targets\)
+
+Batch editing is a simple process - first the Administrator needs to identify and select the actions they wish to batch edit and then secondly they update the selected actions as they wish.
+
+1\) The Administrator can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [here](/visitors/actions.md). Once the relevant actions have been identified the Administrator can either:
+
+* Select individual actions using the checkbox next to each action \(see \#1 on image below\)
+* Select all actions on the page displayed \(see \#1 on image below\)
+* Select all actions returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Selecting actions.png)
+
+2\) 
+
 ---
 
 
