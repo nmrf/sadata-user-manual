@@ -12,6 +12,8 @@ Sadata Administrators are the Users who maintain the core information within the
 
 The role of Administrators is therefore of critical importance to the overall success of Sadata and more complex than other roles. This 'User' section of the manual is specifically intended to guide Administrators in the exercise of their role, taking each area of the application one at a time, and providing a number of common use cases.
 
+The way in which Administrators carry out their role is by either 'Adding' new content or 'Editing' existing content. 
+
 #### Adding Content
 
 One of the roles of administrators are is adding the base content to Sadata, such as:
