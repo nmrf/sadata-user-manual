@@ -44,7 +44,9 @@ For a user there may be an overwhelming number of actions, nor may they all be o
 
 ##### By Reference or Title
 
-Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:![](/assets/Keyword filter.png)** **_\*\* Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu \*\*_
+Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:
+
+![](/assets/Keyword filter.png)** **_\*\* Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu \*\*_
 
 ##### By Category, connected category, connection or attribute
 
