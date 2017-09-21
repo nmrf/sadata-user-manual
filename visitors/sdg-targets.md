@@ -8,17 +8,17 @@ Visitors to Sadata can therefore explore everything the Government is doing to a
 
 The 'SDG Targets' page works similarly to the 'Actions', 'Indicators' and 'Recommendations' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area of Sadata.
 
----
-
 #### Grouping Recommendations
 
 By default SDG targets are grouped by specific SDG, showing users the targets contained for each individual SDG. If a user would like to group the SDG trggets differently simply click the cross next to 'SDGs'' \(see image above\) and select a different grouping from the drop down menu. For more instructions read the [Actions page](/visitors/actions.md).
 
----
-
 #### Filtering
 
-Filtering of SDG works in the same way as filtering actions, indicators and recommendations. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side. 
+Filtering of SDG works in the same way as filtering actions, indicators and recommendations. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side.
 
 For more details on how to filter read the [Actions page](/visitors/actions.md).
+
+---
+
+
 

@@ -4,17 +4,17 @@ Recommendations are the catalyst for the actions and indicators already consider
 
 The 'Recommendations' page works similarly to both the 'Actions' and 'Indicators' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area of Sadata.
 
----
-
 #### Grouping Recommendations
 
 By default recommendations are grouped by human rights body and then cycle, showing users the groups of recommendations that were received at any one time. If a user would like to group the recommendations differently simply click the cross next to 'Human Rights Body' or 'Cycle' \(see image above\) and select a different grouping from the drop down menu. For more instructions read the [Actions page](/visitors/actions.md).
-
----
 
 #### Filtering
 
 Filtering of recommendations works in the same way as filtering actions and indicators. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side. This includes being able to filter by Action or by Government response \(UPR recommendations can be either accepted or 'noted' - all other recommendations received are inherently accepted by the Government by way of being party to that Treaty.
 
 For more details on how to filter read the [Actions page](/visitors/actions.md).
+
+---
+
+
 

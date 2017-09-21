@@ -34,7 +34,9 @@ As soon as an Administrator is logged in this view changes to: ![](/assets/Filte
 
 \(1\) The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
 
-\(2\) Options to select the page of results or individual results now also appear. 
+\(2\) Options to select the page of results or individual results now also appear.
 
-As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'![](/assets/Filter 3.png)Once the Administrator is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk. The full details of what is possible for each type of entry is discussed in the sections below. 
+As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'![](/assets/Filter 3.png)Once the Administrator is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk. The full details of what is possible for each type of entry is discussed in the sections below.
+
+---
 

@@ -50,3 +50,5 @@ The role of Administrator is the most wide-ranging of all the roles. This manual
 
 To go to Chapter 5, [click here](/users/being-a-sadata-user.md).
 
+---
+

@@ -4,8 +4,6 @@ The 'Actions' page is the heart of Sadata. It contains all of the actions the Go
 
 When you first arrive on this page, the default view is to group the actions by both human rights issue and by thematic cluster. This is the National Implementation Plan.![](/assets/Implementation Plan 1.png)
 
----
-
 #### Page Elements and How to use Them
 
 ##### The Implementation Plan
@@ -32,8 +30,6 @@ List View:![](/assets/List View.png)
 
 Implementation View![](/assets/Imp View.png)
 
----
-
 #### Grouping Actions
 
 The default view of all Actions contained within Sadata is first by Human Rights Issue and then by Thematic Cluster. The user can change this as they wish to suit their needs.
@@ -41,8 +37,6 @@ The default view of all Actions contained within Sadata is first by Human Rights
 ![](/assets/Grouping.png)
 
 By clicking on the cross next to the grouping or sub-grouping category selected the user can remove that category and select their preferred category from a drop down list. Alternatively, the user can remove both grouping categories and just have an un-grouped list of all the recommendations contained within Sadata.
-
----
 
 #### Filtering
 
@@ -58,7 +52,11 @@ The filter list is one of Sadata's most powerful tools for users, allowing them 
 
 Clicking on any of the headings in the filter list will bring out the sub-categories of that heading:![](/assets/Filter list.png)The pop out menu shows the user all of the sub-categories and the number beside each one shows how many actions each sub-category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. \(Please note that this is test data\).
 
-The user can simply select which organisation they are interested in and the filter will be applied. If the list of options is long and the user is unable to see the one they would like, there is a search box within the filter pop-out. 
+The user can simply select which organisation they are interested in and the filter will be applied. If the list of options is long and the user is unable to see the one they would like, there is a search box within the filter pop-out.
 
 For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:![](/assets/AGO Actions.png)The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
+
+---
+
+
 

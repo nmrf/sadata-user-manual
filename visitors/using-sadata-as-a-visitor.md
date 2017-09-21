@@ -40,7 +40,7 @@ In the top right-hand corner of all pages on Sadata are the additional links for
 * Register, if they wish to become a registered user \(for more information click [here](/getting-started/users-and-roles.md)\)
 * Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
-#### 
+---
 
 
 
