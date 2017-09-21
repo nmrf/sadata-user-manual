@@ -27,7 +27,7 @@ The image above demonstrates what actions, indicators and look like in the Sadat
 
 Should they fail to do so then they will continue to receive email reminders until the data has been uploaded. This is the first safeguard against non-entry built into Sadata.  Data can be uploaded in any file type format.
 
-##### Managers
+##### Category Managers
 
 There may be many contributors to Sadata but far less Managers, who play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.
 
