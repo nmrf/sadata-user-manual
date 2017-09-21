@@ -1,6 +1,4 @@
-#### User Profiles
-
-
+### 4.9 User Profiles
 
 ---
 

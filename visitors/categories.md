@@ -1,3 +1,5 @@
+### 3.2 Categories
+
 #### Exploring Categories
 
 ![](/assets/Categories.png)The recommendations and actions that make up the National Implementation Plan are categorised in a number of different ways to allow visitors to Sadata to explore the information based on their specific areas of interest, or to arrange the information in a way which meets their needs. Each category has it's own unique 'tag' which is attached to recommendations, actions and indicators for users to easily identify how it is identified.
@@ -24,8 +26,6 @@ Human Rights Bodies sub-categories:
 | **Committee on Enforced                        Disappearance** | **Committee on the Rights of the Child** | **Committee on the Elimination of         Racial Discrimination** |
 | Sub-committee on the Prevention of     Torture | Universal Periodic Review |  |
 
-
-
 ![](/assets/2_UNsession.png)
 
 **Cycles: **Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' category allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category.
@@ -34,8 +34,6 @@ The National Implementation Plan was initially developed using the recommendatio
 
 | CRC cycle 2-4 | UPR 2nd cycle |  |
 | :--- | :--- | :--- |
-
-
 
 
 **Human Rights Issues: **The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' category in Sadata. It helps users search by particular area of interest and see what the Government is doing in that field of work.
@@ -57,10 +55,6 @@ Human Rights Issues sub-categories:
 | Members of minorities | Indigenous peoples | Migrants |
 | **Refugees & asylum seekers** | **Internally displaced persons** | **Human rights defenders** |
 
-
-
-
-
 **Affected persons: **In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system.
 
 Affected persons sub-categories:
@@ -79,10 +73,6 @@ Affected persons sub-categories:
 | **Rural women** | **Social workers** | **Stateless persons** |
 | Vulnerable persons/groups | Women | Youth |
 
-
-
-
-
 **Thematic clusters: **Samoa receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can essentially be the same. This can make the management of those recommendations more difficult than it needs to be. Sadata allows the Government to cluster recommendations into general headings to help alleviate this issue.
 
 Clustering recommendations in this way not only helps make implementation more manageable but it also helps to identify crossover and eliminate duplication of work and reporting. The NMRF and Sadata work hand in hand to achieve this and the thematic clusters are an important part of that. The National Implementation Plan is a series of thematic clusters \(which each contain one of more recommendations\) for each of which the Government has identified a number of actions and indicators. As more recommendations are received by Samoa these can either be added to existing thematic clusters or a new cluster created.
@@ -100,10 +90,6 @@ For the user, this category once again allows them to explore potential areas of
 | Raise human rights awareness and      increase human rights education | Ratify and implement outstanding        human rights treaties | Ratify the 3 optional protocols to the  CRC |
 | **Sexual and reproductive health rights** | **Sexual orientation and gender identity** | **Submission of overdue reports to the Treaty Bodies** |
 
-
-
-
-
 **Organisations: **The organisations category lists the Government agencies \(and others\) carrying out actions contained within the national Implementation Plan. Visitors can use this category to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the Sadata administrator using the 'Contact' link on the website to discuss your involvement.
 
 Organisations:
@@ -114,10 +100,6 @@ Organisations:
 | **Ministry of Justice and Courts            Administration** | **Ministry of Prisons and Corrections   Services** | **Ministry of Women, Community and   Social Development** |
 | National Human Rights Institution | Office of the Attorney General | Public Service Commission |
 | **Samoa Bureau of Statistics** | **Samoa Chamber of Commerce and      Industry** | **Office of the High Commissioner for  Human Rights** |
-
-
-
-
 
 **Sustainable Development Goals: **In addition to being a tool which helps track and coordinate implementation of Samoa's human rights obligations, Sadata is also does the same in relation to the SDGs. Visitors can therefore click on this category to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. Sadata helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
 

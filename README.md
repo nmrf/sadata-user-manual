@@ -1,4 +1,6 @@
-# ![](/assets/Logo.png)
+# ![](/assets/Logo.png)1. Introduction
+
+### 1.1 What is Sadata?
 
 #### Sadata User Manual
 
@@ -21,4 +23,6 @@ Sadata was developed at the request of the Government of Samoa to help them trac
 However, Sadata is more than just a database for Government. It is a tool for civil society, international organisations and individuals. It is a platform to ensure greater oversight and accountability of Government and for greater collaboration and partnerships.
 
 ---
+
+
 

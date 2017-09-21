@@ -1,3 +1,5 @@
+### 4.2 Categories
+
 #### Editing/Adding Categories
 
 ![](/assets/Editing categories.png)

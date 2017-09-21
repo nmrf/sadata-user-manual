@@ -1,6 +1,4 @@
-#### Common Use Cases for Users
-
-
+### 4.10 Common Use Cases for Users
 
 ---
 

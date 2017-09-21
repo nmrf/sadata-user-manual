@@ -16,7 +16,7 @@
 
 * [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
 * [Categories](visitors/categories.md)
-* [Actions](visitors/actions.md)
+* [Actions & The Implementation Plan](visitors/actions.md)
 * [Indicators](visitors/indicators.md)
 * [Recommendations](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
@@ -38,5 +38,5 @@
 
 ## Contact Us
 
-* [Contacts](contact-us/contacts.md)
+* [Contact Details](contact-us/contacts.md)
 

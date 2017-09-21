@@ -1,4 +1,4 @@
-#### Visitors
+### 2.2 Visitors
 
 Whether you are an NGO or interested member of the public, Sadata allows visitors to the site to do a huge amount of things that were never possible before! This includes
 
@@ -20,4 +20,6 @@ Now you know some of the things that are possible it's time to:
 ![](/assets/Explore.png)
 
 ---
+
+
 

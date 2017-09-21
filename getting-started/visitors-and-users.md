@@ -1,8 +1,10 @@
 # ![](/assets/Explore.png)
 
-#### Getting Started
+# 2. Getting Started
 
 The Sadata homepage \(pictured above\) is the gateway to the Sadata application, whether you are a user or if you are just a visitor to the site.
+
+### 2.1 Who are you? 
 
 #### Visitors v Users
 
@@ -17,4 +19,6 @@ Now it's time to turn to the chapter that you need!
 [I'm a User](/getting-started/users-and-roles.md)
 
 ---
+
+
 

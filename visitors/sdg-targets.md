@@ -1,4 +1,4 @@
-#### The Sustainable Development Goal Targets
+### 3.6 The Sustainable Development Goal Targets
 
 The original aim of Sadata was to have a tool to enhance the implementation and monitoring of human rights but it made sense to expand this function to encompass the SDGs as well. There is significant overlap between the SDGs and human rights \(E.g. SDG 5: Gender Equality and CEDAW\) and drawing these links helps to increase coordination in implementation and eliminate duplication of efforts and reporting.
 

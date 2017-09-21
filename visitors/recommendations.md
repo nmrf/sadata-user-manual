@@ -1,4 +1,4 @@
-#### Recommendations
+### 3.5 Recommendations
 
 Recommendations are the catalyst for the actions and indicators already considered in this manual. They are received from the various [Human Rights Bodies](/visitors/categories.md) and are intended to help Samoa implement its human rights obligations. This tab in Sadata is a collection of all of the recommendations Samoa has received. The default grouping when users arrive on this page is to group recommendations first by Human Rights Body and then by Cycle. ![](/assets/Recommendations.png)
 

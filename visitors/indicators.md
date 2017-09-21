@@ -1,4 +1,4 @@
-#### Indicators
+### 3.4 Indicators
 
 Indicators in Sadata are the measure of success of whether actions have been completed. For each action there should be at least one indicator and for each indicator reports/data should be uploaded on the specified date\(s\). The Indicators tab is therefore where users can explore these measures of success and the reports/data uploaded against them - a very powerful source of information for civil society and other interested parties.
 

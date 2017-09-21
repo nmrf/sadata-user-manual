@@ -1,6 +1,4 @@
-#### SDG Targets
-
-
+### 4.6 SDG Targets
 
 ---
 

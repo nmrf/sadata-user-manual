@@ -1,3 +1,5 @@
+### 1.3 Glossary & Icons
+
 #### Glossary
 
 Thematic Cluster
@@ -40,4 +42,6 @@ Recommendations
 |  |  |  |  |
 
 ---
+
+
 
