@@ -28,16 +28,15 @@
 * [Sadata Administration](users/being-a-sadata-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
-* Indicators
-* Recommendations
-* SDG Targets
-* Users
-* Pages
-* User Profile
+* [Indicators](users/indicators.md)
+* [Recommendations](users/recommendations.md)
+* [SDG Targets](users/sdg-targets.md)
+* [Users](users/users.md)
+* [Pages](users/pages.md)
+* [User Profile](users/user-profile.md)
 * [Common Use Cases](users/common-use-cases.md)
 
 ## Contact Us
 
-* Contacts
-* Details
+* [Contacts](contact-us/contacts.md)
 
