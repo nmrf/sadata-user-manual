@@ -52,7 +52,16 @@ Individual editing is as simple as finding the action you wish to edit, using th
 
 ![](/assets/Edit action.png)
 
-Clicking the edit button allows the Administrator to edit all of the fields associated with that action.
+Clicking the edit button allows the Administrator to edit all of the fields associated with that action including:
+
+* Adding/editing the responsible organisation
+* Adding/editing thematic clusters the action is linked to
+* Adding/editing the recommendations the action is linked to
+* Adding/editing the indicators the action is linked to
+* Adding/editing the SDG targets the actions is linked to
+* Editing the draft/public status of the action
+* Editing the target date and target date comments
+* Deleting the action
 
 **Batch editing**
 
@@ -85,7 +94,7 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 6\) When a thematic cluster is selected then a tick will appear in the box
 
-7\) The 'Update' button will only be active once the Administrator has made one of the changes described above. Clicking on the update button will save those changes. This may take several seconds if editing a large number of actions at once. 
+7\) The 'Update' button will only be active once the Administrator has made one of the changes described above. Clicking on the update button will save those changes. This may take several seconds if editing a large number of actions at once.
 
 ---
 
