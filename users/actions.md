@@ -71,7 +71,23 @@ Batch editing is a simple process - first the Administrator needs to identify an
 * Select all actions on the page displayed \(see \#1 on image below\)
 * Select all actions returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Selecting actions.png)
 
-2\) 
+2\) Once the relevant actions have been selected the Administrator can then use the menu on right hand side of the screen to link the selected actions to any category, connected category or connection. For example, if the selected actions were to be linked to a particular thematic cluster the Administrator would click on the thematic cluster title in the right hand menu bar and the box 1 below will appear. Box 2 shows what happens when the Administrator selects the thematic cluster they wish to link to the actions:
+
+![](/assets/Batch edit actions.png)1\) The Administrator can use the filter box to search for the thematic cluster \(or category/sub-category/connection\) they wish to find
+
+2\) Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator can **unlink** all of the selected actions from that thematic cluster. 
+
+3\) Where a thematic cluster is not currently linked to any of the selected actions the Administrator is shown a blank box. By clicking once in any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. In this example, the box on the right demonstrates how this works if the Administrator selects 'CRPD Implementation'
+
+4\) If a thematic cluster does not exist which the Administrator wishes to link all of the selected actions to they can create one using this button
+
+5\) At the top of the list is a summary of how many thematic clusters are already linked to all or some of the actions. By clicking once on this box \(so that a tick appears\) and then 'Update' the Administrator can link **all** of the selected actions to **all **of the thematic clusters**.** By clicking on the box twice \(so that it is blank\) and then 'Update' the Administrator can unlink all of the selected actions from all of the thematic clusters. 
+
+6\) 
+
+
+
+
 
 ---
 
