@@ -34,7 +34,7 @@ There are two ways for an Administrator to add indicators:
 
 9\) Assigned user: Clicking on the drop down menu allows the Administrator to choose from all of the registered users who is responsible for this indicator. Once allocated, this user will receive automated email reminders when progress reports are due
 
-11\) Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
+10\) Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
 **Adding multiple indicators**
 
@@ -76,7 +76,7 @@ Batch editing is a simple process - first the Administrator needs to identify an
 * Select all indicators on the page displayed \(see \#1 on image below\)
 * Select all indicators returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Batch edit indictors.png)
 
-2\) Once the relevant actions have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](/users/actions.md). 
+2\) Once the relevant actions have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](/users/actions.md).
 
 #### Adding Unscheduled & Scheduled Progress Reports
 
@@ -84,7 +84,7 @@ Administrators may be required to add progress reports to an indicator - either 
 
 ![](/assets/Add report.png)Clicking on either of these links will take the Administrator to the following form:
 
-![](/assets/Admin add progress report.png)1\) Title: The title of the progress report \(E.g. Domestic violence stats Q3 2017 or 'NHRI CEDAW Training Workshop for Police Recruits'
+![](/assets/Admin add progress report.png)1\) Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
 
 2\) Description: Full details of the progress report
 
@@ -92,9 +92,9 @@ Administrators may be required to add progress reports to an indicator - either 
 
 4\) Public/Private: The status of the uploaded document can be set to public or private depending on whether there is sensitive information contained within that should not be available publicly
 
-5\) Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public. 
+5\) Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public.
 
-6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered into Sadata. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled. 
+6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered into Sadata. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
 
 7\) Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
