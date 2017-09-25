@@ -38,7 +38,7 @@ There are two ways for an Administrator to add indicators:
 
 **Adding multiple indicators**
 
-By cllicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported into Sadata. ![](/assets/Batch import indicators.png)
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported into Sadata. ![](/assets/Batch import indicators.png)
 
 #### Editing Indicators
 
@@ -57,7 +57,6 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 * Adding/editing the actions the indicator is linked to
 * Adding/editing the SDG targets the indicator is linked to
 * Editing the draft/public status of the indicator
-* Editing the draft/public status of the action
 * Deleting the indicator
 * Editing the title, description or reference of the indicator
 
@@ -76,7 +75,7 @@ Batch editing is a simple process - first the Administrator needs to identify an
 * Select all indicators on the page displayed \(see \#1 on image below\)
 * Select all indicators returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Batch edit indictors.png)
 
-2\) Once the relevant actions have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](/users/actions.md).
+2\) Once the relevant indicators have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](/users/actions.md).
 
 #### Adding Unscheduled & Scheduled Progress Reports
 

@@ -40,7 +40,7 @@ There are two ways for an Administrator to add actions:
 
 **Adding multiple actions**
 
-By cllicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported into Sadata. ![](/assets/Batch import.png)
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported into Sadata. ![](/assets/Batch import.png)
 
 #### Editing Actions
 
