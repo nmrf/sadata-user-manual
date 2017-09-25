@@ -4,7 +4,7 @@ As in all areas of Sadata, Administrators can 'add or edit' data via the Recomme
 
 #### Adding Recommendations
 
-There are two ways for an Administrator to add indicators:
+There are two ways for an Administrator to add recommendations:
 
 1\) Add single recommendations
 
@@ -38,6 +38,8 @@ There are two ways for an Administrator to add indicators:
 
 11\) Thematic cluster: The Administrator can click on the drop down menu to select which thematic cluster the recommendation belongs to. The Administrator can select as many thematic clusters as are relevant for that recommendation. Alternatively the Administrator can do this using the batch edit feature \(see below for more details\). The Administrator can also create a new thematic cluster using the 'add' button if a relevant thematic cluster does not yet exist in Sadata.
 
+12\) Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
+
 **Adding multiple recommendations**
 
 By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple recommendations. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the recommendations will automatically be imported into Sadata. ![](/assets/Batch import recommendations.png)** ** _\*\* When importing recommendations it is only possible to import Title, Reference, Accepted Status and Accepted Response. Linking to thematic clusters, assigning human rights body and cycle, etc. still has to be executed either using the batch edit function \(below\) or individually \(as above\) ** \*\***_
@@ -70,7 +72,7 @@ Batch editing of recommendations \(or other entities within Sadata such as indic
 * By tagging multiple recommendations with categories \(i.e. Human Rights Body, Cycle, Human Rights Issue, Affected Persons, Thematic Cluster\)
 * By updating the attributes \(either public/draft status or Government accepted/noted response\) of multiple recommendations
 
-Batch editing is a simple process - first the Administrator needs to identify and select the indicators they wish to batch edit and then secondly they update the selected indicators as they wish.
+Batch editing is a simple process - first the Administrator needs to identify and select the recommendations they wish to batch edit and then secondly they update the selected recommendations as they wish.
 
 1\) The Administrator can select the recommendations they wish by first using the filtering and search functions on the 'Recommendations' main page to bring up the relevant recommendations on their screen. More information on how to use these functions can be found [here](/visitors/actions.md). Once the relevant recommendations have been identified the Administrator can either:
 
