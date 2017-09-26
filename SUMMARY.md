@@ -6,13 +6,20 @@
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
 
-## Getting Started
+## How To:
+
+* [Create the Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
+* [Report and Follow-up](getting-started-quick-start/reporting-and-follow-up.md)
+* Monitor the Implementation Plan
+* Edit and Create Entries
+
+## Sadata In Depth
 
 * [Who are you?](getting-started/visitors-and-users.md)
 * [Visitors](getting-started/visitors.md)
 * [Users, Roles & Registration](getting-started/users-and-roles.md)
 
-## Visitors
+## Sadata in Depth: Visitors
 
 * [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
 * [Categories](visitors/categories.md)
@@ -23,7 +30,7 @@
 * [Becoming a User](visitors/becoming-a-user.md)
 * [Common Use Cases](visitors/common-use-cases.md)
 
-## Users
+## Sadata in Depth: Users
 
 * [Sadata Administration](users/being-a-sadata-user.md)
 * [Categories](users/categories.md)

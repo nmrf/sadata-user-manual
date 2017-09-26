@@ -4,7 +4,7 @@
 
 The Sadata homepage \(pictured above\) is the gateway to the Sadata application, whether you are a user or if you are just a visitor to the site.
 
-### 2.1 Who are you? 
+### 2.1 Who are you?
 
 #### Visitors v Users
 
