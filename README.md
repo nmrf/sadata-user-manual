@@ -14,9 +14,9 @@ To learn more about what Sadata does you can read our common use cases for both 
 
 #### Sadata User Manual
 
-The Sadata user manual is a simple guide for all types of users of this software. It is written using GitBook to allow for revisions as the software evolves and for users to download as a pdf. 
+The Sadata user manual is a simple guide for all types of users of this software. It is written using GitBook to allow for revisions as the software evolves and for users to download as a pdf.
 
-The manual is a [documentation file](https://github.com/nmrf/sadata-user-manual/blob/master/LICENSE.md) of the [Sadata Open Source Software](https://github.com/nmrf/sadata/blob/master/LICENSE.md) and draws upon relevant content from the IMPACT OSS manual permitted under its MIT licence. 
+The manual is a [documentation file](https://github.com/nmrf/sadata-user-manual/blob/master/LICENSE.md) of the [Sadata Open Source Software](https://github.com/nmrf/sadata/blob/master/LICENSE.md) and draws upon relevant content from the [IMPACT OSS manual](https://www.gitbook.com/book/impactoss/impactoss-user-manual/) permitted under its MIT licence.
 
 #### Who is Sadata for?
 
