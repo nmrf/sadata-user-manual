@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [What is Sadata?](README.md)
+* [What is IMPACT OSS?](README.md)
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
 
