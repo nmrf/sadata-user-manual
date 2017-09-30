@@ -38,8 +38,8 @@ Progress Report
 | :---: | :---: | :---: | :---: |
 | Organisation![](/assets/6_organisation.png) | SDGs          1         ![](/assets/7_sdgs.png) | Attributes     ![](/assets/attributes_icon.png) | Calendar       ![](/assets/calendar_icon.png) |
 | Categories   ![](/assets/categories_icon.png) | Connected Categories         ![](/assets/connectedCategories_icon.png) | Country            ![](/assets/country_icon.png) | Edit                    ![](/assets/edit_icon.png) |
-| Filter                  ![](/assets/filter.png) | Recommendations   ![](/assets/recommendations_icon.png) | Not Accepted ![](/assets/recNotAccepted_icon.png) | Accepted      ![](/assets/recAccepted_icon.png) |
-| Reminder     ![](/assets/reminder.png) | Report              ![](/assets/report_icon.png) | SMART              ![](/assets/SMART_icon.png) | Trash                 ![](/assets/trash_icon.png) |
+| Filter                  ![](/assets/filter_icon.png) | Recommendations   ![](/assets/recommendations_icon.png) | Not Accepted ![](/assets/recNotAccepted_icon.png) | Accepted      ![](/assets/recAccepted_icon.png) |
+| Reminder     ![](/assets/reminder_icon.png) | Report              ![](/assets/report_icon.png) | SMART              ![](/assets/SMART_icon.png) | Trash                 ![](/assets/trash_icon.png) |
 | UN Session  ![](/assets/2_UNsession.png) | Connections ![](/assets/connections_icon.png) | Actions           ![](/assets/actions_icon.png) | Indicators           ![](/assets/indicators_icon.png) |
 |  |  |  |  |
 
