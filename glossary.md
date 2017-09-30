@@ -36,11 +36,11 @@ Progress Report
 
 | Human Right![](/assets/3_humanRight.png) | Human Rights Body![](/assets/1_humanRightsBody.png) | Affected Persons![](/assets/4_affectedPersons.png) | Thematic Cluster![](/assets/5_thematicCluster.png) |
 | :---: | :---: | :---: | :---: |
-| Organisation![](/assets/6_organisation.png) | SDGs          1         ![](/assets/7_sdgs.png) | Attributes     ![](/assets/attributes.png) | Calendar       ![](/assets/calendar.png) |
-| Categories   ![](/assets/categories.png) | Connected Categories         ![](/assets/connectedCategories.png) | Country            ![](/assets/country.png) | Edit                    ![](/assets/edit.png) |
-| Filter                  ![](/assets/filter.png) | Recommendations   ![](/assets/recommendations.png) | Not Accepted ![](/assets/recNotAccepted.png) | Accepted      ![](/assets/recAccepted.png) |
-| Reminder     ![](/assets/reminder.png) | Report              ![](/assets/report.png) | SMART              ![](/assets/SMART.png) | Trash                 ![](/assets/trash.png) |
-| UN Session  ![](/assets/2_UNsession.png) | Connections ![](/assets/connections.png) | Actions           ![](/assets/actions.png) | Indicators           ![](/assets/indicators.png) |
+| Organisation![](/assets/6_organisation.png) | SDGs          1         ![](/assets/7_sdgs.png) | Attributes     ![](/assets/attributes_icon.png) | Calendar       ![](/assets/calendar_icon.png) |
+| Categories   ![](/assets/categories_icon.png) | Connected Categories         ![](/assets/connectedCategories_icon.png) | Country            ![](/assets/country_icon.png) | Edit                    ![](/assets/edit_icon.png) |
+| Filter                  ![](/assets/filter.png) | Recommendations   ![](/assets/recommendations_icon.png) | Not Accepted ![](/assets/recNotAccepted_icon.png) | Accepted      ![](/assets/recAccepted_icon.png) |
+| Reminder     ![](/assets/reminder.png) | Report              ![](/assets/report_icon.png) | SMART              ![](/assets/SMART_icon.png) | Trash                 ![](/assets/trash_icon.png) |
+| UN Session  ![](/assets/2_UNsession.png) | Connections ![](/assets/connections_icon.png) | Actions           ![](/assets/actions_icon.png) | Indicators           ![](/assets/indicators_icon.png) |
 |  |  |  |  |
 
 ---
