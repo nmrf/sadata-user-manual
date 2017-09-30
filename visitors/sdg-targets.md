@@ -4,7 +4,7 @@ The original aim of Sadata was to have a tool to enhance the implementation and 
 
 There are 169 internationally agreed SDG targets, all of which are contained within Sadata. Those 169 targets have 232 internationally agreed indicators that are also contained within Sadata. The Government may choose to add additional actions and indicators that reflect how Samoa is setting about achieving the SDGs
 
-Visitors to Sadata can therefore explore everything the Government is doing to achieve the SDGs and, if they wish, how work being undertaken in the field of human rights is actually helping to achieve the SDGs and vice versa.![](/assets/SDGs.png)
+Visitors to Sadata can therefore explore everything the Government is doing to achieve the SDGs and, if they wish, how work being undertaken in the field of human rights is actually helping to achieve the SDGs and vice versa.![](/assets/SDGs_icon.png)
 
 The 'SDG Targets' page works similarly to the 'Actions', 'Indicators' and 'Recommendations' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area of Sadata.
 
