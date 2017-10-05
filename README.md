@@ -22,11 +22,11 @@ Sadata is a primarily a tool for States to plan and monitor implementation of it
 
 The manual is split into three parts:
 
-1. [**How To**](/getting-started-quick-start/creating-the-implementation-plan.md)** - **This part provides a quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation \(either as Government or civil society\) and editing.
+1. [**How To**](/getting-started-quick-start/creating-the-implementation-plan.md)** - **A quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation \(either as Government or civil society\) and editing.
 2. [I**n Depth: Visitors**](/visitors/using-as-a-visitor.md)** **- Everything visitors to the site need to know about how to use the tool from monitoring the implementation plan, to using the filtering system to find what the Government is doing in their area of interest to submitting information of their own. 
 3. [**In Depth: Users**](/users/being-a-user.md)** - **Everything States need to know in how to use and setup the software.
 
-The manual is written using GitBooks, which allows for readers and users of the software to suggest improvements or changes as the tool evolves. 
+The manual is written using GitBooks, which allows readers and users of the software to suggest improvements or changes as the tool evolves.
 
 The manual is a [documentation file](https://github.com/nmrf/sadata-user-manual/blob/master/LICENSE.md) of the [Sadata Open Source Software](https://github.com/nmrf/sadata/blob/master/LICENSE.md) and draws upon relevant content from the IMPACT OSS manual permitted under its MIT licence.
 
