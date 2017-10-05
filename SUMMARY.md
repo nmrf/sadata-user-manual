@@ -19,7 +19,7 @@
 * [Visitors](getting-started/visitors.md)
 * [Users, Roles & Registration](getting-started/users-and-roles.md)
 
-## Sadata in Depth: Visitors
+## In Depth: Visitors
 
 * [Using Sadata as a Visitor](visitors/using-as-a-visitor.md)
 * [Categories](visitors/categories.md)
@@ -30,7 +30,7 @@
 * [Becoming a User](visitors/becoming-a-user.md)
 * [Common Use Cases](visitors/common-use-cases.md)
 
-## Sadata in Depth: Users
+## In Depth: Users
 
 * [Sadata Administration](users/being-a-user.md)
 * [Categories](users/categories.md)
@@ -46,3 +46,4 @@
 ## Contact Us
 
 * [Contact Details](contact-us/contacts.md)
+
