@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [What is IMPACT OSS?](README.md)
+* [What is Sadata?](README.md)
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
 
@@ -13,15 +13,15 @@
 * Monitor the Implementation Plan
 * Edit and Create Entries
 
-## IMPACT OSS In Depth
+## Sadata In Depth
 
 * [Who are you?](getting-started/visitors-and-users.md)
 * [Visitors](getting-started/visitors.md)
 * [Users, Roles & Registration](getting-started/users-and-roles.md)
 
-## IMPACT OSS in Depth: Visitors
+## Sadata in Depth: Visitors
 
-* [Using IMPACT OSS as a Visitor](visitors/using-sadata-as-a-visitor.md)
+* [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
 * [Categories](visitors/categories.md)
 * [Actions & The Implementation Plan](visitors/actions.md)
 * [Indicators](visitors/indicators.md)
@@ -30,9 +30,9 @@
 * [Becoming a User](visitors/becoming-a-user.md)
 * [Common Use Cases](visitors/common-use-cases.md)
 
-## IMPACT OSS in Depth: Users
+## Sadata in Depth: Users
 
-* [IMPACT OSS Administration](users/being-a-sadata-user.md)
+* [Sadata Administration](users/being-a-sadata-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
 * [Indicators](users/indicators.md)
