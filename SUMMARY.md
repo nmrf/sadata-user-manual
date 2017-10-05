@@ -21,7 +21,7 @@
 
 ## Sadata in Depth: Visitors
 
-* [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
+* [Using Sadata as a Visitor](visitors/using-as-a-visitor.md)
 * [Categories](visitors/categories.md)
 * [Actions & The Implementation Plan](visitors/actions.md)
 * [Indicators](visitors/indicators.md)
@@ -32,7 +32,7 @@
 
 ## Sadata in Depth: Users
 
-* [Sadata Administration](users/being-a-sadata-user.md)
+* [Sadata Administration](users/being-a-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
 * [Indicators](users/indicators.md)
@@ -46,4 +46,3 @@
 ## Contact Us
 
 * [Contact Details](contact-us/contacts.md)
-
