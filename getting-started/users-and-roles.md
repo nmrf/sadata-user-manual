@@ -8,7 +8,7 @@ Sadata is a tool which allows users to organise human rights recommendations and
 
 Users have to be registered in the following way:
 
-1. The person who wishes to be registered needs to click on the 'Register' link in the top right hand corner of any page within Sadata, as circled above. 
+1. The person who wishes to be registered needs to click on the 'Register' link in the top right hand corner of any page within Sadata, as circled above.
 2. The person will then be asked to complete a registration form, entering their name, email address and a confirmed password \(see image below\)
 
 3. Once completed that person will now be a registered Sadata User
@@ -44,13 +44,10 @@ Administrators of Sadata play a critical role in the establishment and maintenan
 * maintaining and updating the category lists
 * Adding new actions and indicators as required
 * Maintaining content pages
-* Reporting bugs 
+* Reporting bugs
 
 The role of Administrator is the most wide-ranging of all the roles. This manual goes into detail in all of the areas of responsibility of Administrators and how to undertake all of the functions in Chapter 4 - 'Users'.
 
-To go to Chapter 5, [click here](/users/being-a-sadata-user.md).
+To go to Chapter 5, [click here](/users/being-a-user.md).
 
 ---
-
-
-
