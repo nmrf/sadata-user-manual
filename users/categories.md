@@ -10,15 +10,15 @@ If the Administrator wishes to edit an existing category they click on the entry
 
 If the Administrator wishes to add a new sub-category \(i.e. a new human rights body, cycle, issue, cluster, etc.\) then they simply click on the 'Add category' icon \(top image, 3\)![](/assets/Add sub category.png)
 
-1\) Reference: A reference ID can be manually added or Sadata will automatically assign an ID
+1\) Reference: A reference ID can be manually added or will be automatically assigned
 
 2\) Title: A short description of the category \(e.g. name of the human rights body, overview of thematic cluster, organisation name, etc.\)
 
 3\) Short title: An abbreviated version of the title that will be used for the associated tag. E.g. ![](/assets/Tags.png)
 
-4\) Description: Longer description if required \(optional\). This is a useful field to provide visitors to Sadata with more information on a particular sub-category.
+4\) Description: Longer description if required \(optional\). This is a useful field to provide visitors with more information on a particular sub-category.
 
-5\) Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with Sadata with the newly created sub-category. The Administrator does so by finding the required recommendations \(using the filtering system if necessary\) and uses the check boxes next to each recommendation.
+5\) Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with the newly created sub-category. The Administrator does so by finding the required recommendations \(using the filtering system if necessary\) and uses the check boxes next to each recommendation.
 
 ![](/assets/Add connections.png)
 
@@ -29,6 +29,3 @@ This function is available when adding new Human Rights Bodies, Cycles, Human Ri
 7\) Category Manager: \*Only visible for Human Rights Bodies and SDGs\* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Category Managers click [here](/getting-started/users-and-roles.md).
 
 ---
-
-
-

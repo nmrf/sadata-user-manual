@@ -1,20 +1,22 @@
-### 4.2 Sadata Administration
+# 4. Users
 
-Sadata Administrators are the Users who maintain the core information within the application. To recap:
+### 4.2 Administration
+
+Administrators are the Users who maintain the core information within the application. To recap:
 
 [Contributors ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
 
 [Managers ](/getting-started/users-and-roles.md)- responsible for sets of recommendations and ensuring 'Contributors' upload reports/data on time and for reviewing/approving publicly submitted reports
 
-[Administrators ](/getting-started/users-and-roles.md)are responsible for keeping everything else in Sadata up to date - recommendations, actions, indicators, categories and content pages. They are also responsible for assigning indicators to users and reporting bugs.
+[Administrators ](/getting-started/users-and-roles.md)are responsible for keeping everything else up to date - recommendations, actions, indicators, categories and content pages. They are also responsible for assigning indicators to users and reporting bugs.
 
-The role of Administrators is therefore of critical importance to the overall success of Sadata and more complex than other roles. This 'User' section of the manual is specifically intended to guide Administrators in the exercise of their role, taking each area of the application one at a time, and providing a number of common use cases.
+The role of Administrators is therefore of critical importance to the overall success and more complex than other roles. This 'User' section of the manual is specifically intended to guide Administrators in the exercise of their role, taking each area of the application one at a time, and providing a number of common use cases.
 
-The way in which Administrators carry out their role is by either 'Adding' new content or 'Editing' existing content.
+The way in which Administrators carry out their role is by either 'Adding' new content or 'Editing' existing content. 
 
 #### Adding Content
 
-One of the roles of administrators are is adding the base content to Sadata, such as:
+One of the roles of administrators are is adding the base content, such as:
 
 * Recommendations
 * Actions

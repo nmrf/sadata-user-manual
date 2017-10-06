@@ -1,6 +1,6 @@
 ### 4.8 Users
 
-On the Users page Administrators can manage all of the registered Sadata users and perform the following functions:
+On the Users page Administrators can manage all of the registered users and perform the following functions:
 
 * Edit existing users \(details, user type, password, delete\)
 * Assign users to a particular organisation, individually or by batch editing
@@ -25,6 +25,3 @@ Through the 'Users' tab, the Administrator can assign user to a particular organ
 To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation \(see image above\). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing click [here](/users/actions.md).
 
 ---
-
-
-
