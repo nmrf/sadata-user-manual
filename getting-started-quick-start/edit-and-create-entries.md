@@ -24,7 +24,7 @@ For more detailed instructions on how to edit please see the relevant sections f
 
 **Batch editing**
 
-Batch editing is a powerful function of the application as it allows Administrators to update multiple entities in a single move, saving considerable time and effort. 
+Batch editing is a powerful function of the application as it allows Administrators to update multiple entities in a single move, saving considerable time and effort.
 
 Batch editing can be carried out in relation to actions, indicators, recommendations and SDG targets, but not categories. It allows an Administrator to update multiple entities at once in any of the following ways:
 
@@ -68,6 +68,21 @@ First the Administrator needs to identify and select the actions they wish to ba
 Adding new entities is very straight forward. The Administrator simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the content frame. On all of the pages other than the categories page there is also an 'import' button. ![](/assets/Add action.png)To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](/visitors/categories.md), [actions](/users/actions.md), [indicators](/users/indicators.md), [recommendations ](/visitors/recommendations.md)or [SDG targets](/visitors/sdg-targets.md).
 
 **Importing Multiple Entities **
+
+A time-efficient way to add new actions, indicators, recommendations or SDG targets is to use the 'import' function to import multiple entities in one go. The process for importing is the same for the different types of entity. First, the Administrator clicks on the import button as shown above on the relevant entity page - the following box will then appear:
+
+![](/assets/Batch import 2.png)1\) Clicking on this link allows the Administrator to download a CSV template for importing multiple entities. If the template structure is not used then the batch import will not work. The Administrator should download the template, copy and paste their data into this file and then save it using an appropriate file name. 
+
+2\) Once step 1 has been completed the Administrator clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database. 
+
+_\*\*\***Key Fact**\*\*\* When batch importing, it is only possible to import the following:_
+
+* _For actions: title, description, target date, target date comment_
+* _For indicators: title, reference, description_
+* _For recommendations: title, reference, government response_
+* _SDG target: title, reference, description_
+
+_It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function \(see above\) to assign, tag and link immediately after importing._ 
 
 
 
