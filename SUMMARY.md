@@ -6,19 +6,13 @@
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
 
-## How To:
+## How To
 
 * [Create Your Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
 * [Report \(add data\)](getting-started-quick-start/reporting-and-follow-up.md)
 * [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
 * [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
 * [Filter and Search](getting-started-quick-start/filter-and-search.md)
-
-## Sadata In Depth
-
-* [Who are you?](getting-started/visitors-and-users.md)
-* [Visitors](getting-started/visitors.md)
-* [Users, Roles & Registration](getting-started/users-and-roles.md)
 
 ## In Depth: Visitors
 
@@ -32,6 +26,7 @@
 
 ## In Depth: Users
 
+* [Roles & Registration](getting-started/users-and-roles.md)
 * [Sadata Administration](users/being-a-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
@@ -41,8 +36,4 @@
 * [Users](users/users.md)
 * [Pages](users/pages.md)
 * [User Profile](users/user-profile.md)
-
-## Contact Us
-
-* [Contact Details](contact-us/contacts.md)
 

@@ -1,4 +1,4 @@
-### 4.7 Users
+### 4.8 Users
 
 On the Users page Administrators can manage all of the registered Sadata users and perform the following functions:
 
@@ -9,7 +9,7 @@ On the Users page Administrators can manage all of the registered Sadata users a
 
 To edit existing users, or to reset a password the Administrator simply needs to find the relevant user using the search and filter functions and click on their name. This will bring up the following screen:
 
-![](/assets/Edit User.png)The 'Change Password' link will allow the Administrator to reset that user's password. Please notify the user of the password change and ask them to login to their account as soon as possible and reset it themselves so that their account remains secure. 
+![](/assets/Edit User.png)The 'Change Password' link will allow the Administrator to reset that user's password. Please notify the user of the password change and ask them to login to their account as soon as possible and reset it themselves so that their account remains secure.
 
 Clicking on the 'Edit' link will allow the Administrator to edit all of the User details including:
 
@@ -20,9 +20,9 @@ Clicking on the 'Edit' link will allow the Administrator to edit all of the User
 
 **Assign users to an organisation**
 
-Through the 'Users' tab, the Administrator can assign user to a particular organisation \(i.e. record which organisation they work for/represent\). This can either be done individually by editing the user profile as described above, or through batch editing. 
+Through the 'Users' tab, the Administrator can assign user to a particular organisation \(i.e. record which organisation they work for/represent\). This can either be done individually by editing the user profile as described above, or through batch editing.
 
-To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation \(see image above\). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing click [here](/users/actions.md). 
+To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation \(see image above\). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing click [here](/users/actions.md).
 
 ---
 

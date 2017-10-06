@@ -1,4 +1,4 @@
-### 4.8 Pages
+### 4.9 Pages
 
 One final feature of Sadata is the ability for Administrators to create content pages to provide visitors with information. This could be about Sadata itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
 
@@ -8,21 +8,19 @@ One final feature of Sadata is the ability for Administrators to create content 
 
 3\) Search bar \(as above\)
 
-4\) The 'Add Page'  link is where Administrators can add new content pages. Clicking on this link brings up the following form: 
+4\) The 'Add Page'  link is where Administrators can add new content pages. Clicking on this link brings up the following form:
 
 ![](/assets/New Page.png)1\) Title: The Title which will appear on the public page
 
 2\) Menu Title: The name of the page which will appear in the header of all pages of Sadata \(\#2 in top image on this page\)
 
-3\) Menu order: The order the pages appear in the header. Number 1 appears closest to the right hand side of the page. 
+3\) Menu order: The order the pages appear in the header. Number 1 appears closest to the right hand side of the page.
 
 4\) Content: The page content can be added here. Text styling can be applied using the tags noted into the text box
 
 5\) Draft/public: Once the page is ready to be published on the public Sadat site the status of the page should be changed from 'Draft' to 'Public' using this drop down menu
 
 6\) Save/cancel: The Administrator can save or cancel the changes they have made to the page using these buttons
-
-
 
 ---
 

@@ -1,4 +1,4 @@
-### 4.5 Recommendations
+### 4.6 Recommendations
 
 As in all areas of Sadata, Administrators can 'add or edit' data via the Recommendations page.
 

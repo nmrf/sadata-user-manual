@@ -1,4 +1,4 @@
-### 4.6 SDG Targets
+### 4.7 SDG Targets
 
 As in all areas of Sadata, Administrators can 'add or edit' data via the SDG Targets page.
 

@@ -1,4 +1,4 @@
-### 4.4 Indicators
+### 4.5 Indicators
 
 As in all areas of Sadata, Administrators can 'add or edit' data via the Indicators page. Administrators are also able to add progress reports to indicators.
 
