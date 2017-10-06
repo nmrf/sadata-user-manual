@@ -29,7 +29,6 @@
 * [Recommendations](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
 * [Becoming a User](visitors/becoming-a-user.md)
-* [Common Use Cases](visitors/common-use-cases.md)
 
 ## In Depth: Users
 
@@ -42,7 +41,6 @@
 * [Users](users/users.md)
 * [Pages](users/pages.md)
 * [User Profile](users/user-profile.md)
-* [Common Use Cases](users/common-use-cases.md)
 
 ## Contact Us
 
