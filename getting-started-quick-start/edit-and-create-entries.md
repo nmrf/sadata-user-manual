@@ -24,6 +24,8 @@ For more detailed instructions on how to edit please see the relevant sections f
 
 **Batch editing**
 
+Batch editing is a powerful function of the application as it allows Administrators to update multiple entities in a single move, saving considerable time and effort. 
+
 Batch editing can be carried out in relation to actions, indicators, recommendations and SDG targets, but not categories. It allows an Administrator to update multiple entities at once in any of the following ways:
 
 * Add multiple actions or indicators to a thematic cluster
@@ -63,5 +65,9 @@ First the Administrator needs to identify and select the actions they wish to ba
 
 **Adding Single New Entities**
 
+Adding new entities is very straight forward. The Administrator simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the content frame. On all of the pages other than the categories page there is also an 'import' button. ![](/assets/Add action.png)To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](/visitors/categories.md), [actions](/users/actions.md), [indicators](/users/indicators.md), [recommendations ](/visitors/recommendations.md)or [SDG targets](/visitors/sdg-targets.md).
+
 **Importing Multiple Entities **
+
+
 
