@@ -1,4 +1,4 @@
-### 4.7 Users
+### 4.8 Users
 
 On the Users page Administrators can manage all of the registered users and perform the following functions:
 

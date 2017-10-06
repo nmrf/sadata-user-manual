@@ -6,20 +6,15 @@
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
 
-## How To:
+## How To
 
-* [Create the Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
-* [Report and Follow-up](getting-started-quick-start/reporting-and-follow-up.md)
-* Monitor the Implementation Plan
-* Edit and Create Entries
+* [Create Your Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
+* [Report \(add data\)](getting-started-quick-start/reporting-and-follow-up.md)
+* [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
+* [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
+* [Filter and Search](getting-started-quick-start/filter-and-search.md)
 
-## Sadata In Depth
-
-* [Who are you?](getting-started/visitors-and-users.md)
-* [Visitors](getting-started/visitors.md)
-* [Users, Roles & Registration](getting-started/users-and-roles.md)
-
-## Sadata in Depth: Visitors
+## In Depth: Visitors
 
 * [Using Sadata as a Visitor](visitors/using-as-a-visitor.md)
 * [Categories](visitors/categories.md)
@@ -28,10 +23,10 @@
 * [Recommendations](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
 * [Becoming a User](visitors/becoming-a-user.md)
-* [Common Use Cases](visitors/common-use-cases.md)
 
-## Sadata in Depth: Users
+## In Depth: Users
 
+* [Roles & Registration](getting-started/users-and-roles.md)
 * [Sadata Administration](users/being-a-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
@@ -41,8 +36,4 @@
 * [Users](users/users.md)
 * [Pages](users/pages.md)
 * [User Profile](users/user-profile.md)
-* [Common Use Cases](users/common-use-cases.md)
 
-## Contact Us
-
-* [Contact Details](contact-us/contacts.md)
