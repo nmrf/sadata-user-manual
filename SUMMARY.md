@@ -11,7 +11,8 @@
 * [Create Your Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
 * [Report](getting-started-quick-start/reporting-and-follow-up.md)
 * [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
-* [Edit and Create Entries](getting-started-quick-start/edit-and-create-entries.md)
+* [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
+* Filter and Search
 
 ## Sadata In Depth
 
