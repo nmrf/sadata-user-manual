@@ -9,7 +9,7 @@
 ## How To:
 
 * [Create Your Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
-* [Report](getting-started-quick-start/reporting-and-follow-up.md)
+* [Report \(add data\)](getting-started-quick-start/reporting-and-follow-up.md)
 * [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
 * [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
 * [Filter and Search](getting-started-quick-start/filter-and-search.md)
