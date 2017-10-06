@@ -1,4 +1,4 @@
-### 2.4 Edit and Create Entities
+### 2.4 How to: Edit and Create Entities
 
 The database is made up of information entered into it by the State and is designed so that it is flexible and can be used in a way that meets the needs of any country. All of the information and categorisations are totally flexible and can be created and edited as needed. The following can be classified as entities within the database:
 

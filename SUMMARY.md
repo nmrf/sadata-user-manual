@@ -12,7 +12,7 @@
 * [Report](getting-started-quick-start/reporting-and-follow-up.md)
 * [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
 * [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
-* Filter and Search
+* [Filter and Search](getting-started-quick-start/filter-and-search.md)
 
 ## Sadata In Depth
 
