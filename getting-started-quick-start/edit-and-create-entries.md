@@ -10,9 +10,23 @@ The database is made up of information entered into it by the State and is desig
 
 _\*\*\***Key Fact**\*\*\* To edit or create entities you need to be assigned as an 'Administrator' after you register as a user. Once you are signed in as an Administrator it is very easy to create or add entities._
 
-**Editing Entities**
+#### **Editing Entities**
+
+'Edit' v 'Filter' Mode
+
+'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
+
+![](/assets/Filter.png)
+
+\(1\) The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
+
+\(2\) Options to select the page of results or individual results now also appear.
+
+As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'![](/assets/Filter 3.png)Once the Administrator is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk. 
 
 To edit any entity an Administrator can simply click on the entity they wish to edit at any time, on any of the pages of the application. Clicking on the entity will bring up the full details and an 'edit' button.
+
+**Editing a Single Entity**
 
 _Example: Editing an affected person category_
 
@@ -63,7 +77,9 @@ First the Administrator needs to identify and select the actions they wish to ba
 
 7\) The 'Update' button will only be active once the Administrator has made one of the changes described above. Clicking on the update button will save those changes. This may take several seconds if editing a large number of actions at once.
 
-**Adding Single New Entities**
+#### Adding New Entities
+
+**Adding Single Entities**
 
 Adding new entities is very straight forward. The Administrator simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the content frame. On all of the pages other than the categories page there is also an 'import' button. ![](/assets/Add action.png)To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](/visitors/categories.md), [actions](/users/actions.md), [indicators](/users/indicators.md), [recommendations ](/visitors/recommendations.md)or [SDG targets](/visitors/sdg-targets.md).
 
@@ -71,9 +87,9 @@ Adding new entities is very straight forward. The Administrator simply needs to 
 
 A time-efficient way to add new actions, indicators, recommendations or SDG targets is to use the 'import' function to import multiple entities in one go. The process for importing is the same for the different types of entity. First, the Administrator clicks on the import button as shown above on the relevant entity page - the following box will then appear:
 
-![](/assets/Batch import 2.png)1\) Clicking on this link allows the Administrator to download a CSV template for importing multiple entities. If the template structure is not used then the batch import will not work. The Administrator should download the template, copy and paste their data into this file and then save it using an appropriate file name. 
+![](/assets/Batch import 2.png)1\) Clicking on this link allows the Administrator to download a CSV template for importing multiple entities. If the template structure is not used then the batch import will not work. The Administrator should download the template, copy and paste their data into this file and then save it using an appropriate file name.
 
-2\) Once step 1 has been completed the Administrator clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database. 
+2\) Once step 1 has been completed the Administrator clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database.
 
 _\*\*\***Key Fact**\*\*\* When batch importing, it is only possible to import the following:_
 
@@ -82,7 +98,5 @@ _\*\*\***Key Fact**\*\*\* When batch importing, it is only possible to import th
 * _For recommendations: title, reference, government response_
 * _SDG target: title, reference, description_
 
-_It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function \(see above\) to assign, tag and link immediately after importing._ 
-
-
+_It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function \(see above\) to assign, tag and link immediately after importing._
 
