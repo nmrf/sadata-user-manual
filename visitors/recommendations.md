@@ -1,8 +1,8 @@
 ### 3.5 Recommendations
 
-Recommendations are the catalyst for the actions and indicators already considered in this manual. They are received from the various [Human Rights Bodies](/visitors/categories.md) and are intended to help Samoa implement its human rights obligations. This tab in Sadata is a collection of all of the recommendations Samoa has received. The default grouping when users arrive on this page is to group recommendations first by Human Rights Body and then by Cycle. ![](/assets/Recommendations.png)
+Recommendations are the catalyst for the actions and indicators already considered in this manual. They are received from the various [Human Rights Bodies](/visitors/categories.md) and are intended to help a country implement its human rights obligations. This tab is a collection of all of the recommendations a country has received. The default grouping when users arrive on this page is to group recommendations first by Human Rights Body and then by Cycle. ![](/assets/Recommendations.png)
 
-The 'Recommendations' page works similarly to both the 'Actions' and 'Indicators' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area of Sadata.
+The 'Recommendations' page works similarly to both the 'Actions' and 'Indicators' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area.
 
 #### Grouping Recommendations
 
@@ -15,6 +15,3 @@ Filtering of recommendations works in the same way as filtering actions and indi
 For more details on how to filter read the [Actions page](/visitors/actions.md).
 
 ---
-
-
-
