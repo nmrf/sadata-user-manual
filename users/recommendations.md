@@ -1,6 +1,6 @@
-### 4.5 Recommendations
+### 4.6 Recommendations
 
-As in all areas of Sadata, Administrators can 'add or edit' data via the Recommendations page.
+As in all areas, Administrators can 'add or edit' data via the Recommendations page.
 
 #### Adding Recommendations
 
@@ -24,25 +24,25 @@ There are two ways for an Administrator to add recommendations:
 
 4\) Government response comment: When Government's 'note' comments they often explain why they are not accepting them. Details of such reasoning should be recorded here.
 
-5\) Actions: Clicking on the drop down menu allows the Administrator to link the recommendation to any of the actions stored within Sadata. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new action from here to link to the recommendation if they wish.
+5\) Actions: Clicking on the drop down menu allows the Administrator to link the recommendation to any of the actions stored. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new action from here to link to the recommendation if they wish.
 
-6\) Status: Automatically set to draft, the Administrator can change this to public once the recommendation is ready to be published on the public Sadata site. The status of recommendations can also be changed in bulk using the filtering system on the recommendation page \(see below\)
+6\) Status: Automatically set to draft, the Administrator can change this to public once the recommendation is ready to be published on the public site. The status of recommendations can also be changed in bulk using the filtering system on the recommendation page \(see below\)
 
-7\) Human rights body: The Administrator can click on the drop down menu to select which human rights body the recommendation came from. If the human rights body does not already exit in Sadata they can click on the 'add' button to add a new body.
+7\) Human rights body: The Administrator can click on the drop down menu to select which human rights body the recommendation came from. If the human rights body does not already exist they can click on the 'add' button to add a new body.
 
-8\) Cycle: The Administrator can click on the drop down menu to select which reporting cycle the recommendation came from \(e.g. Samoa's 2nd CEDAW review, or 3rd UPR\). If the cycle does not already exit in Sadata they can click on the 'add' button to add a new cycle.
+8\) Cycle: The Administrator can click on the drop down menu to select which reporting cycle the recommendation came from \(e.g. Samoa's 2nd CEDAW review, or 3rd UPR\). If the cycle does not already exist they can click on the 'add' button to add a new cycle.
 
 9\) Human rights issue: The Administrator can click on the drop down menu to select which human rights issue the recommendation relates to. The Administrator can select as many issues as are relevant for that recommendation. Alternatively the Administrator can do this using the batch edit feature \(see below for more details\)
 
 10\) Affected persons: The Administrator can click on the drop down menu to select which affected persons the recommendation relates to. The Administrator can select as many issues as are relevant for that recommendation. Alternatively the Administrator can do this using the batch edit feature \(see below for more details\)
 
-11\) Thematic cluster: The Administrator can click on the drop down menu to select which thematic cluster the recommendation belongs to. The Administrator can select as many thematic clusters as are relevant for that recommendation. Alternatively the Administrator can do this using the batch edit feature \(see below for more details\). The Administrator can also create a new thematic cluster using the 'add' button if a relevant thematic cluster does not yet exist in Sadata.
+11\) Thematic cluster: The Administrator can click on the drop down menu to select which thematic cluster the recommendation belongs to. The Administrator can select as many thematic clusters as are relevant for that recommendation. Alternatively the Administrator can do this using the batch edit feature \(see below for more details\). The Administrator can also create a new thematic cluster using the 'add' button if a relevant thematic cluster does not yet exist.
 
 12\) Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
 **Adding multiple recommendations**
 
-By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple recommendations. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the recommendations will automatically be imported into Sadata. ![](/assets/Batch import recommendations.png)** ** _\*\* When importing recommendations it is only possible to import Title, Reference, Accepted Status and Accepted Response. Linking to thematic clusters, assigning human rights body and cycle, etc. still has to be executed either using the batch edit function \(below\) or individually \(as above\) ** \*\***_
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple recommendations. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the recommendations will automatically be imported. ![](/assets/Batch import recommendations.png)** ** _\*\* When importing recommendations it is only possible to import Title, Reference, Accepted Status and Accepted Response. Linking to thematic clusters, assigning human rights body and cycle, etc. still has to be executed either using the batch edit function \(below\) or individually \(as above\) ** \*\***_
 
 #### Editing Recommendations
 
@@ -65,7 +65,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 
 **Batch editing**
 
-Batch editing of recommendations \(or other entities within Sadata such as indicators, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit recommendations in a variety of ways including:
+Batch editing of recommendations \(or other entities such as indicators, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit recommendations in a variety of ways including:
 
 * By assigning multiple recommendations to a Thematic Cluster
 * By linking multiple recommendations with Actions
@@ -82,7 +82,4 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 2\) Once the relevant recommendations have been selected the Administrator can then use the menu on left hand side of the screen to link the selected recommendations to any Action or Thematic Cluster, update the status or tag it with any of the category sub-categories \(within Human rights body, thematic human rights issue, etc.\). Batch editing recommendations is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/users/actions.md).
 
-#### 
-
-
-
+####

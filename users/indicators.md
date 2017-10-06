@@ -1,6 +1,6 @@
-### 4.4 Indicators
+### 4.5 Indicators
 
-As in all areas of Sadata, Administrators can 'add or edit' data via the Indicators page. Administrators are also able to add progress reports to indicators.
+As in all areas, Administrators can 'add or edit' data via the Indicators page. Administrators are also able to add progress reports to indicators.
 
 #### Adding Indicators
 
@@ -22,11 +22,11 @@ There are two ways for an Administrator to add indicators:
 
 3\) Description: Additional details of indicator
 
-4\) Actions: Clicking on the drop down menu allows the Administrator to link the indicators to any of the actions contained within the Sadata database. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new action from here to link to the indicator if they wish.
+4\) Actions: Clicking on the drop down menu allows the Administrator to link the indicators to any of the actions contained within the database. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new action from here to link to the indicator if they wish.
 
 5\) SDG Targets: Clicking on the drop down menu allows the Administrator to link the indicator to any of the SDG targets. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new SDG Target from here to link to the indicator if they wish.
 
-6\) Status: Automatically set to draft, the Administrator can change this to public once the indicator is ready to be published on the public Sadata site. The status of actions can also be changed in bulk using the filtering system on the indicator page \(see below\)
+6\) Status: Automatically set to draft, the Administrator can change this to public once the indicator is ready to be published on the public site. The status of actions can also be changed in bulk using the filtering system on the indicator page \(see below\)
 
 7\) Due date: The due date for the next indicator report
 
@@ -38,7 +38,7 @@ There are two ways for an Administrator to add indicators:
 
 **Adding multiple indicators**
 
-By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported into Sadata. ![](/assets/Batch import indicators.png)
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported. ![](/assets/Batch import indicators.png)
 
 #### Editing Indicators
 
@@ -62,7 +62,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 
 **Batch editing**
 
-Batch editing of indicators \(or other entities within Sadata such as recommendations, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit indicators in a variety of ways including:
+Batch editing of indicators \(or other entities such as recommendations, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit indicators in a variety of ways including:
 
 * By setting the status of multiple indicators from draft to public
 * By linking multiple actions with any connection \(i.e. action or SDG targets\)
@@ -93,11 +93,8 @@ Administrators may be required to add progress reports to an indicator - either 
 
 5\) Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public.
 
-6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered into Sadata. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
+6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
 
 7\) Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
 ---
-
-
-

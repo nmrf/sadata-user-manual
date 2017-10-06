@@ -1,6 +1,6 @@
-### 4.6 SDG Targets
+### 4.7 SDG Targets
 
-As in all areas of Sadata, Administrators can 'add or edit' data via the SDG Targets page.
+As in all areas, Administrators can 'add or edit' data via the SDG Targets page.
 
 #### Adding SDG targets
 
@@ -22,11 +22,11 @@ The SDG targets are internationally agreed so they are unlikely to need to chang
 
 3\) Description: A long description of the SDG target can be entered here
 
-4\) Actions: Clicking on the drop down menu allows the Administrator to link the SDG Target to any of the actions stored within Sadata. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new action from here to link to the SDG Target if they wish.
+4\) Actions: Clicking on the drop down menu allows the Administrator to link the SDG Target to any of the actions stored. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new action from here to link to the SDG Target if they wish.
 
-5\) Indicators: Clicking on the drop down menu allows the Administrator to link the SDG Target to any of the indicators stored within Sadata. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new indicator from here to link to the SDG Target if they wish.
+5\) Indicators: Clicking on the drop down menu allows the Administrator to link the SDG Target to any of the indicators stored. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new indicator from here to link to the SDG Target if they wish.
 
-6\) Status: Automatically set to draft, the Administrator can change this to public once the SDG target is ready to be published on the public Sadata site. The status of SDG targets can also be changed in bulk using the filtering system on the SDG Target page \(see below\)
+6\) Status: Automatically set to draft, the Administrator can change this to public once the SDG target is ready to be published on the public site. The status of SDG targets can also be changed in bulk using the filtering system on the SDG Target page \(see below\)
 
 7\) Categories: Clicking on the drop down menu allows the Administrator to link the SDG target to any of the SDGs
 
@@ -34,7 +34,7 @@ The SDG targets are internationally agreed so they are unlikely to need to chang
 
 **Adding multiple SDG Targets**
 
-By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple SDG Targets. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the SDG Targets will automatically be imported into Sadata. ![](/assets/Batch import SDG Targets.png)** **
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple SDG Targets. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the SDG Targets will automatically be imported. ![](/assets/Batch import SDG Targets.png)** **
 
 #### Editing SDG Targets
 
@@ -57,7 +57,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 
 **Batch editing**
 
-Batch editing of SDG Targets \(or other entities within Sadata such as indicators, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit SDG Targets in a variety of ways including:
+Batch editing of SDG Targets \(or other entities such as indicators, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit SDG Targets in a variety of ways including:
 
 * By assigning multiple SDG Targets to an SDG
 * By linking multiple SDG Targets with Actions
@@ -74,9 +74,6 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 2\) Once the relevant SDG Targets have been selected the Administrator can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/users/actions.md).
 
-#### 
+####
 
 ---
-
-
-
