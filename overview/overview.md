@@ -1,4 +1,3 @@
 ![](/assets/Overview.png)
 
-The Overview tab is where users can navigate to all areas of Sadata
-
+The Overview tab is where users can navigate to all areas of this tool
