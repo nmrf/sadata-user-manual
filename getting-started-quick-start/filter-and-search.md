@@ -15,7 +15,7 @@ The user can enter any keyword or reference number to search that particular set
 
 The search function can be used to find specific entities \(e.g. by entering a UPR recommendation reference number\) or by searching for a group of similar entities \(e.g. by entering 'prison' to view all actions involving prisons\).
 
-The search function searches the titles and the references - it does not search descriptions or any associated categories, sub-categories or connection. To search by associated categories, sub-categories or connection the filtering system should be used.
+The search function searches the titles and the references - it does not search descriptions or any associated categories, or connections. To search by associated categories or connection the filtering system should be used.
 
 #### Filtering
 
@@ -48,5 +48,5 @@ In the example above we have filtered for recommendations that fall within the i
 
 #### Filtering to Edit
 
-Administrators can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to editing entities [click here](/getting-started-quick-start/edit-and-create-entries.md). 
+Administrators can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to editing entities [click here](/getting-started-quick-start/edit-and-create-entries.md).
 

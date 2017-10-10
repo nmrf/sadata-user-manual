@@ -80,6 +80,9 @@ Batch editing is a simple process - first the Administrator needs to identify an
 * Select all recommendations on the page displayed \(see \#2 on image below\)
 * Select all recommendations returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Batch edit recommendations.png)
 
-2\) Once the relevant recommendations have been selected the Administrator can then use the menu on left hand side of the screen to link the selected recommendations to any Action or Thematic Cluster, update the status or tag it with any of the category sub-categories \(within Human rights body, thematic human rights issue, etc.\). Batch editing recommendations is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/users/actions.md).
+2\) Once the relevant recommendations have been selected the Administrator can then use the menu on left hand side of the screen to link the selected recommendations to any Action or Thematic Cluster, update the status or tag it with any of the taxonomy categories \(within Human rights body, thematic human rights issue, etc.\). Batch editing recommendations is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/users/actions.md).
 
-####
+### \#
+
+
+

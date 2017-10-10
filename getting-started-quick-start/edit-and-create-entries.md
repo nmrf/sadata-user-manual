@@ -22,7 +22,7 @@ _\*\*\***Key Fact**\*\*\* To edit or create entities you need to be assigned as 
 
 \(2\) Options to select the page of results or individual results now also appear.
 
-As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'![](/assets/Filter 3.png)Once the Administrator is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk. 
+As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'![](/assets/Filter 3.png)Once the Administrator is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk.
 
 To edit any entity an Administrator can simply click on the entity they wish to edit at any time, on any of the pages of the application. Clicking on the entity will bring up the full details and an 'edit' button.
 
@@ -30,7 +30,7 @@ To edit any entity an Administrator can simply click on the entity they wish to 
 
 _Example: Editing an affected person category_
 
-First the Administrator needs to navigate to where their entity can be found. To edit any category \(as listed above\) the Administrator needs \(1 below\) to click on the 'Categories' link in the top menu bar and then \(2\) click on the relevant category. Clicking on any of the subcategories \(3\), such as 'Children', brings up the second image below, from where the Administrator can go in to edit the entity and all associations it has \(e.g. linked recommendations, actions, etc.\):![](/assets/Categories 2.png)![](/assets/Edit children.png)
+First the Administrator needs to navigate to where their entity can be found. To edit any category \(as listed above\) the Administrator needs \(1 below\) to click on the 'Categories' link in the top menu bar and then \(2\) click on the relevant taxonomy. Clicking on any of the categories \(3\), such as 'Children', brings up the second image below, from where the Administrator can go in to edit the entity and all associations it has \(e.g. linked recommendations, actions, etc.\):![](/assets/Categories 2.png)![](/assets/Edit children.png)
 
 The same approach is required to any action, indicator, recommendation or SDG target - simply find the entity in question, click on it and hit the 'edit' button to get going.
 
@@ -63,7 +63,7 @@ First the Administrator needs to identify and select the actions they wish to ba
 
 2\) Once the relevant actions have been selected the Administrator can then use the menu on left hand side of the screen to link the selected actions to any category, connected category or connection. For example, if the selected actions were to be linked to a particular thematic cluster the Administrator would click on the thematic cluster title in the left hand menu bar and the box 1 below will appear. Box 2 shows what happens when the Administrator selects the thematic cluster they wish to link to the actions:
 
-![](/assets/Batch edit actions.png)1\) The Administrator can use the filter box to search for the thematic cluster \(or category/sub-category/connection\) they wish to find
+![](/assets/Batch edit actions.png)1\) The Administrator can use the filter box to search for the thematic cluster \(or category/connection\) they wish to find
 
 2\) Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator can **unlink** all of the selected actions from that thematic cluster.
 
