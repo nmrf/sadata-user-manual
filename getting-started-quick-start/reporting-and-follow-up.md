@@ -6,7 +6,7 @@ Data can be entered through progress reports by civil servants, administrators o
 
 #### **Reporting as an Indicator Owner**
 
-Each indicator in the Implementation Plan is assigned to a user who is responsible for uploading the relevant information, either as a once off or on a regular basis. That user will receive an automated email when the information is due.
+Each indicator in the Implementation Plan is assigned to a user who is responsible for uploading the relevant information, either as a once off or on a regular basis. That Indicator Owner will receive an automated email when the information is due.
 
 ![](/assets/Email reminder.png)
 
@@ -38,11 +38,19 @@ The Indicator Manager will then be taken to the following screen:![](/assets/Adm
 
 #### Reporting as a Contributor \(Civil Society and Individuals\)
 
+Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found here. 
 
+Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found here. 
+
+Once the relevant indicator has been found the contributor simply needs to click on the 'Add report' button' as described above for Indicator Owners and follow the same set of instructions. 
+
+_\*\*\* Reports submitted in this way will not automatically appear on the site. They will first be reviewed by a Manager and once approved will appear \*\*\*_
 
 #### Reviewing Reports as a Manager
 
 #### Reporting as an Administrator and Setting Up Indicator Owners
+
+
 
 
 
