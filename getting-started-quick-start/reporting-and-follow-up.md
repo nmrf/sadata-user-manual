@@ -12,21 +12,37 @@ Each indicator in the Implementation Plan is assigned to a user who is responsib
 
 Once an email reminder hass been received the Indicator Owner simply needs to:
 
-1. Click on the link in the email \(not pictured\)
-2. Enter login details \(if not already signed in\)
-3. Filter the indicators using the 'My Indicators' option and click on the relevant indicator
-4. Click on 'Add Report' \(1 or 2 below\)![](/assets/Add report.png)
-5. The Indicator Manager will then be taken to the following screen:
+i. Click on the link in the email \(not pictured\)
 
+ii. Enter login details \(if not already signed in\)
 
+iii. Filter the indicators using the 'My Indicators' option and click on the relevant indicator
 
+iv. Click on 'Add Report' \(1 or 2 below\)![](/assets/Add report.png)
 
+The Indicator Manager will then be taken to the following screen:![](/assets/Admin add progress report.png)The Indicator Manager simply needs to fill out the required fields:
 
-#### Reporting as an Administrator and Setting Up Indicator Owners
+1\) Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
+
+2\) Description: Full details of the progress report
+
+3\) Upload document: Information/data related to the indicator should be uploaded via this link
+
+4\) Public/Private: The status of the uploaded document can be set to public or private depending on whether there is sensitive information contained within that should not be available publicly
+
+5\) Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public.
+
+6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
+
+7\) Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
 #### Reporting as a Contributor \(Civil Society and Individuals\)
 
+
+
 #### Reviewing Reports as a Manager
+
+#### Reporting as an Administrator and Setting Up Indicator Owners
 
 
 
