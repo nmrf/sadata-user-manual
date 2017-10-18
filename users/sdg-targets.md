@@ -1,4 +1,4 @@
-### 4.7 SDG Targets
+### 4.6 SDG Targets
 
 As in all areas, Administrators can 'add or edit' data via the SDG Targets page.
 
@@ -74,6 +74,9 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 2\) Once the relevant SDG Targets have been selected the Administrator can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/users/actions.md).
 
-####
+### \#
 
 ---
+
+
+

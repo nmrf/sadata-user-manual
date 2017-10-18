@@ -1,4 +1,4 @@
-### 4.5 Indicators
+### 4.4 Indicators
 
 As in all areas, Administrators can 'add or edit' data via the Indicators page. Administrators are also able to add progress reports to indicators.
 
@@ -98,3 +98,6 @@ Administrators may be required to add progress reports to an indicator - either 
 7\) Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
 ---
+
+
+

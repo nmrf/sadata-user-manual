@@ -13,6 +13,7 @@
 * [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
 * [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
 * [Filter and Search](getting-started-quick-start/filter-and-search.md)
+* [Know your Role and Register](getting-started/users-and-roles.md)
 
 ## In Depth: Visitors
 
@@ -24,16 +25,15 @@
 * [SDG Targets](visitors/sdg-targets.md)
 * [Becoming a User](visitors/becoming-a-user.md)
 
-## In Depth: Users
+## In Depth: Registered Users
 
-* [Roles & Registration](getting-started/users-and-roles.md)
-* [Sadata Administration](users/being-a-user.md)
+* [Registered User Roles](users/being-a-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
 * [Indicators](users/indicators.md)
 * [Recommendations](users/recommendations.md)
 * [SDG Targets](users/sdg-targets.md)
-* [Users](users/users.md)
+* [Users Admin](users/users.md)
 * [Pages](users/pages.md)
 * [User Profile](users/user-profile.md)
 

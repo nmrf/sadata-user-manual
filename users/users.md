@@ -1,4 +1,4 @@
-### 4.8 Users
+### 4.7 Users
 
 On the Users page Administrators can manage all of the registered users and perform the following functions:
 
@@ -25,3 +25,6 @@ Through the 'Users' tab, the Administrator can assign user to a particular organ
 To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation \(see image above\). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing click [here](/users/actions.md).
 
 ---
+
+
+

@@ -1,4 +1,4 @@
-### 4.4 Actions
+### 4.3 Actions
 
 As in all areas, Administrators can 'add or edit' data via the Actions page.
 
@@ -97,3 +97,6 @@ Batch editing is a simple process - first the Administrator needs to identify an
 7\) The 'Update' button will only be active once the Administrator has made one of the changes described above. Clicking on the update button will save those changes. This may take several seconds if editing a large number of actions at once.
 
 ---
+
+
+

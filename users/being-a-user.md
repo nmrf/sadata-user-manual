@@ -1,18 +1,20 @@
-# 4. Users
+# 4. In Depth: Registered Users
 
-### 4.2 Administration
+### 4.1 Registered User Roles
 
-Administrators are the Users who maintain the core information within the application. To recap:
+[Indicator managers ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
 
-[Contributors ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
+[Contributors ](/getting-started/users-and-roles.md)- registered users who can upload data, which will need to be reviewed by the relevant Manager
 
 [Managers ](/getting-started/users-and-roles.md)- responsible for sets of recommendations and ensuring 'Contributors' upload reports/data on time and for reviewing/approving publicly submitted reports
+
+_Indicator Managers, Contributors and Managers are responsible for the input and management of data only. Information on how each of those roles is fulfilled can be found in the _[_How to: Report chapter_](/getting-started-quick-start/reporting-and-follow-up.md)
 
 [Administrators ](/getting-started/users-and-roles.md)are responsible for keeping everything else up to date - recommendations, actions, indicators, categories and content pages. They are also responsible for assigning indicators to users and reporting bugs.
 
 The role of Administrators is therefore of critical importance to the overall success and more complex than other roles. This 'User' section of the manual is specifically intended to guide Administrators in the exercise of their role, taking each area of the application one at a time, and providing a number of common use cases.
 
-The way in which Administrators carry out their role is by either 'Adding' new content or 'Editing' existing content. 
+The way in which Administrators carry out their role is by either 'Adding' new content or 'Editing' existing content.
 
 #### Adding Content
 
