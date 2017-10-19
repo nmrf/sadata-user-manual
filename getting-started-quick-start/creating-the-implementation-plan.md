@@ -24,7 +24,7 @@ By creating clusters the wide ranging obligations become more manageable and eas
 
 ![](/assets/Clustering.png)
 
-Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/users/recommendations.md).
+Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/users/recommendations.md). For more information on the difference between 'filtering' and 'editing' [click here](/getting-started-quick-start/edit-and-create-entries.md). 
 
 ##### 3. Add actions and indicators
 

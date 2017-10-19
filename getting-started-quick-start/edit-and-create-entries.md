@@ -14,13 +14,13 @@ _\*\*\***Key Fact**\*\*\* To edit or create entities you need to be assigned as 
 
 **'Edit' v 'Filter' Mode**
 
-'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
-
-
+'Filter' mode is available to all registered users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
 
 ![](/assets/Filter.png)
 
-\(1\) The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
+The edit function is available only to **Administrators.**
+
+\(1\) Once an Administrator is signed in the filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
 
 \(2\) Options to select the page of results or individual results now also appear.
 
