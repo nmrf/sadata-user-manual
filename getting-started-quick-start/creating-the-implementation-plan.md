@@ -10,6 +10,8 @@ Once all of the outcomes are entered into the database there will be hundreds, o
 
 Once all State obligations have been clustered in this way, actions and indicators can be added to the clusters and recommendations. The indicators identify who is responsible for collecting that information and when it should be submitted. That person will receive an automated email with an upload link at that time \(and on a regular basis if required\). All data uploaded will be linked to each relevant State obligation - therefore if work done on training new police recruits helps to achieve SDG target 16.3, CRC recommendation 48 and  UPR recommendation 107.8 it will report against all, despite only having to be uploaded once.
 
+
+
 #### Creating Your Human Rights Implementation Plan in 3 Easy Steps
 
 **1.Enter human rights recommendations or Convention articles **
@@ -22,7 +24,7 @@ This can either be done by importing recommendations or articles in bulk or ente
 
 By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and \(1\) use the filtering and search functions to find similar obligations, \(2\) select them and then \(3\) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
 
- ![](/assets/Clustering.png)Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/visitors/recommendations.md).
+![](/assets/Clustering.png)Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/visitors/recommendations.md).
 
 **3. Add actions and indicators**
 
