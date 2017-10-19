@@ -46,6 +46,8 @@ The National Implementation Plan was initially developed using the recommendatio
 
 ---
 
+##### ![](/assets/5_thematicCluster.png)
+
 ##### **Human Rights Issues**
 
 The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' taxonomy. It helps users search by particular area of interest and see what the Government is doing in that field of work.
@@ -69,6 +71,8 @@ Human Rights Issues categories:
 
 ---
 
+##### ![](/assets/4_affectedPersons.png)
+
 ##### **Affected persons**
 
 In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system.
@@ -91,6 +95,8 @@ Affected persons categories:
 
 ---
 
+##### ![](/assets/5_thematicCluster.png)![](/assets/SMART.png)
+
 ##### **Thematic clusters**
 
 Samoa receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can essentially be the same. This can make the management of those recommendations more difficult than it needs to be. The tool allows the Government to cluster recommendations into general headings to help alleviate this issue.
@@ -112,6 +118,8 @@ For the user, this taxonomy once again allows them to explore potential areas of
 
 ---
 
+##### ![](/assets/6_organisation.png)
+
 ##### **Organisations**
 
 The organisations taxonomy lists the Government agencies \(and others\) carrying out actions contained within the national Implementation Plan. Visitors can use this taxonomy to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the administrator using the 'Contact' link on the website to discuss your involvement.
@@ -126,6 +134,8 @@ Organisations:
 | **Samoa Bureau of Statistics** | **Samoa Chamber of Commerce and      Industry** | **Office of the High Commissioner for  Human Rights** |
 
 ---
+
+##### ![](/assets/7_sdgs.png)
 
 ##### **Sustainable Development Goals**
 
