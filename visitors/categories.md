@@ -46,7 +46,7 @@ The National Implementation Plan was initially developed using the recommendatio
 
 ---
 
-##### ![](/assets/5_thematicCluster.png)
+##### ![](/assets/5_thematicCluster.png)![](/assets/5_humanrightsissue.png)
 
 ##### **Human Rights Issues**
 
