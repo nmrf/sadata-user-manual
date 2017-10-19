@@ -21,7 +21,7 @@
 * [Categories](visitors/categories.md)
 * [Actions & The Implementation Plan](visitors/actions.md)
 * [Indicators](visitors/indicators.md)
-* [Recommendations](visitors/recommendations.md)
+* [Recommendations ](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
 * [Becoming a Registered User](visitors/becoming-a-user.md)
 
