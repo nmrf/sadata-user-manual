@@ -32,6 +32,14 @@ Progress Report
 
 National Mechanism for Reporting and Follow-Up
 
+Manager
+
+Indicator Owner
+
+Contributor
+
+Administrator
+
 ---
 
 #### Icons
