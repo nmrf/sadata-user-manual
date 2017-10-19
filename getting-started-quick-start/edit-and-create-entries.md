@@ -10,9 +10,9 @@ The database is made up of information entered into it by the State and is desig
 
 _\*\*\***Key Fact**\*\*\* To edit or create entities you need to be assigned as an 'Administrator' after you register as a user. Once you are signed in as an Administrator it is very easy to create or add entities._
 
-#### **Editing Entities**
+#### Editing Entities
 
-'Edit' v 'Filter' Mode
+**'Edit' v 'Filter' Mode**
 
 'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
 
