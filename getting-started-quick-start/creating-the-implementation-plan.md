@@ -44,13 +44,13 @@ _ _
 
 ![](/assets/filter by action.png)
 
- 
+
 
 **Finally**: **Monitor and update**
 
 The Implementation Plan is never finished! States will continue to receive additional recommendations from the Treaty Body Committees, the UPR and the Special Procedures. Once any new recommendations are received then these need to be entered into the database, assigned to existing or new clusters and actions assigned to them to make sure they are addressed.
 
-**The SDG Implementation Plan**
+##### **The SDG Implementation Plan**
 
 The SDG Implementation Plan works in exactly the same way as above except for the need for clustering the targets as this has already occurred given they are grouped within specific SDGs. If a State is using the software for both human rights and SDG reporting then as soon as they have finished developing one then work has already started on the other, as actions will have been linked across the two plans. It then just requires the State to identify the gaps and add in extra actions and indicators.
 
