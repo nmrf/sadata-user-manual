@@ -16,6 +16,8 @@ _\*\*\***Key Fact**\*\*\* To edit or create entities you need to be assigned as 
 
 'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
 
+
+
 ![](/assets/Filter.png)
 
 \(1\) The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
