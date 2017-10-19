@@ -12,13 +12,13 @@ Once all State obligations have been clustered in this way, actions and indicato
 
 #### Creating Your Human Rights Implementation Plan in 3 Easy Steps
 
-##### **1.Enter human rights recommendations or Convention articles **
+##### 1.Enter human rights recommendations or Convention article**s **
 
 This can either be done by importing recommendations or articles in bulk or entering them one by one. Simply click on the 'Recommendations ' tab in the top menu bar and get going. For more information on adding recommendations and articles [click here](/visitors/recommendations.md).
 
 ![](/assets/Add recommendations.png)
 
-##### **2. Cluster your recommendations and articles**
+##### 2. Cluster your recommendations and articles
 
 By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and \(1\) use the filtering and search functions to find similar obligations, \(2\) select them and then \(3\) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
 
@@ -26,7 +26,7 @@ By creating clusters the wide ranging obligations become more manageable and eas
 
 Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/visitors/recommendations.md).
 
-##### **3. Add actions and indicators**
+##### 3. Add actions and indicators
 
 Now the framework for the human rights Implementation Plan has been created all that is left to do is add the actions \(and associated indicators\) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
 
@@ -44,13 +44,11 @@ _ _
 
 ![](/assets/filter by action.png)
 
-
-
-**Finally**: **Monitor and update**
+##### Finally: Monitor and update
 
 The Implementation Plan is never finished! States will continue to receive additional recommendations from the Treaty Body Committees, the UPR and the Special Procedures. Once any new recommendations are received then these need to be entered into the database, assigned to existing or new clusters and actions assigned to them to make sure they are addressed.
 
-##### **The SDG Implementation Plan**
+##### The SDG Implementation Plan
 
 The SDG Implementation Plan works in exactly the same way as above except for the need for clustering the targets as this has already occurred given they are grouped within specific SDGs. If a State is using the software for both human rights and SDG reporting then as soon as they have finished developing one then work has already started on the other, as actions will have been linked across the two plans. It then just requires the State to identify the gaps and add in extra actions and indicators.
 
