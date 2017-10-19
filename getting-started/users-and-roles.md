@@ -1,12 +1,12 @@
 ### 
 
-### 2.6 How to: Know your role and register
+### 2.6 How to: Register and assign user roles
 
 This tool allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users and roles and this section outlines exactly what they are and how they can be registered. These different user types allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.
 
 ##### Visitors
 
-Vistors can explore all of the information contained within the tool, track how the Government is performing or even become one of the registered users detailed below. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, [click here](/visitors/using-as-a-visitor.md).  
+Vistors can explore all of the information contained within the tool, track how the Government is performing or even become one of the registered users detailed below. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, [click here](/visitors/using-as-a-visitor.md).
 
 ##### Contributors
 
