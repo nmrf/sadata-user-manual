@@ -13,7 +13,8 @@
 * [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
 * [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
 * [Filter and Search](getting-started-quick-start/filter-and-search.md)
-* [Know your Role and Register](getting-started/users-and-roles.md)
+* [Register](getting-started/users-and-roles.md)
+* [Manage users](getting-started-quick-start/manage-users.md)
 
 ## In Depth: Visitors
 
@@ -23,11 +24,11 @@
 * [Indicators](visitors/indicators.md)
 * [Recommendations ](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
-* [Becoming a Registered User](visitors/becoming-a-user.md)
+* [Register](visitors/becoming-a-user.md)
 
 ## In Depth: Registered Users
 
-* [Registered User Roles](users/being-a-user.md)
+* [Users](users/being-a-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
 * [Indicators](users/indicators.md)

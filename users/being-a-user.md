@@ -1,6 +1,8 @@
-# 4. In Depth: Registered Users
+# 4. In Depth: Users
 
-### 4.1 Registered User Roles
+### 4.1 User types and responsibilities
+
+### 4.2 User roles and rights
 
 [Indicator managers ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
 

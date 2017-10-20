@@ -2,27 +2,29 @@
 
 #### Glossary
 
-_**General**_
+##### General
 
-National Implementation Plan: _The National Implementation Plan consists of the obligations of the State in relation to human rights and the SDGs. It also contains the actions the Government is planning to do to implement those obligations and contains the data of progress achieved to date._
+###### National Implementation Plan
 
-National Mechanism for Implementation, Reporting and Follow-Up: _Government body responsible for coordinating all human rights implementation and reporting. May also contain representatives from civil society, NHRIs, judiciary, Parliamentarians, private sector_
+_The National Implementation Plan consists of the obligations of the State in relation to human rights and the SDGs. It also contains the actions the Government is planning to do to implement those obligations and contains the data of progress achieved to date._
 
+###### National Mechanism for Implementation, Reporting and Follow-Up
 
+_Government body responsible for coordinating all human rights implementation and reporting. May also contain representatives from civil society, NHRIs, judiciary, Parliamentarians, private sector_
 
 _**Types of User**_
 
-Visitor: _Any member of the public visiting the site. Visitors can access and explore all information\* using the filters and search functions and track progress on the National Implementation Plan_
-
-Contributor: _NGOs, NHRIs or any member of the public can register as a user and upload data they may have showing progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities _
-
-Indicator Owner: _For each indicator in the National Implementation Plan, one registered user will be assigned the owner. That person will have been identified as holding the information required for that indicator. They will receive an automated email at the right time asking them to upload that information_
-
-Manager: _For each area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDGs, etc.\) there will be a Manager assigned. If an Indicator Owner does not upload the information required of them at the presecribed time the Manager will receive an automated alert and it is their role to follow-up on the non-entry of data. _
-
-Administrator: _Administrators have the power to add and edit everything within the application. They are responsible for developing and updating the National Implementation Plan, assigning Indicator Owners and adding data where required. _
+| Type | Description | Rights & responsibilities | Prerequisites |
+| :--- | :--- | :--- | :--- |
+| Visitor | Any member of the public visiting the site | Visitors can access and explore all published information using the filters and search functions and track progress on the National Implementation Plan | None \(role "Not registered"\) |
+| Guest contributor | NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities | Add progress reports to existing indicators and upload data. Note: progress reports will have to be verified and published by an authorised user to become public | Register \(role "Guest"\)  |
+| Indicator manager | The data owner for an indicator | Add progress reports for the indicator the user has been assigned to. The user will receive automated reminder emails when a progress report is due | At least role "Contributor" and assiged to indicator |
+| Category manager | The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\) | Assign users to indicators, nd oversee and follow-up data collection. The user will receive automated reminder emails when a progress report is overdue for indicators in the assigned area. Can also create and edit recommendations, actions and indicators, as well as categories  | At least role "Manager" and assigned to category |
+| Application administrator | Manages application | They are responsible for developing and updating the National Implementation Plan. | Role "Administrator" |
 
 
+
+_ _
 
 _**Implementation Plan**_
 
@@ -35,8 +37,6 @@ Action: _Actions are what the State says it is going to do to address clusters o
 Indicator: _For each action there will be at least one indicator, which describes how the success of that action will be measured_
 
 Progress report: _When an indicator is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process \(e.g. quarterly crime statistics\). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report. _
-
-
 
 _**Taxonomies**_
 
