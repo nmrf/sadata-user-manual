@@ -1,8 +1,8 @@
-# 4. In Depth: Users
+# 4. In Depth: User types & roles
 
-### 4.1 User types and functions
+### 4.1 User types 
 
-##### Visitor
+#### Visitor
 
 Any member of the public visiting the site.
 
@@ -14,9 +14,10 @@ Any member of the public visiting the site.
 
 * Access and explore all published information using the filters and search functions 
 * Track progress on the National Implementation Plan
+
 ---
 
-##### Guest contributor
+#### Guest contributor
 
 NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities
 
@@ -30,7 +31,7 @@ NGOs, NHRIs or any member of the public can contribute data to show progress tow
 
 ---
 
-##### Indicator Manager
+#### Indicator Manager
 
 The data owner for an indicator.
 
@@ -46,7 +47,7 @@ The data owner for an indicator.
 
 ---
 
-##### Implementation Plan Manager
+#### Implementation Plan Manager
 
 Responsible for developing and updating the National Implementation Plan
 
@@ -61,7 +62,7 @@ Responsible for developing and updating the National Implementation Plan
 
 ---
 
-##### Category Manager
+#### Category Manager
 
 The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\)
 
@@ -78,8 +79,7 @@ The person responsible for an area of the National Implementation Plan \(e.g. UP
 
 ---
 
-
-##### Content Manager
+#### Content Editor
 
 Responsible for editorial content.
 
@@ -93,7 +93,7 @@ Responsible for editorial content.
 
 ---
 
-##### Application administrator
+#### Application administrator
 
 Overall application manager.
 
@@ -109,6 +109,10 @@ Overall application manager.
 
 ### 4.2 User roles and rights
 
+
+
+
+
 [Indicator managers ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
 
 [Contributors ](/getting-started/users-and-roles.md)- registered users who can upload data, which will need to be reviewed by the relevant Manager
@@ -122,8 +126,6 @@ _Indicator Managers, Contributors and Managers are responsible for the input and
 The role of Administrators is therefore of critical importance to the overall success and more complex than other roles. This 'User' section of the manual is specifically intended to guide Administrators in the exercise of their role, taking each area of the application one at a time, and providing a number of common use cases.
 
 The way in which Administrators carry out their role is by either 'Adding' new content or 'Editing' existing content.
-
-
 
 ### 2.6 How to: Register and assign user roles
 
@@ -169,10 +171,6 @@ Administrators play a critical role in the establishment and maintenance of the 
 The role of Administrator is the most wide-ranging of all the roles. This manual goes into detail in all of the areas of responsibility of Administrators and how to undertake all of the functions in Chapter 4 - 'Users'.
 
 To go to Chapter 4, [click here](/users/being-a-user.md).
-
-
-
-
 
 #### Adding Content
 

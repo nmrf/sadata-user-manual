@@ -28,7 +28,7 @@
 
 ## In Depth: Registered Users
 
-* [Users](users/being-a-user.md)
+* [User types & roles](users/being-a-user.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
 * [Indicators](users/indicators.md)
