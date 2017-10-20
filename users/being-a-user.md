@@ -1,6 +1,97 @@
 # 4. In Depth: Users
 
-### 4.1 User types and responsibilities
+### 4.1 User types and functions
+
+##### Visitor
+
+Any member of the public visiting the site.
+
+###### Prerequisites
+
+* None \(role "Not registered" implicitly assumed\)
+
+###### Rights
+
+* Access and explore all published information using the filters and search functions 
+* Track progress on the National Implementation Plan
+
+##### Guest contributor
+
+NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities
+
+###### Prerequisites
+
+* Registered \(role "Guest" implicitly assumed\)
+
+###### Rights
+
+* Add progress reports to existing indicators and upload data. Note: progress reports will have to be verified and published first by an authorised user to become public
+
+##### Indicator Manager
+
+The data owner for an indicator.
+
+###### Prerequisites
+
+* At least role "Contributor" 
+* Assigned to indicator
+
+###### Responsibilities
+
+* Add progress reports for the indicator the user has been assigned to
+* Receive automated reminder emails when a progress report is due \(weekly, 30 days ahead of due date\) and overdue \(daily, after due date has passed\)
+
+##### Implementation Plan Manager
+
+Responsible for developing and updating the National Implementation Plan
+
+###### Prerequisites
+
+* At least role "Manager" 
+
+###### Responsibilities
+
+* Create and edit recommendations, actions and indicators, as well as categories
+* Connect and categorise recommendations, actions and indicators
+
+##### Category Manager
+
+The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\)
+
+###### Prerequisites
+
+* At least role "Manager" 
+* Assigned to suitable category
+
+###### Responsibilities
+
+* Assign users to indicators
+* Oversee and follow-up data collection
+* Receive automated reminder emails when a progress report is overdue \(weekly, after due date has passed\) for indicators in the assigned area. 
+
+##### Content Manager
+
+Responsible for editorial content.
+
+###### Prerequisites
+
+* Role "Administrator" 
+
+###### Responsibilities
+
+* Create and update content pages
+
+##### Application administrator
+
+Overall application manager.
+
+###### Prerequisites
+
+* Role "Administrator" 
+
+###### Rights & Responsibilities
+
+* Manage users
 
 ### 4.2 User roles and rights
 
