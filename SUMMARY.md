@@ -5,7 +5,6 @@
 * [What is Sadata?](README.md)
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
-* [Glossary & Icons \(alt\)](glossary-and-icons.md)
 
 ## How To
 
