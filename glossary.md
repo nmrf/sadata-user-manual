@@ -98,17 +98,23 @@ Learn more: [for visitors](/visitors/indicators.md) | [for registered users](/me
 
 When an **Indicator** is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process \(e.g. quarterly crime statistics\). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report.
 
+Learn more: [for registered users](/members/indicators.md)
+
 ---
 
 #### Taxonomies
 
 Taxonomies are groups of categories that allow to classify and cluster the principal Implementation Plan entities \(see above\)
 
+Learn more: [for visitors](/visitors/categories.md) | [for registered users](/members/categories.md)
+
 ##### Thematic Clusters
 
 ![](/assets/SMART_icon.png)
 
 Thematic Clusters are groups of **Recommendations** that make the National Implementation Plan more manageable. For instance, if **Recommendations** were received on the same topic from the UPR and CRC Committee they can be put into one thematic cluster and dealt with together, eliminating duplication and taking a coordinated approach to implementation
+
+*Categorise: Recommendations*
 
 ---
 
@@ -118,6 +124,8 @@ Thematic Clusters are groups of **Recommendations** that make the National Imple
 
 Human Rights Bodies, incl. Treaty bodies, refers to the Committees which issue recommendations to States on how to meet their human rights obligations. This taxonomy also includes the Universal Periodic Review and Special Procedures. Recommendations within the application are tagged with the relevant treaty body so users can easily see where they came from.
 
+*Categorise: Recommendations*
+
 ---
 
 ##### Cycles
@@ -125,6 +133,8 @@ Human Rights Bodies, incl. Treaty bodies, refers to the Committees which issue r
 ![](/assets/2_UNsession.png)
 
 Each **Human Rights Body** Committee reviews the State on a regular basis. The cycle allows users of the application to easily see which cycle the recommendations relate to.
+
+*Categorise: Recommendations*
 
 ---
 
@@ -134,6 +144,8 @@ Each **Human Rights Body** Committee reviews the State on a regular basis. The c
 
 The application contains a list of human rights issues which are used to tag **Recommendations**
 
+*Categorise: Recommendations*
+
 ---
 
 ##### Affected persons
@@ -141,6 +153,8 @@ The application contains a list of human rights issues which are used to tag **R
 ![](/assets/4_affectedPersons.png)
 
 TODO: description
+
+*Categorise: Recommendations*
 
 ---
 
@@ -150,6 +164,8 @@ TODO: description
 
 TODO: description
 
+*Categorise: Recommendations*
+
 ---
 
 ##### Organisations, incl Government Agencies
@@ -157,6 +173,8 @@ TODO: description
 ![](/assets/6_organisation.png)
 
 TODO: description
+
+*Categorise: Actions*
 
 ---
 
@@ -166,52 +184,18 @@ TODO: description
 
 TODO: description
 
----
-
-#### Other concepts
-
-##### Categories
-
-![](/assets/categories_icon.png)
-
-TODO: description
-
----
-
-##### Connected Categories
-
-![](/assets/connectedCategories_icon.png)
-
-TODO: description
-
----
-
-##### Connections
-
-![](/assets/connections_icon.png)
-
-TODO: description
-
----
-
-##### Attributes
-
-![](/assets/attributes_icon.png)
-
-TODO: description
-
----
-
-##### Status
-
-TODO: description
+*Categorise: SDG targets*
 
 ---
 
 #### Other Icons
 
-| Icon | Name |
+| Icon | Name / description |
 | :--- | :--- |
+| ![](/assets/categories_icon.png) | Categories | 
+| ![](/assets/connectedCategories_icon.png) | Connected Categories: categories (or tags) inherited from a connected entity |
+| ![](/assets/connections_icon.png) | Connections: relationships between entities, eg an action is connected to a recommendation |
+| ![](/assets/attributes_icon.png) | Entity attributes, eg publication status |
 | ![](/assets/trash_icon.png) | Delete entity |
 | ![](/assets/reminder_icon.png) | Indicator reminder |
 | ![](/assets/calendar_icon.png) | Due Date |
