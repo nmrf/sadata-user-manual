@@ -60,8 +60,6 @@ The data owner for an indicator and this are key to the success of the data entr
 ###### Prerequisites
 
 * At least role "Contributor" (assigned by with at least role "Manager")
-
-
 * Assigned to indicator (by user with at least role "Manager")
 
 ###### Responsibilities
