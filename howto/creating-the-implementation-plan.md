@@ -1,4 +1,4 @@
-# 2. How To:
+# 2. How To
 
 ### 2.1 Create Your Implementation Plan
 
