@@ -47,7 +47,7 @@ The Overview map is a visual representation of the information contained within 
 In the top right-hand corner of all pages are the additional links for visitors to access the following:
 
 * Sign-in, if they are a registered user
-* Register, if they wish to become a registered user \(for more information click [here](/getting-started/users-and-roles.md)\)
+* Register, if they wish to become a registered user \(for more information click [here](/howto/register.md)\)
 * Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
 ---
