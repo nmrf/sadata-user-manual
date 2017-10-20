@@ -36,11 +36,11 @@ Responsible for developing and updating the National Implementation Plan
 
 The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\)
 
-##### Content Manager
+##### Content Editor
 
 Responsible for editorial content.
 
-##### Application administrator
+##### Application Administrator
 
 Overall application manager.
 
