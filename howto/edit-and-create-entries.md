@@ -36,7 +36,7 @@ First the Administrator needs to navigate to where their entity can be found. To
 
 The same approach is required to any action, indicator, recommendation or SDG target - simply find the entity in question, click on it and hit the 'edit' button to get going.
 
-For more detailed instructions on how to edit please see the relevant sections for [categories](/visitors/categories.md), [actions](/users/actions.md), [indicators](/users/indicators.md), [recommendations ](/visitors/recommendations.md)and [SDG targets](/visitors/sdg-targets.md).
+For more detailed instructions on how to edit please see the relevant sections for [categories](/members/categories.md), [actions](/members/actions.md), [indicators](/members/indicators.md), [recommendations ](/members/recommendations.md)and [SDG targets](/members/sdg-targets.md).
 
 **Batch editing**
 
@@ -83,7 +83,7 @@ First the Administrator needs to identify and select the actions they wish to ba
 
 **Adding Single Entities**
 
-Adding new entities is very straight forward. The Administrator simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the content frame. On all of the pages other than the categories page there is also an 'import' button. ![](/assets/Add action.png)To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](/visitors/categories.md), [actions](/users/actions.md), [indicators](/users/indicators.md), [recommendations ](/visitors/recommendations.md)or [SDG targets](/visitors/sdg-targets.md).
+Adding new entities is very straight forward. The Administrator simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the content frame. On all of the pages other than the categories page there is also an 'import' button. ![](/assets/Add action.png)To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](/members/categories.md), [actions](/members/actions.md), [indicators](/members/indicators.md), [recommendations ](/members/recommendations.md)or [SDG targets](/members/sdg-targets.md).
 
 **Importing Multiple Entities **
 

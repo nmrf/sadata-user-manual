@@ -213,6 +213,8 @@ Organisations:
 
 ---
 
+##### ![](/assets/7_sdgs.png)
+
 ##### **Sustainable Development Goals**
 
 In addition to being a tool which helps track and coordinate implementation a country's human rights obligations, Sadata also does the same in relation to the SDGs. Visitors can therefore click on this taxonomy to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. The tool helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.

@@ -29,7 +29,7 @@ Role implicitly assumed when registered
 
 ##### Function: Guest contributor
 
-Contributors are registered users who can submit information relating to the National Implementation Plan or the SDGs, but don't have to be part of the Government. NGOs, NHRIs or any member of the public can thus contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities. For instance, a contributor could be an NGO who has been doing work in a particular area that is helping to achieve one of the areas of the Implementation Plan or the SDGs. Any organisation or individual can register as a user and contribute data as they see fit. In addition to raising awareness of the work they are doing this can also help to foster better coordination of activities with Government. For more information on adding reports, click [here](/getting-started-quick-start/reporting-and-follow-up.md).
+Contributors are registered users who can submit information relating to the National Implementation Plan or the SDGs, but don't have to be part of the Government. NGOs, NHRIs or any member of the public can thus contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities. For instance, a contributor could be an NGO who has been doing work in a particular area that is helping to achieve one of the areas of the Implementation Plan or the SDGs. Any organisation or individual can register as a user and contribute data as they see fit. In addition to raising awareness of the work they are doing this can also help to foster better coordination of activities with Government. For more information on adding reports, click [here](/howto/reporting-and-follow-up.md).
 
 ###### Responsibilities
 
@@ -48,7 +48,7 @@ Contributors are registered users who can submit information relating to the Nat
 
 ##### Function: Indicator Manager
 
-The data owner for an indicator and this are key to the success of the data entry - they are the registered users who upload information against all of the indicators. Once assigned to an indicator the user becomes responsible for uploading data at the required time. For more information on adding reports, click [here](/getting-started-quick-start/reporting-and-follow-up.md).
+The data owner for an indicator and this are key to the success of the data entry - they are the registered users who upload information against all of the indicators. Once assigned to an indicator the user becomes responsible for uploading data at the required time. For more information on adding reports, click [here](/howto/reporting-and-follow-up.md).
 
 ###### Prerequisites
 

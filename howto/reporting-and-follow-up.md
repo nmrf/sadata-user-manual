@@ -40,7 +40,7 @@ The Indicator Manager will then be taken to the following screen:![](/assets/Adm
 
 Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found here.
 
-Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found [here](/getting-started-quick-start/filter-and-search.md).
+Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found [here](/howto/filter-and-search.md).
 
 Once the relevant indicator has been found the contributor simply needs to click on the 'Add report' button' as described above for Indicator Owners and follow the same set of instructions.
 
@@ -56,11 +56,11 @@ An Administrator can also choose to submit reports at any time and in relation t
 
 Setting up an Indicator Owner means assigned responsibility for a particular indicator to a registered user. That user will then be receive the automated report reminder emails and be responsible for uploading the report and data. 
 
-For an Indicator Owner to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [here](/getting-started/users-and-roles.md). Once the person is a registered user the process is as follows:
+For an Indicator Owner to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [here](/howto/register.md). Once the person is a registered user the process is as follows:
 
-1\) The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [here](/users/users.md). 
+1\) The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [here](/members/users-admin.md). 
 
-2\) The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found [here](/visitors/indicators.md). 
+2\) The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found [here](/members/indicators.md). 
 
 ---
 

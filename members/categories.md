@@ -8,7 +8,7 @@ In addition to being able to use the 'Categories' page to view information in th
 
 If the Administrator wishes to edit an existing category they click on the entry they wish to edit \(2\), which will bring up the category and an edit option. Clicking on the edit button will allow the Administrator to amend any of the details of that category.
 
-![](/assets/Editing categories 2.png)A list of all the categories at the time of writing, that can be edited in this manner can be found [here](/users/categories.md).
+![](/assets/Editing categories 2.png)A list of all the categories at the time of writing, that can be edited in this manner can be found [here](/members/categories.md).
 
 If the Administrator wishes to add a new category \(i.e. a new human rights body, cycle, issue, cluster, etc.\) then they simply click on the 'Add category' icon \(top image, 3\)![](/assets/Add sub category.png)
 
@@ -28,7 +28,7 @@ This function is available when adding new Human Rights Bodies, Cycles, Human Ri
 
 6\) Website: If additional information on a category can be found via an external URL it can be noted  here and accessed by visitors to the site \(e.g. The website for the Committee on Economic, Social and Cultural Rights\)
 
-7\) Category Manager: \*Only visible for Human Rights Bodies and SDGs\* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Category Managers click [here](/getting-started/users-and-roles.md).
+7\) Category Manager: \*Only visible for Human Rights Bodies and SDGs\* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Category Managers click [here](/members/user-roles.md).
 
 ---
 

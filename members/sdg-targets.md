@@ -72,9 +72,7 @@ Batch editing is a simple process - first the Administrator needs to identify an
 * Select all recommendations on the page displayed \(see \#2 on image below\)
 * Select all recommendations returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Batch Edit SDG Targets.png)
 
-2\) Once the relevant SDG Targets have been selected the Administrator can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/users/actions.md).
-
-### \#
+2\) Once the relevant SDG Targets have been selected the Administrator can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](/members/actions.md).
 
 ---
 
