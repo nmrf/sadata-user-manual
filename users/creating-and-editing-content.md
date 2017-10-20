@@ -1,4 +1,4 @@
-#### Adding Content
+### Adding Content
 
 One of the roles of administrators are is adding the base content, such as:
 
