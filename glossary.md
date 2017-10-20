@@ -14,7 +14,7 @@ Government body responsible for coordinating all human rights implementation and
 
 #### User types
 
-Please see [Users](/users/being-a-user.md) for more details.
+Please see [User types & roles](/users/being-a-user.md) for more details.
 
 ##### Visitor
 
@@ -89,7 +89,7 @@ When an **Indicator** is created within the application a date is set for when t
 
 ---
 
-#### Taxonomies 
+#### Taxonomies
 
 Taxonomies are groups of categories that allow to classify and cluster the principal Implementation Plan entities \(see above\)
 
@@ -206,5 +206,6 @@ TODO: description
 | ![](/assets/calendar_icon.png) | Due Date |
 | ![](/assets/filter_icon.png) | Filter entities |
 | ![](/assets/edit_icon.png) | Edit entities |
+
 
 
