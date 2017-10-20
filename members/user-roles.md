@@ -4,7 +4,7 @@ This tool allows users to organise human rights recommendations and the SDGs, tr
 
 ---
 
-### 4.1 User roles and functions
+### 4.1 User roles & responsibilities
 
 #### Role: Visitor 
 
