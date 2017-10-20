@@ -111,7 +111,50 @@ Overall application manager.
 
 #### Unauthorised
 
-Any member of the public 
+Any member of the public that has not logged in
+
+###### Rights
+
+* View all public content
+* Can register
+
+#### Guest
+
+Role implicitly assumed when registered
+
+###### Rights
+
+* Can create draft progress reports (thus become user type "Guest Contributor")
+* All the above
+
+#### Contributor
+
+###### Rights
+
+* Can be assigned to indicator
+* Can create public progress reports for assigned indicators
+* Can view draft content
+* All the above
+
+#### Manager
+
+###### Rights
+
+* Can be assigned to category (thus become user type "Category Manager")
+* Can assign Contributor to indicator
+* Can promote Guest to Contributor
+* Can create and update categories and other entities (except pages)
+* All the above
+
+#### Administrator
+
+###### Rights
+
+* Can assign Manager to category
+* Can promote users to Manager and Administrator
+* Can create and update pages
+* All the above
+
 
 [Indicator managers ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
 
