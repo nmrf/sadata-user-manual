@@ -24,11 +24,17 @@ This taxonomy or group of categories covers all human rights bodies or mechanism
 
 Human Rights Bodies categories:
 
-| Human Rights Committee | Committee on Economic, Social and  Cultural Rights | Committee Against Torture |
-| :--- | :--- | :--- |
-| Committee on Migrant Workers | Committee on the Elimination of         Discrimination Against Women | Committee on the Rights of Persons     with Disabilities |
-| **Committee on Enforced                        Disappearance** | **Committee on the Rights of the Child** | **Committee on the Elimination of         Racial Discrimination** |
-| Sub-committee on the Prevention of     Torture | Universal Periodic Review |  |
+* Human Rights Committee 
+* Committee on Economic, Social and  Cultural Rights 
+* Committee Against Torture 
+* Committee on Migrant Workers 
+* Committee on the Elimination of Discrimination Against Women 
+* Committee on the Rights of Persons with Disabilities 
+* Committee on Enforced Disappearance
+* Committee on the Rights of the Child
+* Committee on the Elimination of Racial Discrimination
+* Sub-committee on the Prevention of Torture 
+* Universal Periodic Review
 
 ---
 
@@ -40,9 +46,8 @@ Both the treaty body reviews and the Universal Periodic Review are regular and o
 
 The National Implementation Plan was initially developed using the recommendations received from the two most recent reviews for Samoa. Therefore there are only initially two Cycles categories \(but this will grow over time\):
 
-| CRC cycle 2-4 | UPR 2nd cycle |  |
-| :--- | :--- | :--- |
-
+* CRC cycle 2-4 
+* UPR 2nd cycle
 
 ---
 
@@ -54,20 +59,45 @@ The Office of the United Nations High Commissioner for Human Rights has develope
 
 Human Rights Issues categories:
 
-| Scope of International Obligations | Cooperation with human rights           mechanisms and institutions | Inter-State cooperation and                 development assistance |
-| :--- | :--- | :--- |
-| Legal, institutional and policy                framework | Human rights education, training and  awareness raising | Context, statistics, budget, civil            society |
-| **International criminal and                    humanitarian law** | **Right to self-determination** | **Equality and non-discrimination** |
-| Right to development | Right to a remedy | Business and human rights |
-| **Human rights and environmental         issues** | **Human rights & counter-terrorism** | **Human rights & use of mercenaries** |
-| Civil & political rights - general            measures of implementation | Right to physical and moral integrity | Liberty and security of the person |
-| **Fundamental freedoms** | **Administration of justice** | **Rights related to name, identity,          nationality** |
-| Right to participation in public affairs and right to vote | Rights related to marriage and family | Economic, social and cultural rights -  general measures of implementation |
-| **Right to education** | **Labour rights** | **Right to health** |
-| Right to an adequate standard of living | Rights to protection of property;          financial credit | Cultural rights |
-| **Women** | **Children** | **Persons with disabilities** |
-| Members of minorities | Indigenous peoples | Migrants |
-| **Refugees & asylum seekers** | **Internally displaced persons** | **Human rights defenders** |
+* Scope of International Obligations 
+* Cooperation with human rights mechanisms and institutions 
+* Inter-State cooperation and development assistance 
+* Legal, institutional and policy framework 
+* Human rights education, training and awareness raising 
+* Context, statistics, budget, civil society 
+* International criminal and humanitarian law
+* Right to self-determination
+* Equality and non-discrimination
+* Right to development 
+* Right to a remedy
+* Business and human rights 
+* Human rights and environmental issues
+* Human rights & counter-terrorism
+* Human rights & use of mercenaries
+* Civil & political rights - general measures of implementation 
+* Right to physical and moral integrity 
+* Liberty and security of the person
+* Fundamental freedoms
+* Administration of justice 
+* Rights related to name, identity, nationality
+* Right to participation in public affairs and right to vote 
+* Rights related to marriage and family 
+* Economic, social and cultural rights - general measures of implementation 
+* Right to education
+* Labour rights
+* Right to health
+* Right to an adequate standard of living 
+* Rights to protection of property; financial credit
+* Cultural rights
+* Women
+* Children
+* Persons with disabilities
+* Members of minorities
+* Indigenous peoples
+* Migrants
+* Refugees & asylum seekers
+* Internally displaced persons
+* Human rights defenders
 
 ---
 
@@ -79,19 +109,42 @@ In the same way that 'Human Rights Issues' allows users to examine particular is
 
 Affected persons categories:
 
-| Children | Children in street situations | Disappeared persons |
-| :--- | :--- | :--- |
-| Educational staff | General | Girls |
-| **Human rights defenders** | **Indigenous peoples** | **Internally displaced persons** |
-| Judges, lawyers and prosecutors | Law enforcement/police officials | Lesbian, gay, bisexual and transgender and intersex persons \(LGBTI\) |
-| **Media** | **Medical staff** | **Mercenaries** |
-| Migrants | Military staff | Minorities/racial, ethnic, linguistic,       religious or descent-based groups |
-| **Non-citizens** | **Older persons** | **Persons affected by armed conflict** |
-| Persons deprived of their liberty | Persons living in poverty | Persons living in rural areas |
-| **Persons living with HIV/AIDS** | **Persons with disabilities** | **Prison officials** |
-| Private security | Public officials | Refugees & asylum seekers |
-| **Rural women** | **Social workers** | **Stateless persons** |
-| Vulnerable persons/groups | Women | Youth |
+* Children 
+* Children in street situations 
+* Disappeared persons
+* Educational staff 
+*General
+* Girls
+* Human rights defenders
+* Indigenous peoples
+* Internally displaced persons
+* Judges, lawyers and prosecutors
+* Law enforcement/police officials
+* Lesbian, gay, bisexual and transgender and intersex persons \(LGBTI\)
+* Media
+* Medical staff
+* Mercenaries
+* Migrants
+* Military staff
+* Minorities/racial, ethnic, linguistic, religious or descent-based groups 
+* Non-citizens
+* Older persons
+* Persons affected by armed conflict
+* Persons deprived of their liberty
+* Persons living in poverty
+* Persons living in rural areas 
+* Persons living with HIV/AIDS
+* Persons with disabilities
+* Prison officials
+* Private security
+* Public officials
+* Refugees & asylum seekers
+* Rural women
+* Social workers
+* Stateless persons
+* Vulnerable persons/groups
+* Women
+* Youth
 
 ---
 
@@ -105,16 +158,33 @@ Clustering recommendations in this way not only helps make implementation more m
 
 For the user, this taxonomy once again allows them to explore potential areas of interest using the categorisation system. The thematic clusters are liable to change. At the launch date of Sadata, the initial draft thematic clusters are:
 
-| Address child labour | Adoption | SDG Alignment of national planning |
-| :--- | :--- | :--- |
-| Bring all places of detention into line  with the Mandela Rules | CRPD implementation | Climate change, disaster management and human rights |
-| **Establishment of a National                Mechanism for Reporting and Follow-Up** | **Family and domestic violence** | **Gender equality and empowerment of women** |
-| Harmonise laws with CRC | Human rights training for law               enforcement officials | Identify and address human trafficking |
-| **Improved education** | **Improved health and healthcare** | **Improved water and sanitation** |
-| Increased participation of women in   public life and decision making | law and justice sector legislative          review and reform | Mental health |
-| **National Human Rights institution      establishment and strengthening** | **Protect and promote the rights of       children and youth** | **Protection of indigenous peoples and protection of land rights** |
-| Raise human rights awareness and      increase human rights education | Ratify and implement outstanding        human rights treaties | Ratify the 3 optional protocols to the  CRC |
-| **Sexual and reproductive health rights** | **Sexual orientation and gender identity** | **Submission of overdue reports to the Treaty Bodies** |
+* Address child labour 
+* Adoption 
+* SDG Alignment of national planning 
+* Bring all places of detention into line with the Mandela Rules 
+* CRPD implementation 
+* Climate change, disaster management and human rights 
+* Establishment of a National Mechanism for Reporting and Follow-Up 
+* Family and domestic violence 
+* Gender equality and empowerment of women 
+* Harmonise laws with CRC 
+* Human rights training for law enforcement officials 
+* Identify and address human trafficking 
+* Improved education 
+* Improved health and healthcare 
+* Improved water and sanitation 
+* Increased participation of women in public life and decision making 
+* law and justice sector legislative review and reform 
+* Mental health 
+* National Human Rights institution establishment and strengthening 
+* Protect and promote the rights of children and youth 
+* Protection of indigenous peoples and protection of land rights 
+* Raise human rights awareness and increase human rights education 
+* Ratify and implement outstanding human rights treaties 
+* Ratify the 3 optional protocols to the CRC
+* Sexual and reproductive health rights 
+* Sexual orientation and gender identity 
+* Submission of overdue reports to the Treaty Bodies
 
 ---
 
@@ -125,17 +195,23 @@ For the user, this taxonomy once again allows them to explore potential areas of
 The organisations taxonomy lists the Government agencies \(and others\) carrying out actions contained within the national Implementation Plan. Visitors can use this taxonomy to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the administrator using the 'Contact' link on the website to discuss your involvement.
 
 Organisations:
-
-| Civil Society Support Program | Ministry of Commerce. Industry and   Labour | Ministry of Education, Sport and         Culture |
-| :--- | :--- | :--- |
-| Ministry of Foreign Affairs and Trade | Ministry of Health | Ministry of Police |
-| **Ministry of Justice and Courts            Administration** | **Ministry of Prisons and Corrections   Services** | **Ministry of Women, Community and   Social Development** |
-| National Human Rights Institution | Office of the Attorney General | Public Service Commission |
-| **Samoa Bureau of Statistics** | **Samoa Chamber of Commerce and      Industry** | **Office of the High Commissioner for  Human Rights** |
+* Civil Society Support Program 
+* Ministry of Commerce. Industry and Labour 
+* Ministry of Education, Sport and Culture 
+* Ministry of Foreign Affairs and Trade 
+* Ministry of Health 
+* Ministry of Police 
+* Ministry of Justice and Courts Administration
+* Ministry of Prisons and Corrections Services
+* Ministry of Women, Community and Social Development
+* National Human Rights Institution 
+* Office of the Attorney General 
+* Public Service Commission 
+* Samoa Bureau of Statistics
+* Samoa Chamber of Commerce and Industry
+* Office of the High Commissioner for Human Rights
 
 ---
-
-##### ![](/assets/7_sdgs.png)
 
 ##### **Sustainable Development Goals**
 
@@ -143,13 +219,24 @@ In addition to being a tool which helps track and coordinate implementation a co
 
 The SDGs:
 
-| No poverty | Zero hunger | Good health and well-being |
-| :--- | :--- | :--- |
-| Quality education | Gender equality | Clean water and sanitation |
-| **Affordable and clean energy** | **Decent work and economic growth** | **Industry, innovation and infrastructure** |
-| Reduced inequalities | Sustainable cities and communities | Responsible consumption and             production |
-| **Climate action** | **Life below water** | **Life on land** |
-| Peace, justice and strong institutions | Partnerships for the goals |  |
+* No poverty 
+* Zero hunger 
+* Good health and well-being 
+* Quality education 
+* Gender equality 
+* Clean water and sanitation 
+* Affordable and clean energy 
+* Decent work and economic growth 
+* Industry, innovation and infrastructure 
+* Reduced inequalities 
+* Sustainable cities and communities 
+* Responsible consumption and production 
+* Climate action 
+* Life below water 
+* Life on land 
+* Peace, justice and strong institutions 
+* Partnerships for the goals
+
 
 ---
 
