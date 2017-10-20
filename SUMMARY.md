@@ -8,13 +8,12 @@
 
 ## How To
 
-* [Create Your Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
-* [Report \(add data\)](getting-started-quick-start/reporting-and-follow-up.md)
-* [Monitor the Implementation Plan](getting-started-quick-start/monitor-the-implementation-plan.md)
-* [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
-* [Filter and Search](getting-started-quick-start/filter-and-search.md)
-* [Register](getting-started/users-and-roles.md)
-* [Assign user roles](getting-started-quick-start/manage-users.md)
+* [Create Your Implementation Plan](howto/creating-the-implementation-plan.md)
+* [Report \(add data\)](howto/reporting-and-follow-up.md)
+* [Monitor the Implementation Plan](howto/monitor-the-implementation-plan.md)
+* [Edit and Create Entities](howto/edit-and-create-entries.md)
+* [Filter and Search](howto/filter-and-search.md)
+* [Register](howto/register.md)
 
 ## In Depth: Visitors
 
@@ -28,14 +27,14 @@
 
 ## In Depth: Registered Users
 
-* [User types & roles](users/being-a-user.md)
-* [User Profile](users/user-profile.md)
-* [Creating & editing content](users/creating-and-editing-content.md)
-* [Categories](users/categories.md)
-* [Actions](users/actions.md)
-* [Indicators](users/indicators.md)
-* [Recommendations](users/recommendations.md)
-* [SDG Targets](users/sdg-targets.md)
-* [Users Admin](users/users.md)
-* [Pages](users/pages.md)
+* [User roles & responsibilities](members/user-roles.md)
+* [User Profile](members/user-profile.md)
+* [Users Admin](members/user-admin.md)
+* [Creating & editing content](members/content.md)
+* [Categories](members/categories.md)
+* [Actions](members/actions.md)
+* [Indicators](members/indicators.md)
+* [Recommendations](members/recommendations.md)
+* [SDG Targets](members/sdg-targets.md)
+* [Pages](members/pages.md)
 
