@@ -12,35 +12,42 @@ Government body responsible for coordinating all human rights implementation and
 
 ---
 
-#### User types
+#### User roles and functions
 
 Please see [User types & roles](/users/being-a-user.md) for more details.
 
-##### Visitor
+##### Role: Unauthorised
+
+###### Function: Visitor
 
 Any member of the public visiting the site.
 
-##### Guest contributor
+##### Role: Guest
+###### Function: Guest contributor
 
 NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities
 
-##### Indicator Manager
+##### Role: Contributor
+###### Function: Indicator Manager
 
 The data owner for an indicator.
 
-##### Implementation Plan Manager
-
-Responsible for developing and updating the National Implementation Plan
-
-##### Category Manager
+##### Role: Manager
+###### Function: Category Manager
 
 The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\)
 
-##### Content Editor
+###### Function: Implementation Plan Manager
+
+Responsible for developing and updating the National Implementation Plan
+
+##### Role: Administrator
+
+###### Function: Content Editor
 
 Responsible for editorial content.
 
-##### Application Administrator
+###### Function: Application Administrator
 
 Overall application manager.
 
