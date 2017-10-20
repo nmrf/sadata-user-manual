@@ -29,7 +29,7 @@
 
 * [User roles & responsibilities](members/user-roles.md)
 * [User Profile](members/user-profile.md)
-* [Users Admin](members/user-admin.md)
+* [Users Admin](members/users-admin.md)
 * [Creating & editing content](members/content.md)
 * [Categories](members/categories.md)
 * [Actions](members/actions.md)
