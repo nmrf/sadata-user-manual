@@ -1,4 +1,4 @@
-# 4. In Depth: User roles
+# 4. In Depth: Registered Users
 
 This tool allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users types and roles and this section outlines exactly what they are and how they can be registered. These different user types and roles allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.
 
