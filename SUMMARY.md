@@ -29,6 +29,7 @@
 ## In Depth: Registered Users
 
 * [User types & roles](users/being-a-user.md)
+* [User Profile](users/user-profile.md)
 * [Creating & editing content](users/creating-and-editing-content.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
@@ -37,5 +38,4 @@
 * [SDG Targets](users/sdg-targets.md)
 * [Users Admin](users/users.md)
 * [Pages](users/pages.md)
-* [User Profile](users/user-profile.md)
 
