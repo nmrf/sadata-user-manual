@@ -22,11 +22,9 @@ Any member of the public visiting the site.
 
 ##### Role: Guest
 
-A registered user implicitly assumes the role "Guest"
+A registered user implicitly assumes the role "Guest". 
 
-###### Function: Guest contributor
-
-NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities.
+NGOs, NHRIs or any member of the public can contribute data as a **Guest Contributor** to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities.
 
 ##### Role: Contributor
 
