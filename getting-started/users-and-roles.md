@@ -1,4 +1,4 @@
-### 2.5 How to: Register
+### 2.6 How to: Register
 
 ![](/assets/Registration.png)
 
