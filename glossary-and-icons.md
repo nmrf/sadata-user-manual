@@ -43,11 +43,11 @@ Responsible for developing and updating the National Implementation Plan
 
 ##### Role: Administrator
 
-###### Content Editor
+###### Function: Content Editor
 
 Responsible for editorial content.
 
-###### Application Administrator
+###### Function: Application Administrator
 
 Overall application manager.
 
