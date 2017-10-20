@@ -1,4 +1,4 @@
-### 1.3 Glossary
+### 1.3 Glossary & Icons
 
 #### General
 
