@@ -6,18 +6,15 @@ This tool allows users to organise human rights recommendations and the SDGs, tr
 
 ### 4.1 User roles and functions
 
-#### Role: Unauthorised
+#### Role: Visitor 
 
-Any member of the public that has not logged in
+Any member of the public that is not registered or logged in. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, [click here](/visitors/using-as-a-visitor.md).
+
 
 ###### Rights
 
 * Access and explore all published information using the filters and search functions
 * Track progress on the National Implementation Plan and thus how the Government is performing
-
-##### Function: Visitor
-
-Any member of the public visiting the site. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, [click here](/visitors/using-as-a-visitor.md).
 
 ---
 
@@ -33,10 +30,6 @@ Role implicitly assumed when registered
 ##### Function: Guest contributor
 
 Contributors are registered users who can submit information relating to the National Implementation Plan or the SDGs, but don't have to be part of the Government. NGOs, NHRIs or any member of the public can thus contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities. For instance, a contributor could be an NGO who has been doing work in a particular area that is helping to achieve one of the areas of the Implementation Plan or the SDGs. Any organisation or individual can register as a user and contribute data as they see fit. In addition to raising awareness of the work they are doing this can also help to foster better coordination of activities with Government. For more information on adding reports, click [here](/getting-started-quick-start/reporting-and-follow-up.md).
-
-###### Prerequisites
-
-* Registered \(role "Guest" implicitly assumed\)
 
 ###### Responsibilities
 
@@ -59,14 +52,12 @@ The data owner for an indicator and this are key to the success of the data entr
 
 ###### Prerequisites
 
-* At least role "Contributor" (assigned by with at least role "Manager")
 * Assigned to indicator (by user with at least role "Manager")
 
 ###### Responsibilities
 
 * Add progress reports and upload data for the indicator the user has been assigned to
 * Receive automated reminder emails when a progress report is due \(weekly, 30 days ahead of due date\) and overdue \(daily, after due date has passed\)
-
 
 ###### Example
 
@@ -99,7 +90,6 @@ At each NMRF quarterly meeting each Manager should provide an overview of recent
 
 ###### Prerequisites
 
-* At least role "Manager"
 * Assigned to suitable category
 
 ###### Responsibilities
@@ -114,10 +104,6 @@ At each NMRF quarterly meeting each Manager should provide an overview of recent
 ##### Function: Implementation Plan Manager
 
 Responsible for developing and updating the National Implementation Plan.
-
-###### Prerequisites
-
-* At least role "Manager"
 
 ###### Responsibilities
 
@@ -141,9 +127,6 @@ Responsible for developing and updating the National Implementation Plan.
 
 Responsible for editorial content.
 
-###### Prerequisites
-
-* Role "Administrator"
 
 ###### Responsibilities
 
@@ -152,10 +135,6 @@ Responsible for editorial content.
 ##### Function: Application administrator
 
 Application administrators play a critical role in maintenance of the application.
-
-###### Prerequisites
-
-* Role "Administrator"
 
 ###### Rights & Responsibilities
 

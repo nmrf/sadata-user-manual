@@ -12,44 +12,40 @@ Government body responsible for coordinating all human rights implementation and
 
 ---
 
-#### User roles and functions
+#### User roles 
 
-Please see [User types & roles](/users/being-a-user.md) for more details.
+Please see [User roles & responsibilities](/members/user-roles.md) for more details.
 
-##### Role: Unauthorised
-
-###### Function: Visitor
+##### Role: Visitor
 
 Any member of the public visiting the site.
 
 ##### Role: Guest
+
+A registered user implicitly assumes the role "Guest"
+
 ###### Function: Guest contributor
 
-NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities
+NGOs, NHRIs or any member of the public can contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities.
 
 ##### Role: Contributor
-###### Function: Indicator Manager
 
-The data owner for an indicator.
+A user promoted to "Contributor". As the data owner for an indicator the user can be assigned to that indicator and become an **Indicator Manager**.
 
 ##### Role: Manager
-###### Function: Category Manager
 
-The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\)
+A user promoted to "Manager" can become a
 
-###### Function: Implementation Plan Manager
-
-Responsible for developing and updating the National Implementation Plan
+* **Category Manager** responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\), 
+* **Implementation Plan Manager** responsible for developing and updating the National Implementation Plan.
 
 ##### Role: Administrator
 
-###### Function: Content Editor
+A user promoted to "Administrator" can be responsible for 
 
-Responsible for editorial content.
-
-###### Function: Application Administrator
-
-Overall application manager.
+* editorial content,
+* managing other Users, including Managers,
+* the application overall.
 
 ---
 
@@ -61,6 +57,8 @@ Overall application manager.
 _Recommendation \| Accepted \| Not accepted_
 
 States receive Recommendations from the Universal Periodic Review, the UN Committees of the Treaties it has ratified and the Special Procedures. These Recommendations are entered into the application and are clustered to form the basis of the National Implementation
+
+
 
 ---
 
