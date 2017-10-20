@@ -1,6 +1,6 @@
 # 4. In Depth: User types & roles
 
-### 4.1 User types 
+### 4.1 User types
 
 #### Visitor
 
@@ -8,7 +8,7 @@ Any member of the public visiting the site.
 
 ###### Prerequisites
 
-* None \(role "Not registered" implicitly assumed\)
+* None \(role "Unauthorised" implicitly assumed\)
 
 ###### Rights
 
@@ -109,9 +109,9 @@ Overall application manager.
 
 ### 4.2 User roles and rights
 
+#### Unauthorised
 
-
-
+Any member of the public 
 
 [Indicator managers ](/getting-started/users-and-roles.md)- responsible for uploading reports/data against assigned indicators
 
