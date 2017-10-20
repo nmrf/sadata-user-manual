@@ -14,7 +14,7 @@
 * [Edit and Create Entities](getting-started-quick-start/edit-and-create-entries.md)
 * [Filter and Search](getting-started-quick-start/filter-and-search.md)
 * [Register](getting-started/users-and-roles.md)
-* [Manage users](getting-started-quick-start/manage-users.md)
+* [Assign user roles](getting-started-quick-start/manage-users.md)
 
 ## In Depth: Visitors
 
