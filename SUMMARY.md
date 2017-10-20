@@ -23,7 +23,7 @@
 * [Indicators](visitors/indicators.md)
 * [Recommendations ](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
-* [Register](visitors/becoming-a-user.md)
+* [Register](visitors/register.md)
 
 ## In Depth: Registered Users
 

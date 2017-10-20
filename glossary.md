@@ -58,7 +58,7 @@ _Recommendation \| Accepted \| Not accepted_
 
 States receive Recommendations from the Universal Periodic Review, the UN Committees of the Treaties it has ratified and the Special Procedures. These Recommendations are entered into the application and are clustered to form the basis of the National Implementation
 
-
+Learn more: [for visitors](/visitors/recommendations.md) | [for registered users](/members/recommendations.md)
 
 ---
 
@@ -68,6 +68,8 @@ States receive Recommendations from the Universal Periodic Review, the UN Commit
 
 Actions are what the State says it is going to do to address **Thematic Clusters** \(see below\) of **Recommendations **and implement those obligations
 
+Learn more: [for visitors](/visitors/actions.md) | [for registered users](/members/actions.md)
+
 ---
 
 ##### SDG Targets
@@ -76,6 +78,8 @@ Actions are what the State says it is going to do to address **Thematic Clusters
 
 One or more SDG Targets have been defined for each **Sustainable Development Goal** \(SDG, see below\).
 
+Learn more: [for visitors](/visitors/sdg-targets.md) | [for registered users](/members/sdg-targets.md)
+
 ---
 
 ##### Indicators
@@ -83,6 +87,8 @@ One or more SDG Targets have been defined for each **Sustainable Development Goa
 ![](/assets/indicators_icon.png)
 
 For each **Action** there will be at least one indicator, which describes how the success of that **Action** will be measured. Indicators have also been defined for **SDG Targets**
+
+Learn more: [for visitors](/visitors/indicators.md) | [for registered users](/members/indicators.md)
 
 ---
 
