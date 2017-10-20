@@ -30,6 +30,7 @@
 ## In Depth: Registered Users
 
 * [User types & roles](users/being-a-user.md)
+* [User roles \(alt\)](users/user-roles-alt.md)
 * [Creating & editing content](users/creating-and-editing-content.md)
 * [Categories](users/categories.md)
 * [Actions](users/actions.md)
