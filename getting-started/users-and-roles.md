@@ -12,7 +12,7 @@ Users have to be registered in the following way:
 
 ![](/assets/Register form.png)
 
-\*\* _It is important to note that simply registering as described above only allows the user to contribute draft progress reports to indicators as a Guest Contributor. To publish and edit other information, specific _user permission rights_ have to be granted by an Administrator or Manager \(see _[_Assign user roles_](/getting-started-quick-start/manage-users.md)_\) \*\*_
+\*\* _It is important to note that simply registering as described above only allows the user to contribute draft progress reports to indicators as a Guest Contributor \(TODO link\). To publish and edit other information, specific user permission rights_ have to be granted by an Administrator or Manager \(see _\[\_Assign user roles_\]\(/getting-started-quick-start/manage-users.md\)_\) \*\*_
 
 ---
 
