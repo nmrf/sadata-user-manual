@@ -38,7 +38,6 @@ Contributors are registered users who can submit information relating to the Nat
 #### Indicator Manager
 
 The data owner for an indicator and this are key to the success of the data entry - they are the registered users who upload information against all of the indicators. Once assigned to an indicator the user becomes responsible for uploading data at the required time. For more information on adding reports, click [here](/getting-started-quick-start/reporting-and-follow-up.md).
-Indicator Owners are key to the success of data - they are the registered users who upload information against all of the indicators. The most common user who contributes is the 'Indicator Owner' - that is a user who has had a particular indicator assigned to them and is responsible for uploading the data. A user becomes a Indicator Ownerwhen an Administrator allocates one of more indicators to that user. That Indicator Manager then becomes responsible for uploading data at the required time \(set by the Administrator\). The Indicator Owner will receive an email when it is time to upload that information. For more information on adding reports, click [here](/getting-started-quick-start/reporting-and-follow-up.md).
 
 ###### Prerequisites
 
@@ -67,9 +66,11 @@ Should they fail to do so then they will continue to receive email reminders unt
 
 #### Category Manager
 
-The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\) and thus for sets of recommendations.
+The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.
 
+For each 'Human Rights Body' category, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.
 
+At each NMRF quarterly meeting each Manager should provide an overview of recently added data/information to the Working Group.
 
 
 ###### Prerequisites
@@ -82,7 +83,9 @@ The person responsible for an area of the National Implementation Plan \(e.g. UP
 * Assign users to indicators
 * Oversee and follow-up data collection
 * Receive automated reminder emails when a progress report is overdue \(weekly, after due date has passed\) for indicators in the assigned area. 
+* Raise repeated failure to upload with the relevant Ministry at the next scheduled meeting of the National Mechanism for Reporting and Follow-Up.
 * Review and publish progress reports added by **Guest Contributors**
+* Should provide an overview of recently added data/information to the Working Group at each NMRF quarterly meeting 
 
 ---
 
@@ -98,6 +101,8 @@ Responsible for developing and updating the National Implementation Plan.
 
 * Create and edit recommendations, actions and indicators, as well as categories
 * Connect and categorise recommendations, actions and indicators
+* Adding newly received recommendations into the database and assigning them to clusters, as directed by the NMRF
+* Maintaining and updating the category lists
 
 
 ---
@@ -118,7 +123,7 @@ Responsible for editorial content.
 
 #### Application administrator
 
-Overall application manager.
+Application administrators play a critical role in maintenance of the application. 
 
 ###### Prerequisites
 
@@ -178,67 +183,5 @@ Role implicitly assumed when registered
 * Can promote users to Manager and Administrator
 * Can create and update pages
 * All the above
-
-
-
-### 2.6 How to: Register and assign user roles
-
-This tool allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users and roles and this section outlines exactly what they are and how they can be registered. These different user types allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.
-
-
-##### Contributors
-
-##### Indicator Owners
-
-
-##### Category Managers
-
-
-
-##### Administrators
-
-Administrators play a critical role in the establishment and maintenance of the application. They are responsible for:
-
-* Assigning contributors and managers to indicators and human rights bodies respectively
-* Adding newly received recommendations into the database and assigning them to clusters, as directed by the NMRF
-* maintaining and updating the category lists
-* Adding new actions and indicators as required
-* Maintaining content pages
-* Reporting bugs
-
-The role of Administrator is the most wide-ranging of all the roles. This manual goes into detail in all of the areas of responsibility of Administrators and how to undertake all of the functions in Chapter 4 - 'Users'.
-
-To go to Chapter 4, [click here](/users/being-a-user.md).
-
-#### Adding Content
-
-One of the roles of administrators are is adding the base content, such as:
-
-* Recommendations
-* Actions
-* Indicators
-* Thematic cluster titles
-* Categories
-* Actions
-* Affected persons
-
-There are a variety of methods of adding content, including through batch importing. These processes are outlined in the relevant pages below.
-
-#### 'Edit' v 'Filter' Mode
-
-'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
-
-![](/assets/Filter.png)
-
-As soon as an Administrator is logged in this view changes to: ![](/assets/Filter 2.png)
-
-\(1\) The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
-
-\(2\) Options to select the page of results or individual results now also appear.
-
-As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'![](/assets/Filter 3.png)Once the Administrator is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk. The full details of what is possible for each type of entry is discussed in the sections below and is only applicable to Administrators.
-
----
-
 
 
