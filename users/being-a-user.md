@@ -8,8 +8,6 @@ This tool allows users to organise human rights recommendations and the SDGs, tr
 
 Any member of the public visiting the site. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, [click here](/visitors/using-as-a-visitor.md).
 
-
-
 ###### Prerequisites
 
 * None \(role "Unauthorised" implicitly assumed\)
