@@ -28,13 +28,14 @@
 ## In Depth: Registered Users
 
 * [User roles & responsibilities](members/user-roles.md)
-* [User Profile](members/user-profile.md)
-* [Users Admin](members/users-admin.md)
 * [Creating & editing content](members/content.md)
 * [Categories](members/categories.md)
 * [Actions](members/actions.md)
 * [Indicators](members/indicators.md)
 * [Recommendations](members/recommendations.md)
 * [SDG Targets](members/sdg-targets.md)
+* [Users Admin](members/users-admin.md)
 * [Pages](members/pages.md)
+* [User Profile](members/user-profile.md)
+
 
