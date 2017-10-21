@@ -10,7 +10,9 @@ There are two ways for an Administrator to add actions:
 
 2\) Import a file of multiple actions
 
-![](/assets/Add action.png)Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
+![](/assets/Add action.png)
+
+Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
 **Adding a single action:** Click on the 'Add Action' icon and the following form will appear:
 
@@ -40,7 +42,9 @@ There are two ways for an Administrator to add actions:
 
 **Adding multiple actions**
 
-By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported. ![](/assets/Batch import.png)
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported. 
+
+![](/assets/Batch import.png)
 
 #### Editing Actions
 
@@ -78,11 +82,15 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 * Select individual actions using the checkbox next to each action \(see \#1 on image below\)
 * Select all actions on the page displayed \(see \#2 on image below\)
-* Select all actions returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below![](/assets/Selecting actions.png)
+* Select all actions returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
+
+![](/assets/Selecting actions.png)
 
 2\) Once the relevant actions have been selected the Administrator can then use the menu on left hand side of the screen to link the selected actions to any category, connected category or connection. For example, if the selected actions were to be linked to a particular thematic cluster the Administrator would click on the thematic cluster title in the left hand menu bar and the box 1 below will appear. Box 2 shows what happens when the Administrator selects the thematic cluster they wish to link to the actions:
 
-![](/assets/Batch edit actions.png)1\) The Administrator can use the filter box to search for the thematic cluster \(or category/sub-category/connection\) they wish to find
+![](/assets/Batch edit actions.png)
+
+1\) The Administrator can use the filter box to search for the thematic cluster \(or category/sub-category/connection\) they wish to find
 
 2\) Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator can **unlink** all of the selected actions from that thematic cluster.
 

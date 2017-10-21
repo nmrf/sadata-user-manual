@@ -10,7 +10,9 @@ If the Administrator wishes to edit an existing category they click on the entry
 
 ![](/assets/Editing categories 2.png)
 
-To add a new category \(i.e. a new human rights body, cycle, issue, cluster, etc.\)  click on the 'Add category' icon \(top image, \#3\). The following content box will then appear:![](/assets/Add sub category.png)
+To add a new category \(i.e. a new human rights body, cycle, issue, cluster, etc.\)  click on the 'Add category' icon \(top image, \#3\). The following content box will then appear:
+
+![](/assets/Add sub category.png)
 
 1\) Reference: A reference ID can be manually added or will be automatically assigned
 
@@ -20,10 +22,7 @@ To add a new category \(i.e. a new human rights body, cycle, issue, cluster, etc
 
 4\) Description: Longer description if required \(optional\). This is a useful field to provide visitors with more information on a particular category.
 
-5\) Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with the newly created category. The Administrator does so by finding the required recommendations \(using the filtering system if necessary\) and uses the check boxes next to each recommendation.
-
-![](/assets/Add connections.png)
-
+5\) Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with the newly created category. The Administrator does so by finding the required recommendations \(using the filtering system if necessary\) and uses the check boxes next to each recommendation. ![](/assets/Add connections.png)
 This function is available when adding new Human Rights Bodies, Cycles, Human Rights Issue, Affected Persons and Thematic Cluster. In exactly the same way, Actions can be tagged to new Thematic Clusters and Organisations and SDG targets can be tagged to new SDGs.
 
 6\) Website: If additional information on a category can be found via an external URL it can be noted  here and accessed by visitors to the site \(e.g. The website for the Committee on Economic, Social and Cultural Rights\)
