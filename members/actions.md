@@ -14,7 +14,9 @@ There are two ways for an Administrator to add actions:
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-**Adding a single action:** Click on the 'Add Action' icon and the following form will appear:
+##### Adding a single action:
+
+Click on the 'Add Action' icon and the following form will appear:
 
 ![](/assets/Add actions 3.png)
 
@@ -40,7 +42,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 11. Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
-**Adding multiple actions**
+##### Adding multiple actions
 
 By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported. 
 
@@ -50,7 +52,7 @@ By clicking on the 'Import' button \(top image\) the Administrator will be provi
 
 There are also two ways in which Actions can be edited; individually and batch editing.
 
-**Individual editing**
+##### Individual editing
 
 Individual editing is as simple as finding the action you wish to edit, using the search and filtering functions and clicking on the action title in question, which brings up the following screen with an Edit button \(circled\):
 
@@ -67,7 +69,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 * Editing the target date and target date comments
 * Deleting the action
 
-**Batch editing**
+##### Batch editing
 
 Batch editing of actions \(or other entities such as recommendations, indicators or SDG targets\) is a powerful feature that allows Administrators to efficiently edit actions in a variety of ways including:
 
