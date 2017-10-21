@@ -160,7 +160,7 @@ _Categorise: Recommendations_
 
 ![](/assets/country_icon.png)
 
-The application contains a list of all United Nations member States so that recommendations made during the Universal Periodic Review Process can be tagged with the country who made the **Recommendation**. 
+The application contains a list of all United Nations member States so that recommendations made during the Universal Periodic Review Process can be tagged with the country who made the **Recommendation**.
 
 _Categorise: Recommendations_
 

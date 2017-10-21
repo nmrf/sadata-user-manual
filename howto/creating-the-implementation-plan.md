@@ -1,14 +1,12 @@
 # 2. How To
 
-### 2.1 Create Your Implementation Plan
+### 2.1 Create Your National Implementation Plan
 
-The Implementation Plan is essentially the State strategic plan on how it is going to implement its obligations. Like a strategic plan it has 'outcomes', 'activities' to achieve the outcomes, and 'indicators' to measure success of the activities.
+The National Implementation Plan consists of the obligations of the State in relation to human rights and the SDGs. It also contains the actions the Government is planning to do to implement those obligations and contains the data of progress achieved to date. A National Plan can be created for either human rights or the SDGs, or both.  
 
-The outcomes are the international obligations a State has under the human rights system and the Sustainable Development Goals. For instance, SDG Target 1.1 is to eradicate poverty for all people everywhere by 2030. This is one of the outcomes which will make up a State implementation plan. Unlike the SDGs a State's human rights obligations can be specific, through recommendations received from the Treaty Body Committees, the Universal Periodic Review or the Special Procedures. These need to be entered into the database to form part of the implementation plan. Their obligations also extend to all of the substantive articles of the human rights conventions to which that State is a party. The software makes it easy to create an implementation plan for each of the human rights obligations and SDGs where actions that overlap only need to be reported on once and will get tracked against both plans.
+The obligations, which form the basis of the National Implementation Plan, can be SDG targets, human rights recommendations received from the Universal Periodic Review, Treaty Body Committees, the Special Procedures or the substantive articles of the Treaties themselves. These are often overlapping in nature so the application helps the user to create a National Implementation Plan where all linkages are identified, eliminating duplication of reporting, helping to foster a coordinated implementation approach and to identify any gaps from the outset. If a national Implementation Plan is developed for both human rights and the SDGs any crossover can also be identified and duplication of efforts reduced yet further. 
 
-Once all of the outcomes are entered into the database there will be hundreds, often overlapping in nature and certainly difficult to manage. This is one of the issues the software is designed to address by helping States to cluster human rights recommendations and substantive articles into 'Thematic Clusters' using a sophisticated process to make them more manageable.
-
-Once all State obligations have been clustered in this way, actions and indicators can be added to the clusters and recommendations. The indicators identify who is responsible for collecting that information and when it should be submitted. That person will receive an automated email with an upload link at that time \(and on a regular basis if required\). All data uploaded will be linked to each relevant State obligation - therefore if work done on training new police recruits helps to achieve SDG target 16.3, CRC recommendation 48 and  UPR recommendation 107.8 it will report against all, despite only having to be uploaded once.
+Once the National Implementation Plan has been developed, users of the application will add regular progress reports and anyone will be able to track how well implementation is progressing. 
 
 #### Creating Your Human Rights Implementation Plan in 3 Easy Steps
 
@@ -24,11 +22,11 @@ By creating clusters the wide ranging obligations become more manageable and eas
 
 ![](/assets/Clustering.png)
 
-Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/members/recommendations.md). For more information on the difference between 'filtering' and 'editing' [click here](/howto/edit-and-create-entries.md). 
+Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/members/recommendations.md). For more information on the difference between 'filtering' and 'editing' [click here](/members/content.md).
 
-##### 3. Add actions and indicators
+##### 3. Add Actions and Indicators
 
-Now the framework for the human rights Implementation Plan has been created all that is left to do is add the actions \(and associated indicators\) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
+Now the framework for the National Implementation Plan has been created all that is left to do is add the actions \(and associated indicators\) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
 
 ![](/assets/Add action.png)
 
@@ -39,12 +37,6 @@ Whilst multiple indicators can be imported it is important to edit each one indi
 Actions and indicators can and should also be linked to the SDG targets where appropriate. For instance if the work Rosemary is doing, as described above, also helps to meet SDG target 16.3 it can be linked when the action or indicator is being created. That means that any data Rosemary uploads will also be tracked against SDG 16.3 even though it is only uploaded once.
 
 _\*\*\***Top Tip\***\*\* States should start off by looking at what is already planned in the coming years which will already address the thematic clusters and once this is done that will identify where the gaps are and actions can be devised to help meet these gaps. At any point it is easy to check whether gaps exit by going to the recommendations page and filtering to see which recommendations do not currently have any actions._
-
-_ _
-
-![](/assets/filter by action.png)
-
-##### 
 
 ##### Finally: Monitor and update
 
