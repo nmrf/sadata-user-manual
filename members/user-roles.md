@@ -1,15 +1,14 @@
 # 4. In Depth: Registered Users
 
-This tool allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users types and roles and this section outlines exactly what they are and how they can be registered. These different user types and roles allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.
+This application allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users types and roles and this section outlines exactly what they are and how they can be registered. These different user types and roles allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.
 
 ---
 
 ### 4.1 User roles & responsibilities
 
-#### Role: Visitor 
+#### Role: Visitor
 
 Any member of the public that is not registered or logged in. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, [click here](/visitors/using-as-a-visitor.md).
-
 
 ###### Rights
 
@@ -24,7 +23,7 @@ Role implicitly assumed when registered
 
 ###### Rights
 
-* Can create draft progress reports (thus become user type "Guest Contributor")
+* Can create draft progress reports \(thus become user type "Guest Contributor"\)
 * All the above
 
 ##### Function: Guest contributor
@@ -52,7 +51,7 @@ The data owner for an indicator and this are key to the success of the data entr
 
 ###### Prerequisites
 
-* Assigned to indicator (by user with at least role "Manager")
+* Assigned to indicator \(by user with at least role "Manager"\)
 
 ###### Responsibilities
 
@@ -73,10 +72,10 @@ Should they fail to do so then they will continue to receive email reminders unt
 
 ###### Rights
 
-* Can be assigned to category (thus become user type "Category Manager")
+* Can be assigned to a category \(thus become user type "Category Manager"\)
 * Can assign Contributor to indicator
 * Can promote Guest to Contributor
-* Can create and update categories and other entities (except pages)
+* Can create and update categories and other entities \(except pages\)
 * All the above
 
 ##### Function: Category Manager
@@ -86,7 +85,6 @@ The person responsible for an area of the National Implementation Plan \(e.g. UP
 For each 'Human Rights Body' category, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.
 
 At each NMRF quarterly meeting each Manager should provide an overview of recently added data/information to the Working Group.
-
 
 ###### Prerequisites
 
@@ -127,7 +125,6 @@ Responsible for developing and updating the National Implementation Plan.
 
 Responsible for editorial content.
 
-
 ###### Responsibilities
 
 * Create and update content pages
@@ -140,5 +137,6 @@ Application administrators play a critical role in maintenance of the applicatio
 
 * Manage users
 * Report bugs
+
 
 
