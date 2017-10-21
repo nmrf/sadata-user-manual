@@ -98,8 +98,7 @@ First the Administrator or Manager needs to identify and select the actions they
 
   * Select individual actions using the checkbox next to each action \(see \#1 on image below\)
   * Select all actions on the page displayed \(see \#2 on image below\)
-  * Select all actions returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below
-
+  * Select all actions returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
 ![](/assets/Selecting actions.png)
 
 2. Once the relevant actions have been selected the Administrator or Manager can then use the menu on left hand side of the screen to link the selected actions to any category, connected category or connection. For example, if the selected actions were to be linked to a particular thematic cluster the Administrator or Manager would click on the thematic cluster title in the left hand menu bar and the box 1 below will appear. Box 2 shows what happens when the Administrator or Manager selects the thematic cluster they wish to link to the actions:
