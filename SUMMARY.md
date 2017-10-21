@@ -6,44 +6,35 @@
 * [History](history.md)
 * [Glossary & Icons](glossary.md)
 
-## How To:
+## How To
 
-* [Create the Implementation Plan](getting-started-quick-start/creating-the-implementation-plan.md)
-* [Report and Follow-up](getting-started-quick-start/reporting-and-follow-up.md)
-* Monitor the Implementation Plan
-* Edit and Create Entries
+* [Create Your National Implementation Plan](howto/creating-the-implementation-plan.md)
+* [Report \(add data\)](howto/reporting-and-follow-up.md)
+* [Monitor the Implementation Plan](howto/monitor-the-implementation-plan.md)
+* [Edit and Add Entities](howto/edit-and-create-entries.md)
+* [Filter and Search](howto/filter-and-search.md)
+* [Register](howto/register.md)
 
-## Sadata In Depth
+## In Depth: Visitors
 
-* [Who are you?](getting-started/visitors-and-users.md)
-* [Visitors](getting-started/visitors.md)
-* [Users, Roles & Registration](getting-started/users-and-roles.md)
-
-## Sadata in Depth: Visitors
-
-* [Using Sadata as a Visitor](visitors/using-sadata-as-a-visitor.md)
+* [Using Sadata as a Visitor](visitors/using-as-a-visitor.md)
 * [Categories](visitors/categories.md)
 * [Actions & The Implementation Plan](visitors/actions.md)
 * [Indicators](visitors/indicators.md)
-* [Recommendations](visitors/recommendations.md)
+* [Recommendations ](visitors/recommendations.md)
 * [SDG Targets](visitors/sdg-targets.md)
-* [Becoming a User](visitors/becoming-a-user.md)
-* [Common Use Cases](visitors/common-use-cases.md)
+* [Register](visitors/register.md)
 
-## Sadata in Depth: Users
+## In Depth: Registered Users
 
-* [Sadata Administration](users/being-a-sadata-user.md)
-* [Categories](users/categories.md)
-* [Actions](users/actions.md)
-* [Indicators](users/indicators.md)
-* [Recommendations](users/recommendations.md)
-* [SDG Targets](users/sdg-targets.md)
-* [Users](users/users.md)
-* [Pages](users/pages.md)
-* [User Profile](users/user-profile.md)
-* [Common Use Cases](users/common-use-cases.md)
-
-## Contact Us
-
-* [Contact Details](contact-us/contacts.md)
+* [User roles & responsibilities](members/user-roles.md)
+* [Adding & editing content](members/content.md)
+* [Categories](members/categories.md)
+* [Actions](members/actions.md)
+* [Indicators](members/indicators.md)
+* [Recommendations](members/recommendations.md)
+* [SDG Targets](members/sdg-targets.md)
+* [Users Admin](members/users-admin.md)
+* [Pages](members/pages.md)
+* [User Profile](members/user-profile.md)
 
