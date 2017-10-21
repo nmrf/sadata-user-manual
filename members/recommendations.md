@@ -14,7 +14,9 @@ There are two ways for an Administrator to add recommendations:
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-**Adding a single recommendation: **Click on the 'Add Recommendation' icon and the following form will appear:
+##### Adding a single recommendation: 
+
+Click on the 'Add Recommendation' icon and the following form will appear:
 
 ![](/assets/Add recommendation 2.png)
 
@@ -42,7 +44,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 12. Cancel/Save: This is where the Administrator/Manager can save all of the details that have been entered, or clear the form using the cancel button
 
-**Adding multiple recommendations**
+##### Adding multiple recommendations
 
 By clicking on the 'Import' button \(top image\) the Administrator/Manager will be provided with a CSV template download \(see image below\) for batch importing multiple recommendations. Once in the required format the Administrator/Manager can click on the 'Select File' button and upload their file and all of the recommendations will automatically be imported. 
 
@@ -54,7 +56,7 @@ _\*\* ** When importing recommendations it is only possible to import Title, Ref
 
 There are also two ways in which Recommendations can be edited; individually and batch editing.
 
-**Individual editing**
+##### Individual editing
 
 Individual editing is as simple as finding the recommendation you wish to edit, using the search and filtering functions and clicking on the recommendation title in question, which brings up the following screen with an Edit button \(circled\):
 
@@ -69,7 +71,7 @@ Clicking the edit button allows the Administrator/Manager to edit all of the fie
 * Adding/editing the categories the recommendation is tagged with
 * Deleting the recommendation
 
-**Batch editing**
+##### Batch editing
 
 Batch editing of recommendations \(or other entities such as indicators, actions or SDG targets\) is a powerful feature that allows Administrator/Manager  to efficiently edit recommendations in a variety of ways including:
 

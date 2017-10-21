@@ -8,7 +8,7 @@ On the Users page Administrators and Managers can manage all of the registered u
 
 ![](/assets/Users.png)
 
-**Edit Existing Users / Change Password**
+##### Edit Existing Users / Change Password
 
 To edit existing users, or to reset a password the Administrator simply needs to find the relevant user using the search and filter functions and click on their name. This will bring up the following screen:
 
@@ -23,13 +23,13 @@ Clicking on the 'Edit' link will allow the Administrator to edit all of the User
 * User role
 * Organisation of user
 
-**Assign users to an organisation**
+##### Assign users to an organisation
 
 Through the 'Users' tab, the Administrator can assign user to a particular organisation \(i.e. record which organisation they work for/represent\). This can either be done individually by editing the user profile as described above, or through batch editing.
 
 To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation \(see image above\). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing click [here](/users/actions.md).
 
-**Promote a user \(assign a user role\)**
+##### Promote a user \(assign a user role\)
 
 When a person first registers on the site they are a guest user and assigned no role. It is up to either a Manager or an Administrator to assign user roles. The following types of promotion can be carried out:
 

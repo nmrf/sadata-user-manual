@@ -14,7 +14,9 @@ There are two ways for an Administrator to add indicators:
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-**Adding a single indicator: **Click on the 'Add Indicator' icon and the following form will appear:
+##### Adding a single indicator: 
+
+Click on the 'Add Indicator' icon and the following form will appear:
 
 ![](/assets/Add indicator 2.png)
 
@@ -38,7 +40,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 10. Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
-**Adding multiple indicators**
+##### Adding multiple indicators
 
 By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported.
 
@@ -48,7 +50,7 @@ By clicking on the 'Import' button \(top image\) the Administrator will be provi
 
 There are also two ways in which Indicators can be edited; individually and batch editing.
 
-**Individual editing**
+##### Individual editing
 
 Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button \(circled\):
 
@@ -64,7 +66,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 * Deleting the indicator
 * Editing the title, description or reference of the indicator
 
-**Batch editing**
+##### Batch editing
 
 Batch editing of indicators \(or other entities such as recommendations, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit indicators in a variety of ways including:
 
