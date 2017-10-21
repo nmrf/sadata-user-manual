@@ -11,7 +11,7 @@
 * [Create Your National Implementation Plan](howto/creating-the-implementation-plan.md)
 * [Report \(add data\)](howto/reporting-and-follow-up.md)
 * [Monitor the Implementation Plan](howto/monitor-the-implementation-plan.md)
-* [Edit and Create Entities](howto/edit-and-create-entries.md)
+* [Edit and Add Entities](howto/edit-and-create-entries.md)
 * [Filter and Search](howto/filter-and-search.md)
 * [Register](howto/register.md)
 

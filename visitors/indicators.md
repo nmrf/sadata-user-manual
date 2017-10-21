@@ -1,6 +1,6 @@
 ### 3.4 Indicators
 
-Indicators are the measure of success of whether actions have been completed. For each action there should be at least one indicator and for each indicator reports/data should be uploaded on the specified date\(s\). The Indicators tab is therefore where users can explore these measures of success and the reports/data uploaded against them - a very powerful source of information for civil society and other interested parties.
+Indicators are the measure of success of whether actions have been completed. For each action there should be at least one indicator and for each indicator progress reports should be uploaded demonstrating success or progress. 
 
 The Indicators tab works in a very similar manner to the [Actions](/visitors/actions.md) tab, except its focus is on the indicators and allows users to search through the all indicators contained within the database, using the filtering tools described in the previous chapter. ![](/assets/Indicators.png)
 
@@ -20,4 +20,13 @@ Filtering of indicators works in the same way as filtering actions. It can be do
 
 A difference to be aware of is that the filter list for indicators is smaller than that for actions. This is because indicators are linked directly to actions and are therefore one stage removed from categories such as Human Rights Body, Cycle, Issue, and Affected Persons. Other than having a smaller filter list, the process is the same. For more details read the [Actions page](/visitors/actions.md).
 
+#### Accessing Progress Reports
+
+If a progress report has been uploaded for an indicator it will be visible to any visitor \(circled below\). 
+
+![](/assets/Progress Report.png)Unless the progress report has been made private for reasons of data protection then the visitor can click on the progress report title and download the information in full. 
+
 ---
+
+
+

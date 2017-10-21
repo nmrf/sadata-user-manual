@@ -1,6 +1,6 @@
 ### 4.5 Indicators
 
-As in all areas, Administrators can 'add or edit' data via the Indicators page. Administrators are also able to add progress reports to indicators.
+Administrators and Managers can 'add or edit' data via the Indicators page. They are both also able to add progress reports to indicators.
 
 #### Adding Indicators
 
@@ -96,6 +96,8 @@ Administrators may be required to add progress reports to an indicator - either 
 6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
 
 7\) Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
+
+For more information on adding progress reports [click here](/howto/reporting-and-follow-up.md).
 
 ---
 

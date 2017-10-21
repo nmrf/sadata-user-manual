@@ -1,6 +1,6 @@
 ### 4.8 Users
 
-On the Users page Administrators can manage all of the registered users and perform the following functions:
+On the Users page Administrators and Managers can manage all of the registered users and perform the following functions:
 
 * Edit existing users \(details, user type, password, delete\)
 * Assign users to a particular organisation, individually or by batch editing
@@ -27,7 +27,7 @@ To assign multiple users to a particular organisation in one go the Administrato
 
 **Promote a user \(assign a user role\)**
 
-When a person first registers on the site they are a guest user and assigned no role. It is up to either a Manager or an Administrator to assign user roles. The following types of promotion can be carried out:  
+When a person first registers on the site they are a guest user and assigned no role. It is up to either a Manager or an Administrator to assign user roles. The following types of promotion can be carried out:
 
 * Promote a guest user to Indicator Manager
 * Promote guest users or Indicator Managers to the role of Manager
@@ -37,9 +37,9 @@ To promote a user the Manager or Administrator should navigate to the 'Users' pa
 
 ![](/assets/userr role drop down.png)
 
-The new role can be selected and the save button pressed to confirm the promotion. 
+The new role can be selected and the save button pressed to confirm the promotion.
 
-To read more about user roles and responsibilities [click here](/members/user-roles.md). 
+To read more about user roles and responsibilities [click here](/members/user-roles.md).
 
 ---
 

@@ -1,6 +1,6 @@
 ### 4.9 Pages
 
-One final feature is the ability for Administrators to create content pages to provide visitors with information. This could be about the tool itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
+Administrators are able to create content pages to provide visitors with information. This could be about the tool itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
 
 ![](/assets/Pages.png)1\) The existing pages are displayed and can be searched through using the filters or the search box \(3\). Clicking on any of the pages will allow the Administrator to edit the content and the draft/public status of the page
 

@@ -6,7 +6,7 @@
 
 ![](/assets/cursor.png)
 
-In the example above, the user can easily see a number of categories that the recommendation falls within. Hovering the cursor over any of the tags will bring up the full title, in this case 'CRC' is shown to be 'Convention on the Rights of the Child'. Clicking on any of the tags will take the user to a page specifically for that category, and display all recommendations and actions associated with it.
+In the example above, the icons below the recommendation show the different tags that have been assigned. Hovering the cursor over any of the tags will bring up the full title, in this case 'CRC' is shown to be 'Convention on the Rights of the Child'. Clicking on any of the tags will take the user to a page specifically for that category, and display all recommendations and actions associated with it.
 
 #### The taxonomies in detail
 
@@ -54,7 +54,7 @@ Every United nations member State receives hundreds of recommendations from the 
 
 Clustering recommendations in this way not only helps make implementation more manageable but it also helps to identify crossover and eliminate duplication of work and reporting. The National Implementation Plan is a series of thematic clusters \(which each contain one or more recommendations\) and for each of these the Government identifies a number of actions and indicators. As more recommendations are received these can either be added to existing thematic clusters or a new cluster created.
 
-For the user, this taxonomy once again allows them to explore potential areas of interest using the categorisation system. The thematic clusters are liable to change. 
+For the user, this taxonomy once again allows them to explore potential areas of interest using the categorisation system. The thematic clusters are liable to change.
 
 ---
 

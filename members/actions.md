@@ -1,6 +1,6 @@
 ### 4.4 Actions
 
-As in all areas, Administrators can 'add or edit' data via the Actions page.
+Administrators and Managers can 'add or edit' data via the Actions page.
 
 #### Adding Actions
 

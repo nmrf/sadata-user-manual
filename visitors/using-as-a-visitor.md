@@ -2,18 +2,16 @@
 
 ### 3.1 Using as a Visitor
 
-Whether you are an NGO or interested member of the public, this application allows visitors to the site to do a huge amount of things that were never possible before! This includes
+Whether you are an NGO or interested member of the public, this application allows visitors to:
 
-* Tracking how Government is performing in relation to its human rights and Sustainable Development Goal \(SDG\) targets and goals - in real time!
-* Selecting areas of interest to explore what Government is doing and plans to do \(e.g. in the area of women's rights or in relation to a particular SDG target\)
-* Contribute your own data to demonstrate what your organisation has been doing to help achieve these goals
-* Register as a user and become a regular contributor of information to the National Implementation Plan \(as an organisation or an individual\)
-
-This application has been built to ensure there are always a number of different ways to meet your needs and give you quick easy access to the information you want. Interested in what Government is doing with regards to both women and persons with indigenous people? No problem? Need to know what actions are planned which address both child rights and SDGs5-10? Easy! Or simply want to know what the Ministry of Women has planned in relation to both human rights and the SDGs? It's only a click away.
+* Track how Government is performing in relation to its human rights and Sustainable Development Goal \(SDG\) targets and goals
+* Select and explore areas of interest in what the Government is doing and plans to do \(e.g. in the area of women's rights or in relation to a particular SDG target\)
+* Contribute own data to demonstrate what your organisation has been doing to help achieve these goals
+* [Register as a user](/howto/register.md) and become a guest contributor of information to the National Implementation Plan \(as an organisation or an individual\)
 
 Once you click 'Explore' on the homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within the database, tailored to your own needs using our advanced search and filtering systems.
 
-![](/assets/Overview for Visitors.png)
+![](/assets/Overview for Visitors.png)  
 _\*\*All information demonstrated is for illustrative purposes only \*\*_
 
 #### 1. Headline Bar
@@ -51,3 +49,6 @@ In the top right-hand corner of all pages are the additional links for visitors 
 * Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
 ---
+
+
+
