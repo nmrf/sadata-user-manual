@@ -48,7 +48,8 @@ The SDG Implementation Plan works in exactly the same way as above except for th
 
 The SDG Implementation Plan can be developed on its own using the steps above \(omitting the thematic clustering\), as can the Human Rights Implementation Plan. however, States receive additional benefits from using the two in conjunction with each other as it eliminates duplication of reporting and activities across human rights obligations and the SDGs.
 
-**An Example Implementation Plan** \(screenshot covering an illustrative section\)
+##### An Example Implementation Plan
 
+\(screenshot covering an illustrative section\)
 ![](/assets/Implementation Plan 2.png)
-
+_\(screenshot covering an illustrative section\)_
