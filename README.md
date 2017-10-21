@@ -30,7 +30,7 @@ The manual is written using GitBooks, which allows readers and users of the soft
 
 The manual is a [documentation file](https://github.com/nmrf/sadata-user-manual/blob/master/LICENSE.md) of the [Sadata Open Source Software](https://github.com/nmrf/sadata/blob/master/LICENSE.md) and draws upon relevant content from the IMPACT OSS manual permitted under its MIT licence.
 
-#### 
+The original manual was written by [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/), for the Office of the High Commissioner for Human Rights, and [Unfold Data](http://unfolddata.com/)
 
 ---
 

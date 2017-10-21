@@ -28,7 +28,7 @@
 ## In Depth: Registered Users
 
 * [User roles & responsibilities](members/user-roles.md)
-* [Creating & editing content](members/content.md)
+* [Adding & editing content](members/content.md)
 * [Categories](members/categories.md)
 * [Actions](members/actions.md)
 * [Indicators](members/indicators.md)
@@ -37,5 +37,4 @@
 * [Users Admin](members/users-admin.md)
 * [Pages](members/pages.md)
 * [User Profile](members/user-profile.md)
-
 
