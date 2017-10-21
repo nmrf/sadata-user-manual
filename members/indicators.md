@@ -75,10 +75,9 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 1. The Administrator can select the indicators they wish by first using the filtering and search functions on the 'Indicators' main page to bring up the relevant indicators on their screen. More information on how to use these functions can be found [here](/visitors/actions.md). Once the relevant indicators have been identified the Administrator can either:
 
-* Select individual indicators using the checkbox next to each action \(see \#1 on image below\)
-* Select all indicators on the page displayed \(see \#2 on image below\)
-* Select all indicators returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
-
+  * Select individual indicators using the checkbox next to each action \(see \#1 on image below\)
+  * Select all indicators on the page displayed \(see \#2 on image below\)
+  * Select all indicators returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
 ![](/assets/Batch edit indictors.png)
 
 2. Once the relevant indicators have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](/members/actions.md).
