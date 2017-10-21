@@ -24,7 +24,9 @@ A difference to be aware of is that the filter list for indicators is smaller th
 
 If a progress report has been uploaded for an indicator it will be visible to any visitor \(circled below\). 
 
-![](/assets/Progress Report.png)Unless the progress report has been made private for reasons of data protection then the visitor can click on the progress report title and download the information in full. 
+![](/assets/Progress Report.png)
+
+Unless the progress report has been made private for reasons of data protection then the visitor can click on the progress report title and download the information in full. 
 
 ---
 

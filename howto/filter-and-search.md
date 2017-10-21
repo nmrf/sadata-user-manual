@@ -34,7 +34,11 @@ The filter function allows users to filter the results of the page they are on u
 * SDG Target
 * Draft/public status \(administrators only\)
 
-The filtering system works in the same manner across the different pages. The arrow points to the filtering list on the actions page, which is always in the same place on all of the pages. To start filtering the user simply needs to click on the category, connected category or connection they wish to filter by. For example, if we want to filter by affected pesons body and click on that title, the following box appears![](/assets/Filter list 3.png)For example, if we wanted to filter by human rights issue on the recommendations page, the user simply needs to click on the 'affected persons title and the following box will appear:
+The filtering system works in the same manner across the different pages. The arrow points to the filtering list on the actions page, which is always in the same place on all of the pages. To start filtering the user simply needs to click on the category, connected category or connection they wish to filter by. For example, if we want to filter by affected pesons body and click on that title, the following box appears
+
+![](/assets/Filter list 3.png)
+
+For example, if we wanted to filter by human rights issue on the recommendations page, the user simply needs to click on the 'affected persons title and the following box will appear:
 
 ![](/assets/Filter recs.png)
 
@@ -42,7 +46,9 @@ The list of human rights issues appears in the right hand column, through which 
 
 Multiple filters can be applied by repeating the steps described above.
 
-Once a filter is applied the tag appears in the search box:![](/assets/Filter search box.png)
+Once a filter is applied the tag appears in the search box:
+
+![](/assets/Filter search box.png)
 
 In the example above we have filtered for recommendations that fall within the issue of 'international obligations' and affect 'girls'. Should the user also wish to enter a keyword into the search box to further refine the results they can do so. Alternatively, if they wish to remove one of the filters they simply need to click on the cross in the tag box \(as per the picture above\).
 
@@ -50,3 +56,4 @@ In the example above we have filtered for recommendations that fall within the i
 
 Administrators can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to editing entities [click here](/howto/edit-and-create-entries.md).
 
+---
