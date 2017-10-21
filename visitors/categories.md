@@ -2,7 +2,9 @@
 
 #### Exploring Categories
 
-![](/assets/Categories.png)The recommendations and actions that make up the National Implementation Plan are categorised in a number of different ways \(called taxonomies or category groups\) to allow visitors to explore the information based on their specific areas of interest, or to arrange the information in a way which meets their needs. Each category has it's own unique 'tag' which is attached to recommendations, actions and indicators for users to easily identify how it is identified.
+![](/assets/Categories.png)
+
+The recommendations and actions that make up the National Implementation Plan are categorised in a number of different ways \(called taxonomies or category groups\) to allow visitors to explore the information based on their specific areas of interest, or to arrange the information in a way which meets their needs. Each category has it's own unique 'tag' which is attached to recommendations, actions and indicators for users to easily identify how it is identified.
 
 ![](/assets/cursor.png)
 
@@ -30,7 +32,7 @@ Both the treaty body reviews and the Universal Periodic Review are regular and o
 
 ---
 
-##### ![](/assets/5_thematicCluster.png)![](/assets/5_humanrightsissue.png)
+![](/assets/5_humanrightsissue.png)
 
 ##### **Human Rights Issues**
 
@@ -38,7 +40,7 @@ The Office of the United Nations High Commissioner for Human Rights has develope
 
 ---
 
-##### ![](/assets/4_affectedPersons.png)
+![](/assets/4_affectedPersons.png)
 
 ##### **Affected persons**
 
@@ -46,7 +48,7 @@ In the same way that 'Human Rights Issues' allows users to examine particular is
 
 ---
 
-##### ![](/assets/5_thematicCluster.png)![](/assets/SMART.png)
+![](/assets/SMART.png)
 
 ##### **Thematic clusters**
 
@@ -58,7 +60,7 @@ For the user, this taxonomy once again allows them to explore potential areas of
 
 ---
 
-##### ![](/assets/6_organisation.png)
+![](/assets/6_organisation.png)
 
 ##### **Organisations**
 
@@ -66,7 +68,7 @@ The organisations taxonomy lists the Government agencies \(and others\) carrying
 
 ---
 
-##### ![](/assets/7_sdgs.png)
+![](/assets/7_sdgs.png)
 
 ##### **Sustainable Development Goals**
 

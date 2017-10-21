@@ -2,7 +2,13 @@
 
 The monitoring of the implementation plan is crucial for both the State and civil society. It tells both when progress is falling behind what it should be and where that is happening. The tool makes it easy and simple to quickly check progress of the whole plan, or any part of the plan which may be of interest to the user.
 
-To view the human rights Implementation Plan and start monitoring click on  'Actions' in the top menu bar and then select 'Implementation view'. \(To view the SDG Implementation Plan click on 'SDG Targets' and make the same selection.\) ![](/assets/Imp View 2.png)Clicking on this link will provide you with the Implementation Plan:![](/assets/Imp Plan Breakdown.png)
+To view the human rights Implementation Plan and start monitoring click on  'Actions' in the top menu bar and then select 'Implementation view'. \(To view the SDG Implementation Plan click on 'SDG Targets' and make the same selection.\) 
+
+![](/assets/Imp View 2.png)
+
+Clicking on this link will provide you with the Implementation Plan:
+
+![](/assets/Imp Plan Breakdown.png)
 
 1. The Implementation Plan is automatically organised by thematic cluster. In the example above we are looking at the 'Human rights training for law enforcement officials' thematic cluster. Clicking on this title would bring up all of the recommendations contained within the cluster.
 

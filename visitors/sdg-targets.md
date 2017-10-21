@@ -4,7 +4,9 @@ There is significant overlap between the SDGs and human rights \(E.g. SDG 5: Gen
 
 There are 169 internationally agreed SDG targets, all of which are contained within the application. A State using the application may choose to add additional actions and indicators that reflect how a country is setting about achieving the SDGs.
 
-Visitors can therefore explore everything the Government is doing to achieve the SDGs and how work being undertaken in the field of human rights is also helping to achieve the SDGs and vice versa.![](/assets/SDGs.png)
+Visitors can therefore explore everything the Government is doing to achieve the SDGs and how work being undertaken in the field of human rights is also helping to achieve the SDGs and vice versa.
+
+![](/assets/SDGs.png)
 
 The 'SDG Targets' page works similarly to the 'Actions', 'Indicators' and 'Recommendations' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area.
 
