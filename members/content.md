@@ -22,9 +22,9 @@ As soon as an Administrator or Manager is logged in this view changes to:
 
 ![](/assets/Filter 2.png)
 
-\(1\) The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
+1. The filter list now becomes a filter or edit list, with filter selected as the default \(coloured orange\)
 
-\(2\) Options to select the page of results or individual results now also appear.
+2. Options to select the page of results or individual results now also appear.
 
 As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'
 
