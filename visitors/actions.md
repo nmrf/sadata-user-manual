@@ -27,11 +27,11 @@ The Implementation Plan can be viewed in either 'List View' or 'Implementation V
 
 The difference between the two views is illustrated below.
 
-List View:
+##### List View:
 
 ![](/assets/List View.png)
 
-Implementation View
+##### Implementation View
 
 ![](/assets/Imp View.png)
 
