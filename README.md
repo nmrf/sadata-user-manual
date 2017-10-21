@@ -1,4 +1,6 @@
-# ![](/assets/Logo.png)1. Introduction
+![](/assets/Logo.png)
+
+# 1. Introduction
 
 ### 1.1 What is Sadata?
 
@@ -8,7 +10,7 @@ Each State around the world has a huge range of international obligations, in te
 
 #### The Solution
 
-[Sadata ](https://sadata-staging.firebaseapp.com/)is a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received. Through a series of automated processes it helps to ensure ongoing data collection and guard against non-entry of data, meaning the Implementation Plan progress is always 100% up to date. This allows greater oversight by the public and civil society, and for States to have far greater control over implementation of its obligations - ultimately leading to more effective State implementation and reporting and improvements on the ground for everyday people, every day.
+[Sadata](https://sadata-staging.firebaseapp.com/) is a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received. Through a series of automated processes it helps to ensure ongoing data collection and guard against non-entry of data, meaning the Implementation Plan progress is always 100% up to date. This allows greater oversight by the public and civil society, and for States to have far greater control over implementation of its obligations - ultimately leading to more effective State implementation and reporting and improvements on the ground for everyday people, every day.
 
 #### The Technology
 
