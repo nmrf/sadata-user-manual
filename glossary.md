@@ -200,5 +200,4 @@ _Categorise: SDG targets_
 | ![](/assets/filter_icon.png) | Filter entities |
 | ![](/assets/edit_icon.png) | Edit entities |
 
-
-
+---

@@ -12,29 +12,37 @@ Each indicator in the Implementation Plan is assigned to an [Indicator Manager](
 
 Once an email reminder hass been received the Indicator Manager simply needs to:
 
-i. Click on the link in the email \(not pictured\)
+1. Click on the link in the email \(not pictured\)
 
-ii. Enter login details \(if not already signed in\)
+2. Enter login details \(if not already signed in\)
 
-iii. Filter the indicators using the 'My Indicators' option and click on the relevant indicator
+3. Filter the indicators using the 'My Indicators' option and click on the relevant indicator
 
-iv. Click on 'Add Report' \(1 or 2 below\)![](/assets/Add report.png)
+4. Click on 'Add Report' \(1 or 2 in screenshot below\)
 
-The Indicator Manager will then be taken to the following screen:![](/assets/Admin add progress report.png)The Indicator Manager simply needs to fill out the required fields:
+![](/assets/Add report.png)
 
-1\) Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
+The Indicator Manager will then be taken to the following screen:
 
-2\) Description: Full details of the progress report
+![](/assets/Admin add progress report.png)
 
-3\) Upload document: Information/data related to the indicator should be uploaded via this link
+The Indicator Manager simply needs to fill out the required fields:
 
-4\) Public/Private: The status of the uploaded document can be set to public or private depending on whether there is sensitive information contained within that should not be available publicly
+1. Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
 
-5\) Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public.
+2. Description: Full details of the progress report
 
-6\) Due date: As an administrator, both scheduled and unscheduled progress reports can be entered. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
+3. Upload document: Information/data related to the indicator should be uploaded via this link
 
-7\) Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
+4. Public/Private: The status of the uploaded document can be set to public or private 
+depending on whether there is sensitive information contained within that should not be available publicly
+
+5. Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public.
+
+6. Due date: As an administrator, both scheduled and unscheduled progress reports can be entered. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.
+
+7. Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
+
 
 #### Reporting as a Contributor \(Civil Society and Individuals\)
 
@@ -60,9 +68,9 @@ Setting up an Indicator Owner means assigning responsibility for a particular in
 
 For an Indicator Manager to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [here](/howto/register.md). Once the person is a registered user the process is as follows:
 
-1\) The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [here](/members/users-admin.md).
+1. The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [here](/members/users-admin.md).
 
-2\) The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found [here](/members/indicators.md).
+2. The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found [here](/members/indicators.md).
 
 ---
 

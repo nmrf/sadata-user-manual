@@ -34,7 +34,9 @@ This tab allows visitors to browse through all of the recommendations a country 
 
 #### 2. Categories
 
-![](/assets/Categories.png)By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each. For more information click [here](/visitors/categories.md).
+![](/assets/Categories.png)
+
+By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each. For more information click [here](/visitors/categories.md).
 
 #### 3. Overview
 

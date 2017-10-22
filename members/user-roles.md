@@ -60,7 +60,8 @@ The data owner for an indicator and this are key to the success of the data entr
 
 ###### Example
 
-![](/assets/Implementation Plan.png) _\*\*All information demonstrated is for illustrative purposes only \*\*_
+![](/assets/Implementation Plan.png) 
+_\*\*All information demonstrated is for illustrative purposes only \*\*_
 
 The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action \(training for judges, prosecutors and MJCA\). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.
 
@@ -138,5 +139,6 @@ Application administrators play a critical role in maintenance of the applicatio
 * Manage users
 * Report bugs
 
+---
 
 
