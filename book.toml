@@ -6,6 +6,9 @@ language = "en"
 multilingual = false
 src = "src"
 
+[build]
+build-dir = "docs"
+
 [output.html]
 git-repository-url = "https://github.com/nmrf/sadata-user-manual/tree/migrate-mdbook"
 edit-url-template = "https://github.com/nmrf/sadata-user-manual/edit/migrate-mdbook/{path}"
