@@ -108,7 +108,7 @@ Clicking on either of these links will take the Administrator to the following f
 
 7. Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
-For more information on adding progress reports [click here](howto/reporting-and-follow-up.md).
+For more information on adding progress reports [click here](../howto/reporting-and-follow-up.md).
 
 ---
 

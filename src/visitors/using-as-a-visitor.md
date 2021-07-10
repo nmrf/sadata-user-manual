@@ -7,7 +7,7 @@ Whether you are an NGO or interested member of the public, this application allo
 * Track how Government is performing in relation to its human rights and Sustainable Development Goal \(SDG\) targets and goals
 * Select and explore areas of interest in what the Government is doing and plans to do \(e.g. in the area of women's rights or in relation to a particular SDG target\)
 * Contribute own data to demonstrate what your organisation has been doing to help achieve these goals
-* [Register as a user](howto/register.md) and become a guest contributor of information to the National Implementation Plan \(as an organisation or an individual\)
+* [Register as a user](../howto/register.md) and become a guest contributor of information to the National Implementation Plan \(as an organisation or an individual\)
 
 Once you click 'Explore' on the homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within the database, tailored to your own needs using our advanced search and filtering systems.
 
@@ -47,7 +47,7 @@ The Overview map is a visual representation of the information contained within 
 In the top right-hand corner of all pages are the additional links for visitors to access the following:
 
 * Sign-in, if they are a registered user
-* Register, if they wish to become a registered user \(for more information click [here](howto/register.md)\)
+* Register, if they wish to become a registered user \(for more information click [here](../howto/register.md)\)
 * Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
 ---

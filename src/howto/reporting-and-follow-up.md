@@ -46,9 +46,9 @@ depending on whether there is sensitive information contained within that should
 
 #### Reporting as a Contributor \(Civil Society and Individuals\)
 
-Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found [here](howto/register.md).
+Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found [here](../howto/register.md).
 
-Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found [here](howto/filter-and-search.md).
+Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found [here](../howto/filter-and-search.md).
 
 Once the relevant indicator has been found the contributor simply needs to click on the 'Add report' button' as described above for Indicator Managers and follow the same set of instructions.
 
@@ -66,7 +66,7 @@ An Administrator can also choose to submit reports at any time and in relation t
 
 Setting up an Indicator Owner means assigning responsibility for a particular indicator to a registered user. That user will then be receive the automated report reminder emails and be responsible for uploading the report and data. This can only be done by Managers and Administrators. 
 
-For an Indicator Manager to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [here](howto/register.md). Once the person is a registered user the process is as follows:
+For an Indicator Manager to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [here](../howto/register.md). Once the person is a registered user the process is as follows:
 
 1. The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [here](../members/users-admin.md).
 
