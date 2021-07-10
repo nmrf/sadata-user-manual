@@ -72,14 +72,14 @@ Batch editing of SDG Targets \(or other entities such as indicators, actions or 
 
 Batch editing is a simple process - first the Administrator/Manager needs to identify and select the SDG Targets they wish to batch edit and then secondly they update the selected SDG Targets as they wish.
 
-1. The Administrator/Manager can select the SDG Targets they wish by first using the filtering and search functions on the 'SDG Targets' main page to bring up the relevant SDG Targets on their screen. More information on how to use these functions can be found [here](visitors/actions.md). Once the relevant SDG Targets have been identified the Administrator/Manager can either:
+1. The Administrator/Manager can select the SDG Targets they wish by first using the filtering and search functions on the 'SDG Targets' main page to bring up the relevant SDG Targets on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant SDG Targets have been identified the Administrator/Manager can either:
 
   * Select individual recommendations using the checkbox next to each action \(see \#1 on image below\)
   * Select all recommendations on the page displayed \(see \#2 on image below\)
   * Select all recommendations returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
 ![](assets/Batch_Edit_SDG_Targets.png)
 
-2. Once the relevant SDG Targets have been selected the Administrator/Manager can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](members/actions.md).
+2. Once the relevant SDG Targets have been selected the Administrator/Manager can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](../members/actions.md).
 
 ---
 

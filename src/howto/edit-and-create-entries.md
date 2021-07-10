@@ -8,7 +8,7 @@ The database is made up of information entered into it by the State and is desig
 * Recommendations
 * SDG Targets
 
-_\*\*\***Key Fact**\*\*\* To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles _[_click here_](members/user-roles.md)_.  _
+_\*\*\***Key Fact**\*\*\* To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles _[_click here_](../members/user-roles.md)_.  _
 
 #### Adding New Entities
 
@@ -18,7 +18,7 @@ Adding new entities is very straight forward. The Administrator or Manager simpl
 
 ![](assets/Add_action.png)
 
-To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](members/categories.md), [actions](members/actions.md), [indicators](members/indicators.md), [recommendations ](members/recommendations.md)or [SDG targets](members/sdg-targets.md).
+To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](../members/categories.md), [actions](../members/actions.md), [indicators](../members/indicators.md), [recommendations ](../members/recommendations.md)or [SDG targets](../members/sdg-targets.md).
 
 **Importing Multiple Entities **
 
@@ -73,7 +73,7 @@ First the Administrator needs to navigate to where their entity can be found. To
 
 The same approach is required to any action, indicator, recommendation or SDG target - simply find the entity in question, click on it and hit the 'edit' button to get going.
 
-For more detailed instructions on how to edit please see the relevant sections for [categories](members/categories.md), [actions](members/actions.md), [indicators](members/indicators.md), [recommendations ](members/recommendations.md)and [SDG targets](members/sdg-targets.md).
+For more detailed instructions on how to edit please see the relevant sections for [categories](../members/categories.md), [actions](../members/actions.md), [indicators](../members/indicators.md), [recommendations ](../members/recommendations.md)and [SDG targets](../members/sdg-targets.md).
 
 **Batch editing**
 
@@ -94,7 +94,7 @@ The batch edit function works in the same manner for all of the above use cases 
 
 First the Administrator or Manager needs to identify and select the actions they wish to batch edit and then secondly they update the selected actions as they wish.
 
-1. The Administrator or Manager can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [here](visitors/actions.md). Once the relevant actions have been identified the Administrator or Manager can either:
+1. The Administrator or Manager can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant actions have been identified the Administrator or Manager can either:
 
   * Select individual actions using the checkbox next to each action \(see \#1 on image below\)
   * Select all actions on the page displayed \(see \#2 on image below\)

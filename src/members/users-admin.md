@@ -47,7 +47,7 @@ Clicking on the user role drop down menu \(circled\) brings up the following opt
 
 The new role can be selected and the save button pressed to confirm the promotion.
 
-To read more about user roles and responsibilities [click here](members/user-roles.md).
+To read more about user roles and responsibilities [click here](../members/user-roles.md).
 
 ---
 

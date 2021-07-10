@@ -80,7 +80,7 @@ Batch editing of actions \(or other entities such as recommendations, indicators
 
 Batch editing is a simple process - first the Administrator needs to identify and select the actions they wish to batch edit and then secondly they update the selected actions as they wish.
 
-1. The Administrator can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [here](visitors/actions.md). Once the relevant actions have been identified the Administrator can either:
+1. The Administrator can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant actions have been identified the Administrator can either:
 
   * Select individual actions using the checkbox next to each action \(see \#1 on image below\)
   * Select all actions on the page displayed \(see \#2 on image below\)

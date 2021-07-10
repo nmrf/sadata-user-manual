@@ -27,7 +27,7 @@ This function is available when adding new Human Rights Bodies, Cycles, Human Ri
 
 6. Website: If additional information on a category can be found via an external URL it can be noted  here and accessed by visitors to the site \(e.g. The website for the Committee on Economic, Social and Cultural Rights\)
 
-7. Category Manager: \*Only visible for Human Rights Bodies and SDGs\* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers click [here](members/user-roles.md).
+7. Category Manager: \*Only visible for Human Rights Bodies and SDGs\* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers click [here](../members/user-roles.md).
 
 ---
 

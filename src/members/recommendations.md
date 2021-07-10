@@ -82,14 +82,14 @@ Batch editing of recommendations \(or other entities such as indicators, actions
 
 Batch editing is a simple process - first the Administrator/Manager needs to identify and select the recommendations they wish to batch edit and then secondly they update the selected recommendations as they wish.
 
-1. The Administrator/Manager can select the recommendations they wish by first using the filtering and search functions on the 'Recommendations' main page to bring up the relevant recommendations on their screen. More information on how to use these functions can be found [here](visitors/actions.md). Once the relevant recommendations have been identified the Administrator/Manager can either:
+1. The Administrator/Manager can select the recommendations they wish by first using the filtering and search functions on the 'Recommendations' main page to bring up the relevant recommendations on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant recommendations have been identified the Administrator/Manager can either:
 
   * Select individual recommendations using the checkbox next to each action \(see \#1 on image  below\)
   * Select all recommendations on the page displayed \(see \#2 on image below\)
   * Select all recommendations returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
 ![](assets/Batch_edit_recommendations.png)
 
-2. Once the relevant recommendations have been selected the Administrator/Manager can then use the menu on left hand side of the screen to link the selected recommendations to any Action or Thematic Cluster, update the status or tag it with any of the taxonomy categories \(within Human rights body, thematic human rights issue, etc.\). Batch editing recommendations is the same process as for actions and indicators. More details on how to carry out this function can be found [here](members/actions.md).
+2. Once the relevant recommendations have been selected the Administrator/Manager can then use the menu on left hand side of the screen to link the selected recommendations to any Action or Thematic Cluster, update the status or tag it with any of the taxonomy categories \(within Human rights body, thematic human rights issue, etc.\). Batch editing recommendations is the same process as for actions and indicators. More details on how to carry out this function can be found [here](../members/actions.md).
 
 ---
 
