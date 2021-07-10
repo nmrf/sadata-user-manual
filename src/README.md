@@ -2,6 +2,8 @@
 
 # 1. Introduction
 
+Chapter overview
+
 [1.1. What is Sadata?](about.md)
 
 [1.2. History](history.md)
