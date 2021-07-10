@@ -1,9 +1,3 @@
-# 4. In Depth: Registered Users
-
-This application allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users types and roles and this section outlines exactly what they are and how they can be registered. These different user types and roles allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.
-
----
-
 ### 4.1 User roles & responsibilities
 
 #### Role: Visitor
@@ -60,7 +54,7 @@ The data owner for an indicator and this are key to the success of the data entr
 
 ###### Example
 
-![](assets/Implementation_Plan.png) 
+![](assets/Implementation_Plan.png)
 _\*\*All information demonstrated is for illustrative purposes only \*\*_
 
 The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action \(training for judges, prosecutors and MJCA\). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.
@@ -140,5 +134,3 @@ Application administrators play a critical role in maintenance of the applicatio
 * Report bugs
 
 ---
-
-

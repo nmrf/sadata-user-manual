@@ -1,5 +1,3 @@
-# 3. Visitors
-
 ### 3.1 Using as a Visitor
 
 Whether you are an NGO or interested member of the public, this application allows visitors to:
@@ -51,6 +49,3 @@ In the top right-hand corner of all pages are the additional links for visitors 
 * Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
 ---
-
-
-

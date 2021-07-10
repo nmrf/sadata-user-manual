@@ -1,5 +1,3 @@
-# 2. How To
-
 ### 2.1 Create Your National Implementation Plan
 
 The National Implementation Plan consists of the obligations of the State in relation to human rights and the SDGs. It also contains the actions the Government is planning to do to implement those obligations and contains the data of progress achieved to date. A National Plan can be created for either human rights or the SDGs, or both.  
