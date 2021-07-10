@@ -1,4 +1,4 @@
-### 3.3 Actions & The Implementation Plan
+## 3.3 Actions & The Implementation Plan
 
 The 'Actions' page contains all of the actions the Government \(and other actors\) have committed to in order to implement State human rights obligations and the SDGs.
 
@@ -6,9 +6,9 @@ When you first arrive on this page, the default view is to group the actions by 
 
 ![](../assets/Actions.png)
 
-#### Page Elements and How to use Them
+### Page Elements and How to use Them
 
-##### The Implementation Plan
+#### The Implementation Plan
 
 ![](../assets/imp_plan_breakdown_2.png)
 
@@ -18,7 +18,7 @@ When you first arrive on this page, the default view is to group the actions by 
 4. Denotes the number of indicators associated with that action. The user can expand this box by clicking on it.
 5. The number of reports/pieces of data uploaded related to that action. The user can expand this box by clicking on it.
 
-##### Expanding the Implementation Plan - 'Implementation View'
+#### Expanding the Implementation Plan - 'Implementation View'
 
 The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst "Implementation View' gives the user a more detailed view and with direct access to any associated indicators and reports/data.  The user can toggle between the views in two ways:
 
@@ -27,35 +27,35 @@ The Implementation Plan can be viewed in either 'List View' or 'Implementation V
 
 The difference between the two views is illustrated below.
 
-##### List View:
+#### List View:
 
 ![](../assets/List_View.png)
 
-##### Implementation View
+#### Implementation View
 
 ![](../assets/Imp_View.png)
 
-#### Grouping Actions
+### Grouping Actions
 
 The default grouping of all Actions contained within the database is by Thematic Cluster. The user can change this as they wish to suit their needs.
 
 ![](../assets/Actions_grouping.png)
 
-By clicking on the cross next to the grouping the user can remove that category and select their preferred category from a drop down list. A sub-group category can also be selected if required. 
+By clicking on the cross next to the grouping the user can remove that category and select their preferred category from a drop down list. A sub-group category can also be selected if required.
 
-#### Searching & Filtering
+### Searching & Filtering
 
-For a user there may be an overwhelming number of actions, nor may they all be of interest. The tool therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest. 
+For a user there may be an overwhelming number of actions, nor may they all be of interest. The tool therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest.
 
-##### Searching By Reference or Title
+#### Searching By Reference or Title
 
 Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:
 
 ![](../assets/Keyword_filter.png)
 
-_\*\* Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu \*\*_
+_Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu_
 
-##### Filtering by Category, connected category, connection or attribute
+#### Filtering by Category, connected category, connection or attribute
 
 The filter list is a powerful tool for users, allowing them to filter actions \(and also indicators and recommendations, as discussed in chapters below\) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section.
 
@@ -74,6 +74,3 @@ For instance, if we select Office of the Attorney General then we are shown the 
 The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
 
 ---
-
-
-

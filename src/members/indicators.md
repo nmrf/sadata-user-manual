@@ -1,8 +1,8 @@
-### 4.5 Indicators
+## 4.5 Indicators
 
 Administrators and Managers can 'add or edit' data via the Indicators page. They are both also able to add progress reports to indicators.
 
-#### Adding Indicators
+### Adding Indicators
 
 There are two ways for an Administrator to add indicators:
 
@@ -14,7 +14,7 @@ There are two ways for an Administrator to add indicators:
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-##### Adding a single indicator: 
+#### Adding a single indicator: 
 
 Click on the 'Add Indicator' icon and the following form will appear:
 
@@ -40,17 +40,17 @@ Click on the 'Add Indicator' icon and the following form will appear:
 
 10. Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
-##### Adding multiple indicators
+#### Adding multiple indicators
 
 By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported.
 
 ![](../assets/Batch_import_indicators.png)
 
-#### Editing Indicators
+### Editing Indicators
 
 There are also two ways in which Indicators can be edited; individually and batch editing.
 
-##### Individual editing
+#### Individual editing
 
 Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button \(circled\):
 
@@ -66,7 +66,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 * Deleting the indicator
 * Editing the title, description or reference of the indicator
 
-##### Batch editing
+#### Batch editing
 
 Batch editing of indicators \(or other entities such as recommendations, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit indicators in a variety of ways including:
 
@@ -84,7 +84,7 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 2. Once the relevant indicators have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](../members/actions.md).
 
-#### Adding Unscheduled & Scheduled Progress Reports
+### Adding Unscheduled & Scheduled Progress Reports
 
 Administrators may be required to add progress reports to an indicator - either unscheduled or scheduled. They can do that by searching for the relevant indicator using the filter and search function and then clicking on the title. The next scren then provides two opportunities to add a progress report. See below:
 

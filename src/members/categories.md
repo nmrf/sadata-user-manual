@@ -1,6 +1,6 @@
-### 4.3 Categories
+## 4.3 Categories
 
-#### Editing/Adding Categories
+### Editing/Adding Categories
 
 ![](../assets/Editing_categories.png)
 
@@ -22,14 +22,10 @@ To add a new category \(i.e. a new human rights body, cycle, issue, cluster, etc
 
 4. Description: Longer description if required \(optional\). This is a useful field to provide visitors with more information on a particular category.
 
-5. Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with the newly created category. The Administrator does so by finding the required recommendations \(using the filtering system if necessary\) and uses the check boxes next to each recommendation. ![](../assets/Add_connections.png)
-This function is available when adding new Human Rights Bodies, Cycles, Human Rights Issue, Affected Persons and Thematic Cluster. In exactly the same way, Actions can be tagged to new Thematic Clusters and Organisations and SDG targets can be tagged to new SDGs.
+5. Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with the newly created category. The Administrator does so by finding the required recommendations \(using the filtering system if necessary\) and uses the check boxes next to each recommendation. This function is available when adding new Human Rights Bodies, Cycles, Human Rights Issue, Affected Persons and Thematic Cluster. In exactly the same way, Actions can be tagged to new Thematic Clusters and Organisations and SDG targets can be tagged to new SDGs. ![](../assets/Add_connections.png)
 
 6. Website: If additional information on a category can be found via an external URL it can be noted  here and accessed by visitors to the site \(e.g. The website for the Committee on Economic, Social and Cultural Rights\)
 
-7. Category Manager: \*Only visible for Human Rights Bodies and SDGs\* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers click [here](../members/user-roles.md).
+7. Category Manager: *Only visible for Human Rights Bodies and SDGs* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers click [here](../members/user-roles.md).
 
 ---
-
-
-

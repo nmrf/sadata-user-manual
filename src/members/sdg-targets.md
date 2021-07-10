@@ -1,8 +1,8 @@
-### 4.7 SDG Targets
+## 4.7 SDG Targets
 
 Administrators and Managers can 'add or edit' data via the SDG Targets page.
 
-#### Adding SDG targets
+### Adding SDG targets
 
 The SDG targets are internationally agreed so they are unlikely to need to change regularly like indicators, recommendations and actions. However, States may wish to develop national indicators relevant to their context, which need to be added to the application. There are two ways for an Administrator/Manager to add SDG targets:
 
@@ -14,7 +14,7 @@ The SDG targets are internationally agreed so they are unlikely to need to chang
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-##### Adding a single SDG target:
+#### Adding a single SDG target:
 
 Click on the 'Add Recommendation' icon and the following form will appear:
 
@@ -36,17 +36,17 @@ Click on the 'Add Recommendation' icon and the following form will appear:
 
 8. Cancel/Save: This is where the Administrator/Manager can save all of the details that have been entered, or clear the form using the cancel button
 
-##### Adding multiple SDG Targets
+#### Adding multiple SDG Targets
 
 By clicking on the 'Import' button \(top image\) the Administrator/Manager will be provided with a CSV template download \(see image below\) for batch importing multiple SDG Targets. Once in the required format the Administrator/Manager can click on the 'Select File' button and upload their file and all of the SDG Targets will automatically be imported. 
 
 ![](../assets/Batch_import_SDG_Targets.png)
 
-#### Editing SDG Targets
+### Editing SDG Targets
 
 There are also two ways in which SDG can be edited; individually and batch editing.
 
-##### Individual editing
+#### Individual editing
 
 Individual editing is as simple as finding the SDG Target you wish to edit, using the search and filtering functions and clicking on the SDG Target title in question, which brings up the following screen with an Edit button \(circled\):
 
@@ -61,7 +61,7 @@ Clicking the edit button allows the Administrator/Manager to edit all of the fie
 * Adding/editing the SDG the target is linked to
 * Deleting the SDG Target
 
-##### Batch editing
+#### Batch editing
 
 Batch editing of SDG Targets \(or other entities such as indicators, actions or SDG targets\) is a powerful feature that allows Administrators/Managers to efficiently edit SDG Targets in a variety of ways including:
 

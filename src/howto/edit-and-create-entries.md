@@ -1,4 +1,4 @@
-### 2.4 How to: Edit and Add Entities
+## 2.4 How to: Edit and Add Entities
 
 The database is made up of information entered into it by the State and is designed so that it is flexible and can be used in a way that meets the needs of any country. All of the information and categorisations are totally flexible and can be created and edited as needed. The following can be classified as entities within the database:
 
@@ -8,9 +8,9 @@ The database is made up of information entered into it by the State and is desig
 * Recommendations
 * SDG Targets
 
-_\*\*\***Key Fact**\*\*\* To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles _[_click here_](../members/user-roles.md)_.  _
+_**Key Fact**_ _To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles [click here](../members/user-roles.md)._
 
-#### Adding New Entities
+### Adding New Entities
 
 **Adding Single Entities**
 
@@ -20,7 +20,7 @@ Adding new entities is very straight forward. The Administrator or Manager simpl
 
 To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](../members/categories.md), [actions](../members/actions.md), [indicators](../members/indicators.md), [recommendations ](../members/recommendations.md)or [SDG targets](../members/sdg-targets.md).
 
-**Importing Multiple Entities **
+**Importing Multiple Entities**
 
 A time-efficient way to add new actions, indicators, recommendations or SDG targets is to use the 'import' function to import multiple entities in one go. The process for importing is the same for the different types of entity. First, the Administrator or Manager clicks on the import button as shown above on the relevant entity page - the following box will then appear:
 
@@ -30,7 +30,7 @@ A time-efficient way to add new actions, indicators, recommendations or SDG targ
 
 2. Once step 1 has been completed the Administrator or Manager clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database.
 
-_\*\*\***Key Fact**\*\*\* When batch importing, it is only possible to import the following:_
+_**Key Fact**_ _When batch importing, it is only possible to import the following:_
 
 * _For actions: title, description, target date, target date comment_
 * _For indicators: title, reference, description_
@@ -39,7 +39,7 @@ _\*\*\***Key Fact**\*\*\* When batch importing, it is only possible to import th
 
 _It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function \(see above\) to assign, tag and link immediately after importing._
 
-#### Editing Entities
+### Editing Entities
 
 **'Edit' v 'Filter' Mode**
 
@@ -107,13 +107,13 @@ First the Administrator or Manager needs to identify and select the actions they
 
 1. The Administrator or Manager can use the filter box to search for the thematic cluster \(or category/connection\) they wish to find
 
-2. Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator or Manager is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator or Manager can **unlink** all of the selected actions from that thematic cluster.
+2. Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator or Manager is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all** of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator or Manager can **unlink** all of the selected actions from that thematic cluster.
 
-3. Where a thematic cluster is not currently linked to any of the selected actions the Administrator or Manager is shown a blank box. By clicking once in any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. In this example, the box on the right demonstrates how this works if the Administrator or Manager selects 'CRPD Implementation'
+3. Where a thematic cluster is not currently linked to any of the selected actions the Administrator or Manager is shown a blank box. By clicking once in any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all** of the selected actions. In this example, the box on the right demonstrates how this works if the Administrator or Manager selects 'CRPD Implementation'
 
 4. If a thematic cluster does not exist which the Administrator or Manager wishes to link all of the selected actions to they can create one using this button
 
-5. At the top of the list is a summary of how many thematic clusters are already linked to all or some of the actions. By clicking once on this box \(so that a tick appears\) and then 'Update' the Administrator or Manager can link **all** of the selected actions to **all **of the thematic clusters**.** By clicking on the box twice \(so that it is blank\) and then 'Update' the Administrator or Manager can unlink all of the selected actions from all of the thematic clusters.
+5. At the top of the list is a summary of how many thematic clusters are already linked to all or some of the actions. By clicking once on this box \(so that a tick appears\) and then 'Update' the Administrator or Manager can link **all** of the selected actions to **all** of the thematic clusters**.** By clicking on the box twice \(so that it is blank\) and then 'Update' the Administrator or Manager can unlink all of the selected actions from all of the thematic clusters.
 
 6. When a thematic cluster is selected then a tick will appear in the box
 

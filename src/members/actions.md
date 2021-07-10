@@ -1,8 +1,8 @@
-### 4.4 Actions
+## 4.4 Actions
 
 Administrators and Managers can 'add or edit' data via the Actions page.
 
-#### Adding Actions
+### Adding Actions
 
 There are two ways for an Administrator to add actions:
 
@@ -14,7 +14,7 @@ There are two ways for an Administrator to add actions:
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-##### Adding a single action:
+#### Adding a single action:
 
 Click on the 'Add Action' icon and the following form will appear:
 
@@ -42,17 +42,17 @@ Click on the 'Add Action' icon and the following form will appear:
 
 11. Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
-##### Adding multiple actions
+#### Adding multiple actions
 
 By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported. 
 
 ![](../assets/Batch_import.png)
 
-#### Editing Actions
+### Editing Actions
 
 There are also two ways in which Actions can be edited; individually and batch editing.
 
-##### Individual editing
+#### Individual editing
 
 Individual editing is as simple as finding the action you wish to edit, using the search and filtering functions and clicking on the action title in question, which brings up the following screen with an Edit button \(circled\):
 
@@ -69,7 +69,7 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 * Editing the target date and target date comments
 * Deleting the action
 
-##### Batch editing
+#### Batch editing
 
 Batch editing of actions \(or other entities such as recommendations, indicators or SDG targets\) is a powerful feature that allows Administrators to efficiently edit actions in a variety of ways including:
 
@@ -93,13 +93,13 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 1. The Administrator can use the filter box to search for the thematic cluster \(or category/sub-category/connection\) they wish to find
 
-2. Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator can **unlink** all of the selected actions from that thematic cluster.
+2. Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator is shown a box with a horizontal line. By clicking once on any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all** of the selected actions. By clicking on the box twice \(so that the box is empty\) and then 'Update' the Administrator can **unlink** all of the selected actions from that thematic cluster.
 
-3. Where a thematic cluster is not currently linked to any of the selected actions the Administrator is shown a blank box. By clicking once in any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. In this example, the box on the right demonstrates how this works if the Administrator selects 'CRPD Implementation'
+3. Where a thematic cluster is not currently linked to any of the selected actions the Administrator is shown a blank box. By clicking once in any of these boxes \(so that a tick appears\) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all** of the selected actions. In this example, the box on the right demonstrates how this works if the Administrator selects 'CRPD Implementation'
 
 4. If a thematic cluster does not exist which the Administrator wishes to link all of the selected actions to they can create one using this button
 
-5. At the top of the list is a summary of how many thematic clusters are already linked to all or some of the actions. By clicking once on this box \(so that a tick appears\) and then 'Update' the Administrator can link **all** of the selected actions to **all **of the thematic clusters**.** By clicking on the box twice \(so that it is blank\) and then 'Update' the Administrator can unlink all of the selected actions from all of the thematic clusters.
+5. At the top of the list is a summary of how many thematic clusters are already linked to all or some of the actions. By clicking once on this box \(so that a tick appears\) and then 'Update' the Administrator can link **all** of the selected actions to **all** of the thematic clusters**.** By clicking on the box twice \(so that it is blank\) and then 'Update' the Administrator can unlink all of the selected actions from all of the thematic clusters.
 
 6. When a thematic cluster is selected then a tick will appear in the box
 

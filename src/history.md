@@ -1,4 +1,4 @@
-### 1.2 History
+## 1.2 History
 
 [IMPACT OSS](http://impactoss.org/) was designed and developed by human rights consultant [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/) and data visualisation agency [Unfold Data](http://unfolddata.com/) with the help of Mr. Moana Eruera of the [New Zealand Human Rights Commission](https://www.hrc.co.nz/) \(HRC\) who together would later form the IMPACT OSS Group with the mission of advancing the enjoyment of human rights by promoting and developing suitable technologies.
 
@@ -10,12 +10,8 @@ This allowed the [New Zealand HRC ](https://www.hrc.co.nz/)to become the final p
 
 [IMPACT OSS](http://impactoss.org/) was thus born in Samoa and New Zealand and is now currently being used as the software platform for [Sadata ](https://sadata-staging.firebaseapp.com/actions)in Samoa and soon also for the future version of the [NPA ](http://npa.hrc.co.nz/#/)in New Zealand. From the outset it was decided that this innovative software would be released under an open source license - a Pacific global offering to improve implementation and reporting of human rights and the SDGs around the world.
 
-![](assets/ohchr_logo.gif)
-
-![](assets/UNDP.png)
-
-![](assets/NZ_Logo.png)
-
-![](assets/NZHRC.png)
+|  |  |  |  |
+| :--- | :--- | :--- | :--- |
+| ![](assets/ohchr_logo.gif) | ![](assets/UNDP.png) | ![](assets/NZ_Logo.png) | ![](assets/NZHRC.png) |
 
 ---

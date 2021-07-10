@@ -1,4 +1,4 @@
-### 3.1 Using as a Visitor
+## 3.1 Using as a Visitor
 
 Whether you are an NGO or interested member of the public, this application allows visitors to:
 
@@ -10,9 +10,9 @@ Whether you are an NGO or interested member of the public, this application allo
 Once you click 'Explore' on the homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within the database, tailored to your own needs using our advanced search and filtering systems.
 
 ![](../assets/Overview_for_Visitors.png)  
-_\*\*All information demonstrated is for illustrative purposes only \*\*_
+_All information demonstrated is for illustrative purposes only_
 
-#### 1. Headline Bar
+### 1. Headline Bar
 
 The headline bar allows you to navigate through the different types of information you can find within the tool:
 
@@ -30,17 +30,17 @@ This tab allows visitors to browse through all of the recommendations a country 
 
 **SDG Targets:** The Sustainable Development Goal targets are 169 internationally agreed goals to achieve the 17 SDGs. Visitors can use this tab to look through the targets and explore what a country's government is doing to achieve them and examine progress to date. For more information click [here](../visitors/sdg-targets.md).
 
-#### 2. Categories
+### 2. Categories
 
 ![](../assets/Categories.png)
 
 By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each. For more information click [here](../visitors/categories.md).
 
-#### 3. Overview
+### 3. Overview
 
 The Overview map is a visual representation of the information contained within the application at any moment in time. It allows users to see how many human rights recommendations and SDG targets there are at a glance and how the actions being taken to address these form the overall National Implementation Plan. Clicking on any element of the Overview map will take the user to the relevant area of the tool where they are able to delve into that information further.
 
-#### 4. Additional Links
+### 4. Additional Links
 
 In the top right-hand corner of all pages are the additional links for visitors to access the following:
 

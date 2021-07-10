@@ -1,6 +1,6 @@
-### 3.2 Categories
+## 3.2 Categories
 
-#### Exploring Categories
+### Exploring Categories
 
 ![](../assets/Categories.png)
 
@@ -10,11 +10,11 @@ The recommendations and actions that make up the National Implementation Plan ar
 
 In the example above, the icons below the recommendation show the different tags that have been assigned. Hovering the cursor over any of the tags will bring up the full title, in this case 'CRC' is shown to be 'Convention on the Rights of the Child'. Clicking on any of the tags will take the user to a page specifically for that category, and display all recommendations and actions associated with it.
 
-#### The taxonomies in detail
+### The taxonomies in detail
 
 ![](../assets/1_humanRightsBody.png)
 
-##### **Human Rights Bodies**
+#### **Human Rights Bodies**
 
 This taxonomy or group of categories covers all human rights bodies or mechanisms that can make recommendations to a State on how to implement its human rights obligations. There are three different types of categories which may fall under this taxonomy:
 
@@ -26,7 +26,7 @@ This taxonomy or group of categories covers all human rights bodies or mechanism
 
 ![](../assets/2_UNsession.png)
 
-##### **Cycles**
+#### **Cycles**
 
 Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' taxonomy allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category.
 
@@ -34,7 +34,7 @@ Both the treaty body reviews and the Universal Periodic Review are regular and o
 
 ![](../assets/5_humanrightsissue.png)
 
-##### **Human Rights Issues**
+#### **Human Rights Issues**
 
 The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' taxonomy. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
@@ -42,7 +42,7 @@ The Office of the United Nations High Commissioner for Human Rights has develope
 
 ![](../assets/4_affectedPersons.png)
 
-##### **Affected persons**
+#### **Affected persons**
 
 In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system.
 
@@ -50,7 +50,7 @@ In the same way that 'Human Rights Issues' allows users to examine particular is
 
 ![](../assets/SMART.png)
 
-##### **Thematic clusters**
+#### **Thematic clusters**
 
 Every United nations member State receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can be similar or be the same. This can make the management of those recommendations more difficult than it needs to be. The application allows the Government to cluster recommendations into general headings to help alleviate this issue.
 
@@ -62,7 +62,7 @@ For the user, this taxonomy once again allows them to explore potential areas of
 
 ![](../assets/6_organisation.png)
 
-##### **Organisations**
+#### **Organisations**
 
 The organisations taxonomy lists the Government agencies \(and others\) carrying out actions contained within the National Implementation Plan. Visitors can use this taxonomy to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the administrator using the 'Contact' link on the website to discuss your involvement.
 
@@ -70,7 +70,7 @@ The organisations taxonomy lists the Government agencies \(and others\) carrying
 
 ![](../assets/7_sdgs.png)
 
-##### **Sustainable Development Goals**
+#### **Sustainable Development Goals**
 
 In addition to being a tool which helps track and coordinate implementation a country's human rights obligations, the application also does the same in relation to the SDGs. Visitors can therefore click on this taxonomy to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. The tool helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
 

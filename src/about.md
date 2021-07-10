@@ -1,22 +1,22 @@
-### 1.1 What is Sadata?
+## 1.1 What is Sadata?
 
-#### The Problem
+### The Problem
 
 Each State around the world has a huge range of international obligations, in terms of human rights, the Sustainable Development Goals and more. Many of these obligations overlap meaning that one of the SDG targets may be asking a State to do the same thing as one of its UPR recommendations. However, up until now no tool existed to help identify all of those linkages and eliminate the duplication of activities and reporting that can occur as a result. With the birth of this software this is no longer the case.
 
-#### The Solution
+### The Solution
 
 [Sadata](https://sadata-staging.firebaseapp.com/) is a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received. Through a series of automated processes it helps to ensure ongoing data collection and guard against non-entry of data, meaning the Implementation Plan progress is always 100% up to date. This allows greater oversight by the public and civil society, and for States to have far greater control over implementation of its obligations - ultimately leading to more effective State implementation and reporting and improvements on the ground for everyday people, every day.
 
-#### The Technology
+### The Technology
 
 Sadata is built using [IMPACT OSS](http://impactoss.org/) \(**I**ntegrated **M**anagement and **P**lanning of **Act**ions **O**pen **S**ource **S**oftware\). For more information on this software and how it was made please take a look at its [development history](history.md).
 
-#### The Users
+### The Users
 
 Sadata is a primarily a tool for States to plan and monitor implementation of its human rights and SDG obligations. However, it has also been built with a wider audience in mind whereby civil society and other stakeholders can access the publicly available database and track progress, holding Government to account and contributing their own data where appropriate.
 
-#### The Manual
+### The Manual
 
 The manual is split into three parts:
 

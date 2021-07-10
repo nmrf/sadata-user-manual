@@ -1,4 +1,4 @@
-### 2.6 How to: Register
+## 2.6 How to: Register
 
 ![](../assets/Registration.png)
 
@@ -10,9 +10,6 @@ Users have to be registered in the following way:
 
 ![](../assets/Register_form.png)
 
-\*\* _It is important to note that simply registering as described above only allows the user to contribute draft progress reports to indicators as a _[_Guest Contributor_](../howto/reporting-and-follow-up.md)_. To publish and edit other information, specific user permission rights have to be granted by an Administrator or Manager. _[_Click here _](../members/users-admin.md)_for more details \*\*_
+_It is important to note that simply registering as described above only allows the user to contribute draft progress reports to indicators as a [Guest Contributor](../howto/reporting-and-follow-up.md). To publish and edit other information, specific user permission rights have to be granted by an Administrator or Manager. [Click here](../members/users-admin.md) for more details_
 
 ---
-
-
-
