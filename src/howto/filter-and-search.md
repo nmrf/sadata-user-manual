@@ -9,7 +9,7 @@ The filter and search functions of the application are powerful tools that can b
 
 The search box appears at the top of each of the following pages: actions, indicators, recommendations and SDG targets.
 
-![](assets/Search_box.png)
+![](../assets/Search_box.png)
 
 The user can enter any keyword or reference number to search that particular set of entities \(in the example above the 567 actions in the database\).
 
@@ -36,11 +36,11 @@ The filter function allows users to filter the results of the page they are on u
 
 The filtering system works in the same manner across the different pages. The arrow points to the filtering list on the actions page, which is always in the same place on all of the pages. To start filtering the user simply needs to click on the category, connected category or connection they wish to filter by. For example, if we want to filter by affected pesons body and click on that title, the following box appears
 
-![](assets/Filter_list_3.png)
+![](../assets/Filter_list_3.png)
 
 For example, if we wanted to filter by human rights issue on the recommendations page, the user simply needs to click on the 'affected persons title and the following box will appear:
 
-![](assets/Filter_recs.png)
+![](../assets/Filter_recs.png)
 
 The list of human rights issues appears in the right hand column, through which the user can scroll. The number next to each issue indicates the number of results will be returned if this filter is applied. To apply the filter the user simply needs to select the check box to the left of the required issue.
 
@@ -48,7 +48,7 @@ Multiple filters can be applied by repeating the steps described above.
 
 Once a filter is applied the tag appears in the search box:
 
-![](assets/Filter_search_box.png)
+![](../assets/Filter_search_box.png)
 
 In the example above we have filtered for recommendations that fall within the issue of 'international obligations' and affect 'girls'. Should the user also wish to enter a keyword into the search box to further refine the results they can do so. Alternatively, if they wish to remove one of the filters they simply need to click on the cross in the tag box \(as per the picture above\).
 

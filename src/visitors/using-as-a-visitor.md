@@ -9,7 +9,7 @@ Whether you are an NGO or interested member of the public, this application allo
 
 Once you click 'Explore' on the homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within the database, tailored to your own needs using our advanced search and filtering systems.
 
-![](assets/Overview_for_Visitors.png)  
+![](../assets/Overview_for_Visitors.png)  
 _\*\*All information demonstrated is for illustrative purposes only \*\*_
 
 #### 1. Headline Bar
@@ -32,7 +32,7 @@ This tab allows visitors to browse through all of the recommendations a country 
 
 #### 2. Categories
 
-![](assets/Categories.png)
+![](../assets/Categories.png)
 
 By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each. For more information click [here](../visitors/categories.md).
 

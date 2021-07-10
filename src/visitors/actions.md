@@ -4,13 +4,13 @@ The 'Actions' page contains all of the actions the Government \(and other actors
 
 When you first arrive on this page, the default view is to group the actions by thematic cluster. This is the National Implementation Plan.
 
-![](assets/Actions.png)
+![](../assets/Actions.png)
 
 #### Page Elements and How to use Them
 
 ##### The Implementation Plan
 
-![](assets/imp_plan_breakdown_2.png)
+![](../assets/imp_plan_breakdown_2.png)
 
 1. The 'Human Rights Cluster', which the actions fall within. Users can click on the cluster text to see all of the actions and recommendations associated with that cluster.
 2. The Actions themselves. Users can click on any of the actions to see all of the recommendations and SDGs it is helping to address, the target date, which clusters it falls within the the organisations responsible for carrying out the action.
@@ -29,17 +29,17 @@ The difference between the two views is illustrated below.
 
 ##### List View:
 
-![](assets/List_View.png)
+![](../assets/List_View.png)
 
 ##### Implementation View
 
-![](assets/Imp_View.png)
+![](../assets/Imp_View.png)
 
 #### Grouping Actions
 
 The default grouping of all Actions contained within the database is by Thematic Cluster. The user can change this as they wish to suit their needs.
 
-![](assets/Actions_grouping.png)
+![](../assets/Actions_grouping.png)
 
 By clicking on the cross next to the grouping the user can remove that category and select their preferred category from a drop down list. A sub-group category can also be selected if required. 
 
@@ -51,7 +51,7 @@ For a user there may be an overwhelming number of actions, nor may they all be o
 
 Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:
 
-![](assets/Keyword_filter.png)
+![](../assets/Keyword_filter.png)
 
 _\*\* Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu \*\*_
 
@@ -61,7 +61,7 @@ The filter list is a powerful tool for users, allowing them to filter actions \(
 
 Clicking on any of the headings in the filter list will bring out the categories of that taxonomy:
 
-![](assets/Filter_list.png)
+![](../assets/Filter_list.png)
 
 The pop out menu shows the user all of the categories and the number beside each one shows how many actions each category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. \(Please note that this is test data\).
 
@@ -69,7 +69,7 @@ The user can simply select which organisation they are interested in and the fil
 
 For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:
 
-![](assets/AGO_Actions.png)
+![](../assets/AGO_Actions.png)
 
 The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
 

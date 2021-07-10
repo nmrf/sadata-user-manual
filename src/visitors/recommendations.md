@@ -2,7 +2,7 @@
 
 Recommendations are received from the various [Human Rights Bodies](../visitors/categories.md) and are intended to help a country implement its human rights obligations. This page is a collection of all of the recommendations a country has received. The default grouping when users arrive on this page is to group recommendations first by Human Rights Body and then by Cycle. 
 
-![](assets/Recommendations.png)
+![](../assets/Recommendations.png)
 
 The 'Recommendations' page works similarly to both the 'Actions' and 'Indicators' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area.
 

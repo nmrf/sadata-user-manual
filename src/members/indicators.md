@@ -10,7 +10,7 @@ There are two ways for an Administrator to add indicators:
 
 2. Import a file of multiple indicators
 
-![](assets/Add_indicators.png)
+![](../assets/Add_indicators.png)
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
@@ -18,7 +18,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 Click on the 'Add Indicator' icon and the following form will appear:
 
-![](assets/Add_indicator_2.png)
+![](../assets/Add_indicator_2.png)
 
 1. ID: Administrator can add an indicator ID. If left blank an ID will automatically be assigned.
 
@@ -44,7 +44,7 @@ Click on the 'Add Indicator' icon and the following form will appear:
 
 By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported.
 
-![](assets/Batch_import_indicators.png)
+![](../assets/Batch_import_indicators.png)
 
 #### Editing Indicators
 
@@ -54,7 +54,7 @@ There are also two ways in which Indicators can be edited; individually and batc
 
 Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button \(circled\):
 
-![](assets/Edit_indicator.png)
+![](../assets/Edit_indicator.png)
 
 Clicking the edit button allows the Administrator to edit all of the fields associated with that indicator including:
 
@@ -80,7 +80,7 @@ Batch editing is a simple process - first the Administrator needs to identify an
   * Select individual indicators using the checkbox next to each action \(see \#1 on image below\)
   * Select all indicators on the page displayed \(see \#2 on image below\)
   * Select all indicators returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
-![](assets/Batch_edit_indictors.png)
+![](../assets/Batch_edit_indictors.png)
 
 2. Once the relevant indicators have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](../members/actions.md).
 
@@ -88,11 +88,11 @@ Batch editing is a simple process - first the Administrator needs to identify an
 
 Administrators may be required to add progress reports to an indicator - either unscheduled or scheduled. They can do that by searching for the relevant indicator using the filter and search function and then clicking on the title. The next scren then provides two opportunities to add a progress report. See below:
 
-![](assets/Add_report.png)
+![](../assets/Add_report.png)
 
 Clicking on either of these links will take the Administrator to the following form:
 
-![](assets/Admin_add_progress_report.png)
+![](../assets/Admin_add_progress_report.png)
 
 1. Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
 

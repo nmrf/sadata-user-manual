@@ -8,17 +8,17 @@ Once the National Implementation Plan has been developed, users of the applicati
 
 #### Creating Your Human Rights Implementation Plan in 3 Easy Steps
 
-##### 1.Enter human rights recommendations or Convention article**s **
+##### 1.Enter human rights recommendations or Convention articles
 
 This can either be done by importing recommendations or articles in bulk or entering them one by one. Simply click on the 'Recommendations ' tab in the top menu bar and get going. For more information on adding recommendations and articles [click here](../visitors/recommendations.md).
 
-![](assets/Add_recommendations.png)
+![](../assets/Add_recommendations.png)
 
 ##### 2. Cluster your recommendations and articles
 
 By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and \(1\) use the filtering and search functions to find similar obligations, \(2\) select them and then \(3\) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
 
-![](assets/Clustering.png)
+![](../assets/Clustering.png)
 
 Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](../members/recommendations.md). For more information on the difference between 'filtering' and 'editing' [click here](../members/content.md).
 
@@ -26,7 +26,7 @@ Alternatively, recommendations or articles could be allocated to clusters indivi
 
 Now the framework for the National Implementation Plan has been created all that is left to do is add the actions \(and associated indicators\) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
 
-![](assets/Add_action.png)
+![](../assets/Add_action.png)
 
 If adding multiple entries then the actions/indicators can then be assigned to clusters or individual recommendations/articles using the filter and edit process. If adding one by one then at the time of creation this can be done. Additionally, if you are creating a single action you can also create the indicator\(s\) associated with it as part of the same process, without having to click on the 'indicators' tab in the top menu bar. For more information on how to carry out these functions [click here](../members/actions.md).
 
@@ -34,7 +34,7 @@ Whilst multiple indicators can be imported it is important to edit each one indi
 
 Actions and indicators can and should also be linked to the SDG targets where appropriate. For instance if the work Rosemary is doing, as described above, also helps to meet SDG target 16.3 it can be linked when the action or indicator is being created. That means that any data Rosemary uploads will also be tracked against SDG 16.3 even though it is only uploaded once.
 
-_**\*\*\ Top Tip \*\*** States should start off by looking at what is already planned in the coming years which will already address the thematic clusters and once this is done that will identify where the gaps are and actions can be devised to help meet these gaps. At any point it is easy to check whether gaps exit by going to the recommendations page and filtering to see which recommendations do not currently have any actions._
+**Top Tip** States should start off by looking at what is already planned in the coming years which will already address the thematic clusters and once this is done that will identify where the gaps are and actions can be devised to help meet these gaps. At any point it is easy to check whether gaps exit by going to the recommendations page and filtering to see which recommendations do not currently have any actions._
 
 ##### Finally: Monitor and update
 
@@ -48,6 +48,5 @@ The SDG Implementation Plan can be developed on its own using the steps above \(
 
 ##### An Example Implementation Plan
 
-\(screenshot covering an illustrative section\)
-![](assets/Implementation_Plan_2.png)
-_\(screenshot covering an illustrative section\)_
+![](../assets/Implementation_Plan_2.png)
+_screenshot covering an illustrative section_

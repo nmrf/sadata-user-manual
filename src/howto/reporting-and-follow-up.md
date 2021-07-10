@@ -8,7 +8,7 @@ Data can be entered through progress reports by civil servants, administrators o
 
 Each indicator in the Implementation Plan is assigned to an [Indicator Manager](../members/user-roles.md) who is responsible for uploading the relevant information, either as a once off or on a regular basis. That Indicator Manager will receive an automated email when the information is due.
 
-![](assets/Email_reminder.png)
+![](../assets/Email_reminder.png)
 
 Once an email reminder hass been received the Indicator Manager simply needs to:
 
@@ -20,11 +20,11 @@ Once an email reminder hass been received the Indicator Manager simply needs to:
 
 4. Click on 'Add Report' \(1 or 2 in screenshot below\)
 
-![](assets/Add_report.png)
+![](../assets/Add_report.png)
 
 The Indicator Manager will then be taken to the following screen:
 
-![](assets/Admin_add_progress_report.png)
+![](../assets/Admin_add_progress_report.png)
 
 The Indicator Manager simply needs to fill out the required fields:
 

@@ -2,7 +2,7 @@
 
 Administrators are able to create content pages to provide visitors with information. This could be about the tool itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
 
-![](assets/Pages.png)
+![](../assets/Pages.png)
 
 1. The existing pages are displayed and can be searched through using the filters or the search box \(3\). Clicking on any of the pages will allow the Administrator to edit the content and the draft/public status of the page
 
@@ -12,7 +12,7 @@ Administrators are able to create content pages to provide visitors with informa
 
 4. The 'Add Page'  link is where Administrators can add new content pages. Clicking on this link brings up the following form:
 
-![](assets/New_Page.png)
+![](../assets/New_Page.png)
 
 1. Title: The Title which will appear on the public page
 
