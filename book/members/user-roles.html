@@ -1,0 +1,299 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>User roles &amp; responsibilities - Sadata User Manual</title>
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="User Manual for Sadata, a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Sadata User Manual</li><li class="spacer"></li><li class="chapter-item expanded "><a href="../index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../about.html"><strong aria-hidden="true">1.1.</strong> What is Sadata?</a></li><li class="chapter-item expanded "><a href="../history.html"><strong aria-hidden="true">1.2.</strong> History</a></li><li class="chapter-item expanded "><a href="../glossary.html"><strong aria-hidden="true">1.3.</strong> Glossary &amp; Icons</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../howto/index.html"><strong aria-hidden="true">2.</strong> How To</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../howto/creating-the-implementation-plan.html"><strong aria-hidden="true">2.1.</strong> Create Your National Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/reporting-and-follow-up.html"><strong aria-hidden="true">2.2.</strong> Report (add data)</a></li><li class="chapter-item expanded "><a href="../howto/monitor-the-implementation-plan.html"><strong aria-hidden="true">2.3.</strong> Monitor the Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/edit-and-create-entries.html"><strong aria-hidden="true">2.4.</strong> Edit and Add Entities</a></li><li class="chapter-item expanded "><a href="../howto/filter-and-search.html"><strong aria-hidden="true">2.5.</strong> Filter and Search</a></li><li class="chapter-item expanded "><a href="../howto/register.html"><strong aria-hidden="true">2.6.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../visitors/index.html"><strong aria-hidden="true">3.</strong> In Depth: Visitors</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../visitors/using-as-a-visitor.html"><strong aria-hidden="true">3.1.</strong> Using Sadata as a Visitor</a></li><li class="chapter-item expanded "><a href="../visitors/categories.html"><strong aria-hidden="true">3.2.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../visitors/actions.html"><strong aria-hidden="true">3.3.</strong> Actions &amp; The Implementation Plan</a></li><li class="chapter-item expanded "><a href="../visitors/indicators.html"><strong aria-hidden="true">3.4.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../visitors/recommendations.html"><strong aria-hidden="true">3.5.</strong> Recommendations </a></li><li class="chapter-item expanded "><a href="../visitors/sdg-targets.html"><strong aria-hidden="true">3.6.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../visitors/register.html"><strong aria-hidden="true">3.7.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../members/index.html"><strong aria-hidden="true">4.</strong> In Depth: Registered Users</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../members/user-roles.html" class="active"><strong aria-hidden="true">4.1.</strong> User roles &amp; responsibilities</a></li><li class="chapter-item expanded "><a href="../members/content.html"><strong aria-hidden="true">4.2.</strong> Adding &amp; editing content</a></li><li class="chapter-item expanded "><a href="../members/categories.html"><strong aria-hidden="true">4.3.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../members/actions.html"><strong aria-hidden="true">4.4.</strong> Actions</a></li><li class="chapter-item expanded "><a href="../members/indicators.html"><strong aria-hidden="true">4.5.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../members/recommendations.html"><strong aria-hidden="true">4.6.</strong> Recommendations</a></li><li class="chapter-item expanded "><a href="../members/sdg-targets.html"><strong aria-hidden="true">4.7.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../members/users-admin.html"><strong aria-hidden="true">4.8.</strong> Users Admin</a></li><li class="chapter-item expanded "><a href="../members/pages.html"><strong aria-hidden="true">4.9.</strong> Pages</a></li><li class="chapter-item expanded "><a href="../members/user-profile.html"><strong aria-hidden="true">4.10.</strong> User Profile</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Sadata User Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/tree/migrate-mdbook" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/edit/migrate-mdbook/src/members/user-roles.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="4-in-depth-registered-users"><a class="header" href="#4-in-depth-registered-users">4. In Depth: Registered Users</a></h1>
+<p>This application allows users to organise human rights recommendations and the SDGs, track implementation and record progress by uploading reports and data. It requires users to do this, usually Government employees. There are different types of users types and roles and this section outlines exactly what they are and how they can be registered. These different user types and roles allow for the protection of sensitive information and to control who can make fundamental changes to the way information is collected and implementation is tracked.</p>
+<hr />
+<h3 id="41-user-roles--responsibilities"><a class="header" href="#41-user-roles--responsibilities">4.1 User roles &amp; responsibilities</a></h3>
+<h4 id="role-visitor"><a class="header" href="#role-visitor">Role: Visitor</a></h4>
+<p>Any member of the public that is not registered or logged in. This manual contains a whole chapter on how Visitors can make the most out of visiting this site. To read, <a href="visitors/using-as-a-visitor.html">click here</a>.</p>
+<h6 id="rights"><a class="header" href="#rights">Rights</a></h6>
+<ul>
+<li>Access and explore all published information using the filters and search functions</li>
+<li>Track progress on the National Implementation Plan and thus how the Government is performing</li>
+</ul>
+<hr />
+<h4 id="role-guest"><a class="header" href="#role-guest">Role: Guest</a></h4>
+<p>Role implicitly assumed when registered</p>
+<h6 id="rights-1"><a class="header" href="#rights-1">Rights</a></h6>
+<ul>
+<li>Can create draft progress reports (thus become user type &quot;Guest Contributor&quot;)</li>
+<li>All the above</li>
+</ul>
+<h5 id="function-guest-contributor"><a class="header" href="#function-guest-contributor">Function: Guest contributor</a></h5>
+<p>Contributors are registered users who can submit information relating to the National Implementation Plan or the SDGs, but don't have to be part of the Government. NGOs, NHRIs or any member of the public can thus contribute data to show progress towards any part of the National Implementation Plan or SDGs. This gives groups and individuals a platform to showcase their work to Government and to encourage more coordinated activities. For instance, a contributor could be an NGO who has been doing work in a particular area that is helping to achieve one of the areas of the Implementation Plan or the SDGs. Any organisation or individual can register as a user and contribute data as they see fit. In addition to raising awareness of the work they are doing this can also help to foster better coordination of activities with Government. For more information on adding reports, click <a href="howto/reporting-and-follow-up.html">here</a>.</p>
+<h6 id="responsibilities"><a class="header" href="#responsibilities">Responsibilities</a></h6>
+<ul>
+<li>Add progress reports to existing indicators and upload data. Note: progress reports will have to be reviewed and published first by an authorised user to become public</li>
+</ul>
+<hr />
+<h4 id="role-contributor"><a class="header" href="#role-contributor">Role: Contributor</a></h4>
+<h6 id="rights-2"><a class="header" href="#rights-2">Rights</a></h6>
+<ul>
+<li>Can be assigned to indicator</li>
+<li>Can create public progress reports for assigned indicators</li>
+<li>Can view draft content</li>
+<li>All the above</li>
+</ul>
+<h5 id="function-indicator-manager"><a class="header" href="#function-indicator-manager">Function: Indicator Manager</a></h5>
+<p>The data owner for an indicator and this are key to the success of the data entry - they are the registered users who upload information against all of the indicators. Once assigned to an indicator the user becomes responsible for uploading data at the required time. For more information on adding reports, click <a href="howto/reporting-and-follow-up.html">here</a>.</p>
+<h6 id="prerequisites"><a class="header" href="#prerequisites">Prerequisites</a></h6>
+<ul>
+<li>Assigned to indicator (by user with at least role &quot;Manager&quot;)</li>
+</ul>
+<h6 id="responsibilities-1"><a class="header" href="#responsibilities-1">Responsibilities</a></h6>
+<ul>
+<li>Add progress reports and upload data for the indicator the user has been assigned to</li>
+<li>Receive automated reminder emails when a progress report is due (weekly, 30 days ahead of due date) and overdue (daily, after due date has passed)</li>
+</ul>
+<h6 id="example"><a class="header" href="#example">Example</a></h6>
+<p><img src="assets/Implementation_Plan.png" alt="" /> 
+<em>**All information demonstrated is for illustrative purposes only **</em></p>
+<p>The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action (training for judges, prosecutors and MJCA). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.</p>
+<p>Should they fail to do so then they will continue to receive email reminders until the data has been uploaded. This is the first safeguard against non-entry built into the application. Data can be uploaded in any file type format.</p>
+<hr />
+<h4 id="role-manager"><a class="header" href="#role-manager">Role: Manager</a></h4>
+<h6 id="rights-3"><a class="header" href="#rights-3">Rights</a></h6>
+<ul>
+<li>Can be assigned to a category (thus become user type &quot;Category Manager&quot;)</li>
+<li>Can assign Contributor to indicator</li>
+<li>Can promote Guest to Contributor</li>
+<li>Can create and update categories and other entities (except pages)</li>
+<li>All the above</li>
+</ul>
+<h5 id="function-category-manager"><a class="header" href="#function-category-manager">Function: Category Manager</a></h5>
+<p>The person responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.</p>
+<p>For each 'Human Rights Body' category, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.</p>
+<p>At each NMRF quarterly meeting each Manager should provide an overview of recently added data/information to the Working Group.</p>
+<h6 id="prerequisites-1"><a class="header" href="#prerequisites-1">Prerequisites</a></h6>
+<ul>
+<li>Assigned to suitable category</li>
+</ul>
+<h6 id="responsibilities-2"><a class="header" href="#responsibilities-2">Responsibilities</a></h6>
+<ul>
+<li>Assign users to indicators</li>
+<li>Oversee and follow-up data collection</li>
+<li>Receive automated reminder emails when a progress report is overdue (weekly, after due date has passed) for indicators in the assigned area.</li>
+<li>Raise repeated failure to upload with the relevant Ministry at the next scheduled meeting of the National Mechanism for Reporting and Follow-Up.</li>
+<li>Review and publish progress reports added by <strong>Guest Contributors</strong></li>
+<li>Should provide an overview of recently added data/information to the Working Group at each NMRF quarterly meeting</li>
+</ul>
+<h5 id="function-implementation-plan-manager"><a class="header" href="#function-implementation-plan-manager">Function: Implementation Plan Manager</a></h5>
+<p>Responsible for developing and updating the National Implementation Plan.</p>
+<h6 id="responsibilities-3"><a class="header" href="#responsibilities-3">Responsibilities</a></h6>
+<ul>
+<li>Create and edit recommendations, actions and indicators, as well as categories</li>
+<li>Connect and categorise recommendations, actions and indicators</li>
+<li>Adding newly received recommendations into the database and assigning them to clusters, as directed by the NMRF</li>
+<li>Maintaining and updating the category lists</li>
+</ul>
+<hr />
+<h4 id="role-administrator"><a class="header" href="#role-administrator">Role: Administrator</a></h4>
+<h6 id="rights-4"><a class="header" href="#rights-4">Rights</a></h6>
+<ul>
+<li>Can assign Manager to category</li>
+<li>Can promote users to Manager and Administrator</li>
+<li>Can create and update pages</li>
+<li>All the above</li>
+</ul>
+<h5 id="function-content-editor"><a class="header" href="#function-content-editor">Function: Content Editor</a></h5>
+<p>Responsible for editorial content.</p>
+<h6 id="responsibilities-4"><a class="header" href="#responsibilities-4">Responsibilities</a></h6>
+<ul>
+<li>Create and update content pages</li>
+</ul>
+<h5 id="function-application-administrator"><a class="header" href="#function-application-administrator">Function: Application administrator</a></h5>
+<p>Application administrators play a critical role in maintenance of the application.</p>
+<h6 id="rights--responsibilities"><a class="header" href="#rights--responsibilities">Rights &amp; Responsibilities</a></h6>
+<ul>
+<li>Manage users</li>
+<li>Report bugs</li>
+</ul>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../members/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../members/content.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../members/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../members/content.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../ace.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../editor.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mode-rust.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-dawn.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

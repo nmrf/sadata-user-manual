@@ -1,0 +1,260 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Report (add data) - Sadata User Manual</title>
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="User Manual for Sadata, a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Sadata User Manual</li><li class="spacer"></li><li class="chapter-item expanded "><a href="../index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../about.html"><strong aria-hidden="true">1.1.</strong> What is Sadata?</a></li><li class="chapter-item expanded "><a href="../history.html"><strong aria-hidden="true">1.2.</strong> History</a></li><li class="chapter-item expanded "><a href="../glossary.html"><strong aria-hidden="true">1.3.</strong> Glossary &amp; Icons</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../howto/index.html"><strong aria-hidden="true">2.</strong> How To</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../howto/creating-the-implementation-plan.html"><strong aria-hidden="true">2.1.</strong> Create Your National Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/reporting-and-follow-up.html" class="active"><strong aria-hidden="true">2.2.</strong> Report (add data)</a></li><li class="chapter-item expanded "><a href="../howto/monitor-the-implementation-plan.html"><strong aria-hidden="true">2.3.</strong> Monitor the Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/edit-and-create-entries.html"><strong aria-hidden="true">2.4.</strong> Edit and Add Entities</a></li><li class="chapter-item expanded "><a href="../howto/filter-and-search.html"><strong aria-hidden="true">2.5.</strong> Filter and Search</a></li><li class="chapter-item expanded "><a href="../howto/register.html"><strong aria-hidden="true">2.6.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../visitors/index.html"><strong aria-hidden="true">3.</strong> In Depth: Visitors</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../visitors/using-as-a-visitor.html"><strong aria-hidden="true">3.1.</strong> Using Sadata as a Visitor</a></li><li class="chapter-item expanded "><a href="../visitors/categories.html"><strong aria-hidden="true">3.2.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../visitors/actions.html"><strong aria-hidden="true">3.3.</strong> Actions &amp; The Implementation Plan</a></li><li class="chapter-item expanded "><a href="../visitors/indicators.html"><strong aria-hidden="true">3.4.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../visitors/recommendations.html"><strong aria-hidden="true">3.5.</strong> Recommendations </a></li><li class="chapter-item expanded "><a href="../visitors/sdg-targets.html"><strong aria-hidden="true">3.6.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../visitors/register.html"><strong aria-hidden="true">3.7.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../members/index.html"><strong aria-hidden="true">4.</strong> In Depth: Registered Users</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../members/user-roles.html"><strong aria-hidden="true">4.1.</strong> User roles &amp; responsibilities</a></li><li class="chapter-item expanded "><a href="../members/content.html"><strong aria-hidden="true">4.2.</strong> Adding &amp; editing content</a></li><li class="chapter-item expanded "><a href="../members/categories.html"><strong aria-hidden="true">4.3.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../members/actions.html"><strong aria-hidden="true">4.4.</strong> Actions</a></li><li class="chapter-item expanded "><a href="../members/indicators.html"><strong aria-hidden="true">4.5.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../members/recommendations.html"><strong aria-hidden="true">4.6.</strong> Recommendations</a></li><li class="chapter-item expanded "><a href="../members/sdg-targets.html"><strong aria-hidden="true">4.7.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../members/users-admin.html"><strong aria-hidden="true">4.8.</strong> Users Admin</a></li><li class="chapter-item expanded "><a href="../members/pages.html"><strong aria-hidden="true">4.9.</strong> Pages</a></li><li class="chapter-item expanded "><a href="../members/user-profile.html"><strong aria-hidden="true">4.10.</strong> User Profile</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Sadata User Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/tree/migrate-mdbook" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/edit/migrate-mdbook/src/howto/reporting-and-follow-up.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h3 id="22-how-to-report-add-data"><a class="header" href="#22-how-to-report-add-data">2.2 How to: Report (add data)</a></h3>
+<p>Adding progress reports is critical to the success of using this tool. Progress reports contain the data required for each indicator of the National Implementation Plan. This regular entry of data allows States, civil society and other stakeholders to check progress of the Plan and ensures that required reporting is just a matter of analysing the data and writing the narrative.</p>
+<p>Data can be entered through progress reports by civil servants, administrators of the database or civil society and other stakeholders.</p>
+<h4 id="reporting-as-an-indicator-owner"><a class="header" href="#reporting-as-an-indicator-owner"><strong>Reporting as an Indicator Owner</strong></a></h4>
+<p>Each indicator in the Implementation Plan is assigned to an <a href="members/user-roles.html">Indicator Manager</a> who is responsible for uploading the relevant information, either as a once off or on a regular basis. That Indicator Manager will receive an automated email when the information is due.</p>
+<p><img src="assets/Email_reminder.png" alt="" /></p>
+<p>Once an email reminder hass been received the Indicator Manager simply needs to:</p>
+<ol>
+<li>
+<p>Click on the link in the email (not pictured)</p>
+</li>
+<li>
+<p>Enter login details (if not already signed in)</p>
+</li>
+<li>
+<p>Filter the indicators using the 'My Indicators' option and click on the relevant indicator</p>
+</li>
+<li>
+<p>Click on 'Add Report' (1 or 2 in screenshot below)</p>
+</li>
+</ol>
+<p><img src="assets/Add_report.png" alt="" /></p>
+<p>The Indicator Manager will then be taken to the following screen:</p>
+<p><img src="assets/Admin_add_progress_report.png" alt="" /></p>
+<p>The Indicator Manager simply needs to fill out the required fields:</p>
+<ol>
+<li>
+<p>Title: The title of the progress report (E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'</p>
+</li>
+<li>
+<p>Description: Full details of the progress report</p>
+</li>
+<li>
+<p>Upload document: Information/data related to the indicator should be uploaded via this link</p>
+</li>
+<li>
+<p>Public/Private: The status of the uploaded document can be set to public or private 
+depending on whether there is sensitive information contained within that should not be available publicly</p>
+</li>
+<li>
+<p>Draft/public: The status of the progress report. Once it is ready to publish on the public site, this status should be immediately changed to public.</p>
+</li>
+<li>
+<p>Due date: As an administrator, both scheduled and unscheduled progress reports can be entered. The Administrator is required to indicate here whether the progress report they are uploading is unscheduled or scheduled.</p>
+</li>
+<li>
+<p>Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button</p>
+</li>
+</ol>
+<h4 id="reporting-as-a-contributor-civil-society-and-individuals"><a class="header" href="#reporting-as-a-contributor-civil-society-and-individuals">Reporting as a Contributor (Civil Society and Individuals)</a></h4>
+<p>Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found <a href="howto/register.html">here</a>.</p>
+<p>Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found <a href="howto/filter-and-search.html">here</a>.</p>
+<p>Once the relevant indicator has been found the contributor simply needs to click on the 'Add report' button' as described above for Indicator Managers and follow the same set of instructions.</p>
+<p><em>*** Reports submitted in this way will not automatically appear on the site. They will first be reviewed by a Manager and once approved will appear ***</em></p>
+<h4 id="reviewing-reports-as-a-manager"><a class="header" href="#reviewing-reports-as-a-manager">Reviewing Reports as a Manager</a></h4>
+<p>Once a report is submitted by a Contributor the registered user the relevant <a href="members/user-roles.html">Manager</a> will receive an automated email informing them. The email notification will contain a link to the report - once the Manager has signed in they will be taken to the report to review the contents. To accept the contents of the report and make it public the Manager should change the status from 'draft' to 'public'.</p>
+<h4 id="reporting-as-an-administrator"><a class="header" href="#reporting-as-an-administrator">Reporting as an Administrator</a></h4>
+<p>An Administrator can also choose to submit reports at any time and in relation to any indicator. To do so, simply follow the instructions for reporting as a contributor (above). Reports submitted by Administrators can be made immediately public by  changing the drop down menu from 'draft' to 'public' when submitting the report.</p>
+<h4 id="setting-up-indicator-managers"><a class="header" href="#setting-up-indicator-managers">Setting Up Indicator Managers</a></h4>
+<p>Setting up an Indicator Owner means assigning responsibility for a particular indicator to a registered user. That user will then be receive the automated report reminder emails and be responsible for uploading the report and data. This can only be done by Managers and Administrators. </p>
+<p>For an Indicator Manager to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found <a href="howto/register.html">here</a>. Once the person is a registered user the process is as follows:</p>
+<ol>
+<li>
+<p>The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found <a href="members/users-admin.html">here</a>.</p>
+</li>
+<li>
+<p>The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found <a href="members/indicators.html">here</a>.</p>
+</li>
+</ol>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../howto/creating-the-implementation-plan.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../howto/monitor-the-implementation-plan.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../howto/creating-the-implementation-plan.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../howto/monitor-the-implementation-plan.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../ace.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../editor.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mode-rust.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-dawn.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

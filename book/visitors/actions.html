@@ -1,0 +1,235 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Actions &amp; The Implementation Plan - Sadata User Manual</title>
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="User Manual for Sadata, a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Sadata User Manual</li><li class="spacer"></li><li class="chapter-item expanded "><a href="../index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../about.html"><strong aria-hidden="true">1.1.</strong> What is Sadata?</a></li><li class="chapter-item expanded "><a href="../history.html"><strong aria-hidden="true">1.2.</strong> History</a></li><li class="chapter-item expanded "><a href="../glossary.html"><strong aria-hidden="true">1.3.</strong> Glossary &amp; Icons</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../howto/index.html"><strong aria-hidden="true">2.</strong> How To</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../howto/creating-the-implementation-plan.html"><strong aria-hidden="true">2.1.</strong> Create Your National Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/reporting-and-follow-up.html"><strong aria-hidden="true">2.2.</strong> Report (add data)</a></li><li class="chapter-item expanded "><a href="../howto/monitor-the-implementation-plan.html"><strong aria-hidden="true">2.3.</strong> Monitor the Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/edit-and-create-entries.html"><strong aria-hidden="true">2.4.</strong> Edit and Add Entities</a></li><li class="chapter-item expanded "><a href="../howto/filter-and-search.html"><strong aria-hidden="true">2.5.</strong> Filter and Search</a></li><li class="chapter-item expanded "><a href="../howto/register.html"><strong aria-hidden="true">2.6.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../visitors/index.html"><strong aria-hidden="true">3.</strong> In Depth: Visitors</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../visitors/using-as-a-visitor.html"><strong aria-hidden="true">3.1.</strong> Using Sadata as a Visitor</a></li><li class="chapter-item expanded "><a href="../visitors/categories.html"><strong aria-hidden="true">3.2.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../visitors/actions.html" class="active"><strong aria-hidden="true">3.3.</strong> Actions &amp; The Implementation Plan</a></li><li class="chapter-item expanded "><a href="../visitors/indicators.html"><strong aria-hidden="true">3.4.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../visitors/recommendations.html"><strong aria-hidden="true">3.5.</strong> Recommendations </a></li><li class="chapter-item expanded "><a href="../visitors/sdg-targets.html"><strong aria-hidden="true">3.6.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../visitors/register.html"><strong aria-hidden="true">3.7.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../members/index.html"><strong aria-hidden="true">4.</strong> In Depth: Registered Users</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../members/user-roles.html"><strong aria-hidden="true">4.1.</strong> User roles &amp; responsibilities</a></li><li class="chapter-item expanded "><a href="../members/content.html"><strong aria-hidden="true">4.2.</strong> Adding &amp; editing content</a></li><li class="chapter-item expanded "><a href="../members/categories.html"><strong aria-hidden="true">4.3.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../members/actions.html"><strong aria-hidden="true">4.4.</strong> Actions</a></li><li class="chapter-item expanded "><a href="../members/indicators.html"><strong aria-hidden="true">4.5.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../members/recommendations.html"><strong aria-hidden="true">4.6.</strong> Recommendations</a></li><li class="chapter-item expanded "><a href="../members/sdg-targets.html"><strong aria-hidden="true">4.7.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../members/users-admin.html"><strong aria-hidden="true">4.8.</strong> Users Admin</a></li><li class="chapter-item expanded "><a href="../members/pages.html"><strong aria-hidden="true">4.9.</strong> Pages</a></li><li class="chapter-item expanded "><a href="../members/user-profile.html"><strong aria-hidden="true">4.10.</strong> User Profile</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Sadata User Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/tree/migrate-mdbook" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/edit/migrate-mdbook/src/visitors/actions.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h3 id="33-actions--the-implementation-plan"><a class="header" href="#33-actions--the-implementation-plan">3.3 Actions &amp; The Implementation Plan</a></h3>
+<p>The 'Actions' page contains all of the actions the Government (and other actors) have committed to in order to implement State human rights obligations and the SDGs.</p>
+<p>When you first arrive on this page, the default view is to group the actions by thematic cluster. This is the National Implementation Plan.</p>
+<p><img src="assets/Actions.png" alt="" /></p>
+<h4 id="page-elements-and-how-to-use-them"><a class="header" href="#page-elements-and-how-to-use-them">Page Elements and How to use Them</a></h4>
+<h5 id="the-implementation-plan"><a class="header" href="#the-implementation-plan">The Implementation Plan</a></h5>
+<p><img src="assets/imp_plan_breakdown_2.png" alt="" /></p>
+<ol>
+<li>The 'Human Rights Cluster', which the actions fall within. Users can click on the cluster text to see all of the actions and recommendations associated with that cluster.</li>
+<li>The Actions themselves. Users can click on any of the actions to see all of the recommendations and SDGs it is helping to address, the target date, which clusters it falls within the the organisations responsible for carrying out the action.</li>
+<li>The first two boxes are the categories connected to that action. In this case the 'Human Rights Training cluster and the Office of the Attorney general. Clicking on either of these tags will take the user to see all actions associated with that category. The circle with a '3' inside it indicates the number of recommendations the action is helping to address. The user can see all of the recommendations by hovering their cursor over this icon.</li>
+<li>Denotes the number of indicators associated with that action. The user can expand this box by clicking on it.</li>
+<li>The number of reports/pieces of data uploaded related to that action. The user can expand this box by clicking on it.</li>
+</ol>
+<h5 id="expanding-the-implementation-plan---implementation-view"><a class="header" href="#expanding-the-implementation-plan---implementation-view">Expanding the Implementation Plan - 'Implementation View'</a></h5>
+<p>The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst &quot;Implementation View' gives the user a more detailed view and with direct access to any associated indicators and reports/data.  The user can toggle between the views in two ways:</p>
+<ol>
+<li>By clicking on 'Implementation View' towards the top right-hand corner of the screen (see image at top of this page). Once selected the user can revert by clicking on 'List View' in the same place.</li>
+<li>By clicking to expand the boxes in list view as described above.</li>
+</ol>
+<p>The difference between the two views is illustrated below.</p>
+<h5 id="list-view"><a class="header" href="#list-view">List View:</a></h5>
+<p><img src="assets/List_View.png" alt="" /></p>
+<h5 id="implementation-view"><a class="header" href="#implementation-view">Implementation View</a></h5>
+<p><img src="assets/Imp_View.png" alt="" /></p>
+<h4 id="grouping-actions"><a class="header" href="#grouping-actions">Grouping Actions</a></h4>
+<p>The default grouping of all Actions contained within the database is by Thematic Cluster. The user can change this as they wish to suit their needs.</p>
+<p><img src="assets/Actions_grouping.png" alt="" /></p>
+<p>By clicking on the cross next to the grouping the user can remove that category and select their preferred category from a drop down list. A sub-group category can also be selected if required. </p>
+<h4 id="searching--filtering"><a class="header" href="#searching--filtering">Searching &amp; Filtering</a></h4>
+<p>For a user there may be an overwhelming number of actions, nor may they all be of interest. The tool therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest. </p>
+<h5 id="searching-by-reference-or-title"><a class="header" href="#searching-by-reference-or-title">Searching By Reference or Title</a></h5>
+<p>Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:</p>
+<p><img src="assets/Keyword_filter.png" alt="" /></p>
+<p><em>** Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu **</em></p>
+<h5 id="filtering-by-category-connected-category-connection-or-attribute"><a class="header" href="#filtering-by-category-connected-category-connection-or-attribute">Filtering by Category, connected category, connection or attribute</a></h5>
+<p>The filter list is a powerful tool for users, allowing them to filter actions (and also indicators and recommendations, as discussed in chapters below) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section.</p>
+<p>Clicking on any of the headings in the filter list will bring out the categories of that taxonomy:</p>
+<p><img src="assets/Filter_list.png" alt="" /></p>
+<p>The pop out menu shows the user all of the categories and the number beside each one shows how many actions each category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. (Please note that this is test data).</p>
+<p>The user can simply select which organisation they are interested in and the filter will be applied. If the list of options is long and the user is unable to see the one they would like, there is a search box within the filter pop-out.</p>
+<p>For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:</p>
+<p><img src="assets/AGO_Actions.png" alt="" /></p>
+<p>The filter the user has applied appears in the filter box in the centre of the page (circled in red). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.</p>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../visitors/categories.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../visitors/indicators.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../visitors/categories.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../visitors/indicators.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../ace.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../editor.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mode-rust.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-dawn.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

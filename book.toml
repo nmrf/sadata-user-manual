@@ -1,6 +1,14 @@
 [book]
-authors = ["tmfrnz"]
+title = "Sadata User Manual"
+description= "User Manual for Sadata, a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received."
+authors = ["tmfrnz, ashbowe"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Sadata User Manual"
+
+[output.html]
+git-repository-url = "https://github.com/nmrf/sadata-user-manual/tree/migrate-mdbook"
+edit-url-template = "https://github.com/nmrf/sadata-user-manual/edit/migrate-mdbook/{path}"
+
+[output.html.playground]
+editable = true

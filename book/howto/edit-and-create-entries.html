@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Edit and Add Entities - Sadata User Manual</title>
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="User Manual for Sadata, a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Sadata User Manual</li><li class="spacer"></li><li class="chapter-item expanded "><a href="../index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../about.html"><strong aria-hidden="true">1.1.</strong> What is Sadata?</a></li><li class="chapter-item expanded "><a href="../history.html"><strong aria-hidden="true">1.2.</strong> History</a></li><li class="chapter-item expanded "><a href="../glossary.html"><strong aria-hidden="true">1.3.</strong> Glossary &amp; Icons</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../howto/index.html"><strong aria-hidden="true">2.</strong> How To</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../howto/creating-the-implementation-plan.html"><strong aria-hidden="true">2.1.</strong> Create Your National Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/reporting-and-follow-up.html"><strong aria-hidden="true">2.2.</strong> Report (add data)</a></li><li class="chapter-item expanded "><a href="../howto/monitor-the-implementation-plan.html"><strong aria-hidden="true">2.3.</strong> Monitor the Implementation Plan</a></li><li class="chapter-item expanded "><a href="../howto/edit-and-create-entries.html" class="active"><strong aria-hidden="true">2.4.</strong> Edit and Add Entities</a></li><li class="chapter-item expanded "><a href="../howto/filter-and-search.html"><strong aria-hidden="true">2.5.</strong> Filter and Search</a></li><li class="chapter-item expanded "><a href="../howto/register.html"><strong aria-hidden="true">2.6.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../visitors/index.html"><strong aria-hidden="true">3.</strong> In Depth: Visitors</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../visitors/using-as-a-visitor.html"><strong aria-hidden="true">3.1.</strong> Using Sadata as a Visitor</a></li><li class="chapter-item expanded "><a href="../visitors/categories.html"><strong aria-hidden="true">3.2.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../visitors/actions.html"><strong aria-hidden="true">3.3.</strong> Actions &amp; The Implementation Plan</a></li><li class="chapter-item expanded "><a href="../visitors/indicators.html"><strong aria-hidden="true">3.4.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../visitors/recommendations.html"><strong aria-hidden="true">3.5.</strong> Recommendations </a></li><li class="chapter-item expanded "><a href="../visitors/sdg-targets.html"><strong aria-hidden="true">3.6.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../visitors/register.html"><strong aria-hidden="true">3.7.</strong> Register</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="../members/index.html"><strong aria-hidden="true">4.</strong> In Depth: Registered Users</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../members/user-roles.html"><strong aria-hidden="true">4.1.</strong> User roles &amp; responsibilities</a></li><li class="chapter-item expanded "><a href="../members/content.html"><strong aria-hidden="true">4.2.</strong> Adding &amp; editing content</a></li><li class="chapter-item expanded "><a href="../members/categories.html"><strong aria-hidden="true">4.3.</strong> Categories</a></li><li class="chapter-item expanded "><a href="../members/actions.html"><strong aria-hidden="true">4.4.</strong> Actions</a></li><li class="chapter-item expanded "><a href="../members/indicators.html"><strong aria-hidden="true">4.5.</strong> Indicators</a></li><li class="chapter-item expanded "><a href="../members/recommendations.html"><strong aria-hidden="true">4.6.</strong> Recommendations</a></li><li class="chapter-item expanded "><a href="../members/sdg-targets.html"><strong aria-hidden="true">4.7.</strong> SDG Targets</a></li><li class="chapter-item expanded "><a href="../members/users-admin.html"><strong aria-hidden="true">4.8.</strong> Users Admin</a></li><li class="chapter-item expanded "><a href="../members/pages.html"><strong aria-hidden="true">4.9.</strong> Pages</a></li><li class="chapter-item expanded "><a href="../members/user-profile.html"><strong aria-hidden="true">4.10.</strong> User Profile</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Sadata User Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/tree/migrate-mdbook" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/nmrf/sadata-user-manual/edit/migrate-mdbook/src/howto/edit-and-create-entries.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h3 id="24-how-to-edit-and-add-entities"><a class="header" href="#24-how-to-edit-and-add-entities">2.4 How to: Edit and Add Entities</a></h3>
+<p>The database is made up of information entered into it by the State and is designed so that it is flexible and can be used in a way that meets the needs of any country. All of the information and categorisations are totally flexible and can be created and edited as needed. The following can be classified as entities within the database:</p>
+<ul>
+<li>Categories (human rights body, reporting cycle, human rights issue, affected persons, thematic clusters, organisations, SDGs)</li>
+<li>Actions</li>
+<li>Indicators</li>
+<li>Recommendations</li>
+<li>SDG Targets</li>
+</ul>
+<p>_***<strong>Key Fact</strong>*** To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles <em><a href="members/user-roles.html"><em>click here</em></a></em>.  _</p>
+<h4 id="adding-new-entities"><a class="header" href="#adding-new-entities">Adding New Entities</a></h4>
+<p><strong>Adding Single Entities</strong></p>
+<p>Adding new entities is very straight forward. The Administrator or Manager simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the content frame. On all of the pages other than the categories page there is also an 'import' button.</p>
+<p><img src="assets/Add_action.png" alt="" /></p>
+<p>To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for <a href="members/categories.html">categories</a>, <a href="members/actions.html">actions</a>, <a href="members/indicators.html">indicators</a>, <a href="members/recommendations.html">recommendations </a>or <a href="members/sdg-targets.html">SDG targets</a>.</p>
+<p>**Importing Multiple Entities **</p>
+<p>A time-efficient way to add new actions, indicators, recommendations or SDG targets is to use the 'import' function to import multiple entities in one go. The process for importing is the same for the different types of entity. First, the Administrator or Manager clicks on the import button as shown above on the relevant entity page - the following box will then appear:</p>
+<p><img src="assets/Batch_import_2.png" alt="" /></p>
+<ol>
+<li>
+<p>Clicking on this link allows the Administrator or Manager to download a CSV template for importing multiple entities. If the template structure is not used then the batch import will not work. The Administrator or Manager should download the template, copy and paste their data into this file and then save it using an appropriate file name.</p>
+</li>
+<li>
+<p>Once step 1 has been completed the Administrator or Manager clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database.</p>
+</li>
+</ol>
+<p><em>***<strong>Key Fact</strong>*** When batch importing, it is only possible to import the following:</em></p>
+<ul>
+<li><em>For actions: title, description, target date, target date comment</em></li>
+<li><em>For indicators: title, reference, description</em></li>
+<li><em>For recommendations: title, reference, government response</em></li>
+<li><em>SDG target: title, reference, description</em></li>
+</ul>
+<p><em>It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function (see above) to assign, tag and link immediately after importing.</em></p>
+<h4 id="editing-entities"><a class="header" href="#editing-entities">Editing Entities</a></h4>
+<p><strong>'Edit' v 'Filter' Mode</strong></p>
+<p>'Filter' mode is available to all registered users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by <a href="glossary.html">category, connected category, connection or status</a>.</p>
+<p><img src="assets/Filter.png" alt="" /></p>
+<p>The edit function is available only to <strong>Administrators and Managers.</strong></p>
+<ol>
+<li>
+<p>Once an Administrator or Manager is signed in the filter list now becomes a filter or edit list, with filter selected as the default (coloured orange)</p>
+</li>
+<li>
+<p>Options to select the page of results or individual results now also appear.</p>
+</li>
+</ol>
+<p>As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'</p>
+<p><img src="assets/Filter_3.png" alt="" /></p>
+<p>Once the Administrator or Manager is in 'Edit' mode they can update the selected entries (either Actions, Indicators, Recommendations or SDG Targets) and change the entry associations (e.g. the category tags, actions, indicators, thematic cluster). This allows the Administrator or Manager to edit entries in bulk.</p>
+<p>To edit any entity an Administrator or Manager can simply click on the entity they wish to edit at any time, on any of the pages of the application. Clicking on the entity will bring up the full details and an 'edit' button.</p>
+<p><strong>Editing a Single Entity</strong></p>
+<p><em>Example: Editing an affected person category</em></p>
+<p>First the Administrator needs to navigate to where their entity can be found. To edit any category (as listed above) the Administrator needs (1 below) to click on the 'Categories' link in the top menu bar and then (2) click on the relevant taxonomy. Clicking on any of the categories (3), such as 'Children', brings up the second image below, from where the Administrator can go in to edit the entity and all associations it has (e.g. linked recommendations, actions, etc.):</p>
+<p><img src="assets/Categories_2.png" alt="" /></p>
+<p><img src="assets/Edit_children.png" alt="" /></p>
+<p>The same approach is required to any action, indicator, recommendation or SDG target - simply find the entity in question, click on it and hit the 'edit' button to get going.</p>
+<p>For more detailed instructions on how to edit please see the relevant sections for <a href="members/categories.html">categories</a>, <a href="members/actions.html">actions</a>, <a href="members/indicators.html">indicators</a>, <a href="members/recommendations.html">recommendations </a>and <a href="members/sdg-targets.html">SDG targets</a>.</p>
+<p><strong>Batch editing</strong></p>
+<p>Batch editing is a powerful function of the application as it allows Administrators or Managers to update multiple entities in a single move, saving considerable time and effort.</p>
+<p>Batch editing can be carried out in relation to actions, indicators, recommendations and SDG targets, but not categories. It allows an Administrator or Manager to update multiple entities at once in any of the following ways:</p>
+<ul>
+<li>Add multiple actions or indicators to a thematic cluster</li>
+<li>Assign multiple actions or indicators to an organisation</li>
+<li>Assign multiple indicators to an SDG</li>
+<li>Tag multiple actions or recommendations with any connected category (human rights body, cycle, human rights issue, affected persons, SDGs)</li>
+<li>Link multiple actions or indicators to any connection (action,indicator, recommendation or SDG target)</li>
+<li>Link multiple recommendations to actions</li>
+<li>Change the draft/public status of multiple actions, indicators, recommendations or SDG targets</li>
+<li>Change or denote the Government response to multiple UPR recommendations</li>
+</ul>
+<p>The batch edit function works in the same manner for all of the above use cases and is demonstrated below.</p>
+<p>First the Administrator or Manager needs to identify and select the actions they wish to batch edit and then secondly they update the selected actions as they wish.</p>
+<ol>
+<li>The Administrator or Manager can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found <a href="visitors/actions.html">here</a>. Once the relevant actions have been identified the Administrator or Manager can either:</li>
+</ol>
+<ul>
+<li>Select individual actions using the checkbox next to each action (see #1 on image below)</li>
+<li>Select all actions on the page displayed (see #2 on image below)</li>
+<li>Select all actions returned by the search and filtering results if they do not fit onto a single display page (see #3 on image below)
+<img src="assets/Selecting_actions.png" alt="" /></li>
+</ul>
+<ol start="2">
+<li>Once the relevant actions have been selected the Administrator or Manager can then use the menu on left hand side of the screen to link the selected actions to any category, connected category or connection. For example, if the selected actions were to be linked to a particular thematic cluster the Administrator or Manager would click on the thematic cluster title in the left hand menu bar and the box 1 below will appear. Box 2 shows what happens when the Administrator or Manager selects the thematic cluster they wish to link to the actions:</li>
+</ol>
+<p><img src="assets/Batch_edit_actions.png" alt="" /></p>
+<ol>
+<li>
+<p>The Administrator or Manager can use the filter box to search for the thematic cluster (or category/connection) they wish to find</p>
+</li>
+<li>
+<p>Where some, but not all of the selected actions are already linked to a thematic cluster the Administrator or Manager is shown a box with a horizontal line. By clicking once on any of these boxes (so that a tick appears) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. By clicking on the box twice (so that the box is empty) and then 'Update' the Administrator or Manager can <strong>unlink</strong> all of the selected actions from that thematic cluster.</p>
+</li>
+<li>
+<p>Where a thematic cluster is not currently linked to any of the selected actions the Administrator or Manager is shown a blank box. By clicking once in any of these boxes (so that a tick appears) and then 'Update' the Administrator could update the thematic cluster to either be linked with **all **of the selected actions. In this example, the box on the right demonstrates how this works if the Administrator or Manager selects 'CRPD Implementation'</p>
+</li>
+<li>
+<p>If a thematic cluster does not exist which the Administrator or Manager wishes to link all of the selected actions to they can create one using this button</p>
+</li>
+<li>
+<p>At the top of the list is a summary of how many thematic clusters are already linked to all or some of the actions. By clicking once on this box (so that a tick appears) and then 'Update' the Administrator or Manager can link <strong>all</strong> of the selected actions to <strong>all <strong>of the thematic clusters</strong>.</strong> By clicking on the box twice (so that it is blank) and then 'Update' the Administrator or Manager can unlink all of the selected actions from all of the thematic clusters.</p>
+</li>
+<li>
+<p>When a thematic cluster is selected then a tick will appear in the box</p>
+</li>
+<li>
+<p>The 'Update' button will only be active once the Administrator or Manager has made one of the changes described above. Clicking on the update button will save those changes. This may take several seconds if editing a large number of actions at once.</p>
+</li>
+</ol>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../howto/monitor-the-implementation-plan.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../howto/filter-and-search.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../howto/monitor-the-implementation-plan.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../howto/filter-and-search.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../ace.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../editor.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mode-rust.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-dawn.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
