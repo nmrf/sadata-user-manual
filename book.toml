@@ -1,0 +1,6 @@
+[book]
+authors = ["tmfrnz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Sadata User Manual"
