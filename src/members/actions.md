@@ -1,4 +1,4 @@
-## 4.4 Actions
+## 4.5 Actions
 
 Administrators and Managers can 'add or edit' data via the Actions page.
 
@@ -44,7 +44,7 @@ Click on the 'Add Action' icon and the following form will appear:
 
 #### Adding multiple actions
 
-By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported. 
+By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported.
 
 ![](../assets/Batch_import.png)
 
@@ -106,6 +106,3 @@ Batch editing is a simple process - first the Administrator needs to identify an
 7. The 'Update' button will only be active once the Administrator has made one of the changes described above. Clicking on the update button will save those changes. This may take several seconds if editing a large number of actions at once.
 
 ---
-
-
-

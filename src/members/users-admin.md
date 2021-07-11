@@ -1,4 +1,4 @@
-## 4.8 Users
+## 4.9 Users
 
 On the Users page Administrators and Managers can manage all of the registered users and perform the following functions:
 
@@ -50,6 +50,3 @@ The new role can be selected and the save button pressed to confirm the promotio
 To read more about user roles and responsibilities [click here](../members/user-roles.md).
 
 ---
-
-
-

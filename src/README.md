@@ -6,4 +6,6 @@
 
 [1.2. History](history.md)
 
-[1.3. Glossary & Icons](glossary.md)
+[1.3. What is new in version 2 (NEW)](glossary.md)
+
+[1.4. Glossary & Icons](glossary.md)

@@ -5,6 +5,3 @@ Visitors may want to become Users at some point, in order to upload a report/dat
 See [Register](../howto/register.md "How to: Register")
 
 ---
-
-
-

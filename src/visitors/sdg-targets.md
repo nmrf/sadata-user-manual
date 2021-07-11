@@ -1,4 +1,4 @@
-## 3.6 The Sustainable Development Goal Targets
+## 3.7 The Sustainable Development Goal Targets
 
 There is significant overlap between the SDGs and human rights \(E.g. SDG 5: Gender Equality and CEDAW\) and drawing these links helps to increase coordination in implementation and eliminate duplication of efforts and reporting.
 
@@ -21,6 +21,3 @@ Searching and filtering of SDG works in the same way as filtering actions, indic
 For more details on how to filter read the [Actions page](../visitors/actions.md).
 
 ---
-
-
-

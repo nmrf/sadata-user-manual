@@ -1,4 +1,4 @@
-## 4.5 Indicators
+## 4.6 Indicators
 
 Administrators and Managers can 'add or edit' data via the Indicators page. They are both also able to add progress reports to indicators.
 
@@ -14,7 +14,7 @@ There are two ways for an Administrator to add indicators:
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
 
-#### Adding a single indicator: 
+#### Adding a single indicator:
 
 Click on the 'Add Indicator' icon and the following form will appear:
 
@@ -111,6 +111,3 @@ Clicking on either of these links will take the Administrator to the following f
 For more information on adding progress reports [click here](../howto/reporting-and-follow-up.md).
 
 ---
-
-
-

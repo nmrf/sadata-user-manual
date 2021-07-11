@@ -1,4 +1,4 @@
-## 4.9 Pages
+## 4.10 Pages
 
 Administrators are able to create content pages to provide visitors with information. This could be about the tool itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
 
@@ -27,6 +27,3 @@ Administrators are able to create content pages to provide visitors with informa
 6. Save/cancel: The Administrator can save or cancel the changes they have made to the page using these buttons
 
 ---
-
-
-

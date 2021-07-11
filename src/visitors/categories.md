@@ -1,4 +1,4 @@
-## 3.2 Categories
+## 3.3 Categories
 
 ### Exploring Categories
 
@@ -18,8 +18,8 @@ In the example above, the icons below the recommendation show the different tags
 
 This taxonomy or group of categories covers all human rights bodies or mechanisms that can make recommendations to a State on how to implement its human rights obligations. There are three different types of categories which may fall under this taxonomy:
 
-* Treaty body committees: For each international human rights convention \(e.g. Convention on the Rights of the Child\) there is an accompanying Treaty Body Committee. The body makes recommendations to each State that has ratified the treaty and it is these recommendations which are entered into the application and are addressed through the National Implementation Plan. 
-* Universal Periodic Review: Every 4.5 years every member of the United Nations undergoes a Universal Periodic Review - a peer to peer review of each country's human rights record. The outcome document contains recommendations which are entered into the database in the same way as recommendations received from the treaty body committees. 
+* Treaty body committees: For each international human rights convention \(e.g. Convention on the Rights of the Child\) there is an accompanying Treaty Body Committee. The body makes recommendations to each State that has ratified the treaty and it is these recommendations which are entered into the application and are addressed through the National Implementation Plan.
+* Universal Periodic Review: Every 4.5 years every member of the United Nations undergoes a Universal Periodic Review - a peer to peer review of each country's human rights record. The outcome document contains recommendations which are entered into the database in the same way as recommendations received from the treaty body committees.
 * Special Procedures: The United Nations has many special procedures mandate holders - either working groups or individuals who are independent experts and who are granted a mandate to examine a particular human rights issue. Arising from these type of visits is a report also containing recommendations, which will be entered into the national Implementation Plan as above.
 
 ---
@@ -75,6 +75,3 @@ The organisations taxonomy lists the Government agencies \(and others\) carrying
 In addition to being a tool which helps track and coordinate implementation a country's human rights obligations, the application also does the same in relation to the SDGs. Visitors can therefore click on this taxonomy to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. The tool helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
 
 ---
-
-
-

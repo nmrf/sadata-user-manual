@@ -1,4 +1,4 @@
-## 4.3 Categories
+## 4.4 Categories
 
 ### Editing/Adding Categories
 

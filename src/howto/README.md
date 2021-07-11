@@ -11,3 +11,7 @@
 [2.5. Filter and Search](../howto/filter-and-search.md)
 
 [2.6. Register](../howto/register.md)
+
+[2.7. Bookmark views (NEW)](../howto/bookmarks.md)
+
+[2.8. Print views (NEW)](../howto/print.md)
