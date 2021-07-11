@@ -1,4 +1,4 @@
-## 3.4 Actions & The Implementation Plan
+## 3.4 Actions (Implementation Plan)
 
 The 'Actions' page contains all of the actions the Government \(and other actors\) have committed to in order to implement State human rights obligations and the SDGs.
 

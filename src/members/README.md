@@ -12,7 +12,7 @@ This application allows users to organise human rights recommendations and the S
 
 [4.4. Categories](../members/categories.md)
 
-[4.5. Actions](../members/actions.md)
+[4.5. Actions (Implementation Plan)](../members/actions.md)
 
 [4.6. Indicators](../members/indicators.md)
 

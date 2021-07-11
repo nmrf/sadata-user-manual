@@ -6,7 +6,7 @@
 
 [3.3. Categories](../visitors/categories.md)
 
-[3.4. Actions & The Implementation Plan](../visitors/actions.md)
+[3.4. Actions (Implementation Plan)](../visitors/actions.md)
 
 [3.5. Indicators](../visitors/indicators.md)
 
