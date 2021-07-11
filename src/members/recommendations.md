@@ -1,4 +1,4 @@
-## 4.7 Objectives: HR recommendations, SDG targets & SDS Key Outcomes
+## 4.6 Add/edit objectives (HR recommendations, SDG targets & SDS Key Outcomes
 
 Administrators and Managers can 'add or edit' data via the Recommendations page.
 

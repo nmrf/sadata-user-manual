@@ -1,4 +1,4 @@
-## 4.2 Adding & Editing Content
+## 4.2 Add/edit overview
 
 One of the roles of Administrators and Managers is adding and editing the base content, such as:
 
@@ -10,7 +10,7 @@ One of the roles of Administrators and Managers is adding and editing the base c
 * Actions
 * Affected persons
 
-There are a variety of methods of adding and editing content, including through batch importing. These processes are outlined in the relevant pages later in chapters 4.3 to 4.7. It is also important for Administrators and Managers to understand the difference between the 'edit' and 'filter' modes. 
+There are a variety of methods of adding and editing content, including through batch importing. These processes are outlined in the relevant pages later in chapters 4.3 to 4.7. It is also important for Administrators and Managers to understand the difference between the 'edit' and 'filter' modes.
 
 ### 'Edit' v 'Filter' Mode
 
@@ -33,6 +33,3 @@ As soon as any of the results are selected by the user the mode will automatical
 Once the Administrator or Manager is in 'Edit' mode they can update the selected entries \(either Actions, Indicators, Recommendations or SDG Targets\) and change the entry associations \(e.g. the category tags, actions, indicators, thematic cluster\). This allows the Administrator to edit entries in bulk. The full details of what is possible for each type of entry is discussed in the chapters below and is only applicable to Administrators and Managers.
 
 ---
-
-
-

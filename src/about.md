@@ -22,11 +22,11 @@ Sadata is a primarily a tool for States to plan and monitor implementation of it
 
 This manual is split into four parts, with the following three chapters following this introduction:
 
-> [**2. How To**](howto/creating-the-implementation-plan.md) - A quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation \(either as Government or civil society\) and editing.
+> [**2. How To**](howto/index.md) - A quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation \(either as Government or civil society\) and editing.
 
-> [**3. In Depth: Visitors**](visitors/using-as-a-visitor.md) - Everything visitors to the site need to know about how to use the tool from monitoring the implementation plan, to using the filtering system to find what the Government is doing in their area of interest to submitting information of their own.
+> [**3. In Depth: Visitors**](visitors/index.md) - Everything visitors to the site need to know about how to use the tool from monitoring the implementation plan, to using the filtering system to find what the Government is doing in their area of interest to submitting information of their own.
 
-> [**4. In Depth: Registered Users**](members/user-roles.md) - Everything States need to know in how to use and setup the application. This section also details the different types of registered user and how they can perform their roles.
+> [**4. In Depth: Registered Users**](members/index.md) - Everything States need to know in how to use and setup the application. This section also details the different types of registered user and how they can perform their roles.
 
 #### Suggest edits and print
 

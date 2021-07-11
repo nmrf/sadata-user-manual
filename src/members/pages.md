@@ -1,4 +1,4 @@
-## 4.10 Pages
+## 4.7 Add/edit pages
 
 Administrators are able to create content pages to provide visitors with information. This could be about the tool itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
 

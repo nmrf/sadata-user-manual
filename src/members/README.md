@@ -6,22 +6,20 @@ This application allows users to organise human rights recommendations and the S
 
 [4.1. User roles & responsibilities](../members/user-roles.md)
 
-[4.2. Adding & editing content](../members/content.md)
+[4.2. Add/edit overview](../members/content.md)
 
-[4.3. Frameworks (NEW)](../members/frameworks.md)
+[4.3. Add/edit categories](../members/categories.md)
 
-[4.4. Categories](../members/categories.md)
+[4.4. Add/edit actions](../members/actions.md)
 
-[4.5. Actions (Implementation Plan)](../members/actions.md)
+[4.5. Add/edit indicators](../members/indicators.md)
 
-[4.6. Indicators](../members/indicators.md)
+[4.6. Add/edit objectives (recommendations, …)](../members/recommendations.md)
 
-[4.7. Objectives: recommendations, …](../members/recommendations.md)
+[4.7. Add/edit pages](../members/pages.md)
 
-[4.8. Bookmarks (NEW)](../members/bookmarks.md)
+[4.8. Add/edit/view bookmarks (NEW)](../members/bookmarks.md)
 
-[4.9. Users Admin](../members/users-admin.md)
+[4.9. Users admin](../members/users-admin.md)
 
-[4.10. Pages](../members/pages.md)
-
-[4.11. User Profile](../members/user-profile.md)
+[4.10. User profile](../members/user-profile.md)

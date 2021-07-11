@@ -8,4 +8,4 @@
 
 [1.3. Latest changes (NEW)](glossary.md)
 
-[1.4. Glossary & Icons](glossary.md)
+[1.4. Glossary & icons](glossary.md)

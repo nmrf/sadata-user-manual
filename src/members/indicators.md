@@ -1,4 +1,4 @@
-## 4.6 Indicators
+## 4.5 Add/edit indicators
 
 Administrators and Managers can 'add or edit' data via the Indicators page. They are both also able to add progress reports to indicators.
 

@@ -8,7 +8,7 @@
   - [What is Sadata?](about.md)
   - [History](history.md)
   - [Latest changes (NEW)](changes.md)
-  - [Glossary & Icons](glossary.md)
+  - [Glossary & icons](glossary.md)
 
 
 ---
@@ -25,8 +25,8 @@
 
 ---
 
-- [In Depth: Visitors](visitors/README.md)
-  - [Using Sadata as a Visitor](visitors/using-as-a-visitor.md)
+- [In Depth: Explore (visitors)](visitors/README.md)
+  - [Using Sadata as a visitor](visitors/using-as-a-visitor.md)
   - [Frameworks (NEW)](visitors/frameworks.md)
   - [Categories](visitors/categories.md)
   - [Actions (Implementation Plan)](visitors/actions.md)
@@ -36,15 +36,14 @@
 
 ---
 
-- [In Depth: Registered Users](members/README.md)
+- [In Depth: Maintain (registered users)](members/README.md)
   - [User roles & responsibilities](members/user-roles.md)
-  - [Adding & editing content](members/content.md)
-  - [Frameworks (NEW)](members/frameworks.md)
-  - [Categories](members/categories.md)
-  - [Actions (Implementation Plan)](members/actions.md)
-  - [Indicators](members/indicators.md)
-  - [Objectives: recommendations, …](members/recommendations.md)
-  - [Bookmarks (NEW)](members/bookmarks.md)
-  - [Users Admin](members/users-admin.md)
-  - [Pages](members/pages.md)
-  - [User Profile](members/user-profile.md)
+  - [Add/edit overview](members/content.md)
+  - [Add/edit categories](members/categories.md)
+  - [Add/edit actions](members/actions.md)
+  - [Add/edit indicators](members/indicators.md)
+  - [Add/edit objectives](members/recommendations.md)
+  - [Add/edit pages](members/pages.md)
+  - [Add/edit/view bookmarks (NEW)](members/bookmarks.md)
+  - [Users admin](members/users-admin.md)
+  - [User profile](members/user-profile.md)
