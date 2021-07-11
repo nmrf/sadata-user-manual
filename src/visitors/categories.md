@@ -36,7 +36,7 @@ Both the treaty body reviews and the Universal Periodic Review are regular and o
 
 #### **Human Rights Issues**
 
-The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' taxonomy. It helps users search by particular area of interest and see what the Government is doing in that field of work.
+The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index ↗](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' taxonomy. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
 ---
 

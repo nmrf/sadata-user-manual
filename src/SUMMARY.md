@@ -7,7 +7,7 @@
 - [Introduction](README.md)
   - [What is Sadata?](about.md)
   - [History](history.md)
-  - [New in version 2 (NEW)](changes.md)
+  - [Latest changes (NEW)](changes.md)
   - [Glossary & Icons](glossary.md)
 
 

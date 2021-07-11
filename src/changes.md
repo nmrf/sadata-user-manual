@@ -1,8 +1,12 @@
-## 1.3 What is new in version 2
+## 1.3 Latest changes
 
 ### Frameworks and SDS
 
 About SDS and frameworks
+
+### Nested categories
+
+About nested categories
 
 ### Bookmarks
 

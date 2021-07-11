@@ -37,7 +37,7 @@
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);
-    --table-header-bg: hsl(0, 0%, 80%);
+    --table-header-bg: transparent;
     --table-alternate-bg: hsl(0, 0%, 97%);
 
     --searchbar-border-color: #aaa;
