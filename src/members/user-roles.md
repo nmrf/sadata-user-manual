@@ -17,7 +17,7 @@ Role implicitly assumed when registered
 
 ##### Rights
 
-* Can create draft progress reports \(thus become user type "Guest Contributor"\)
+* Can create draft progress reports (thus become user type "Guest Contributor")
 * All the above
 
 #### Function: Guest contributor
@@ -45,19 +45,19 @@ The data owner for an indicator and this are key to the success of the data entr
 
 ##### Prerequisites
 
-* Assigned to indicator \(by user with at least role "Manager"\)
+* Assigned to indicator (by user with at least role "Manager")
 
 ##### Responsibilities
 
 * Add progress reports and upload data for the indicator the user has been assigned to
-* Receive automated reminder emails when a progress report is due \(weekly, 30 days ahead of due date\) and overdue \(daily, after due date has passed\)
+* Receive automated reminder emails when a progress report is due (weekly, 30 days ahead of due date) and overdue (daily, after due date has passed)
 
 ##### Example
 
 ![](../assets/Implementation_Plan.png)
 _All information demonstrated is for illustrative purposes only_
 
-The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action \(training for judges, prosecutors and MJCA\). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.
+The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action (training for judges, prosecutors and MJCA). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.
 
 Should they fail to do so then they will continue to receive email reminders until the data has been uploaded. This is the first safeguard against non-entry built into the application. Data can be uploaded in any file type format.
 
@@ -67,15 +67,15 @@ Should they fail to do so then they will continue to receive email reminders unt
 
 ##### Rights
 
-* Can be assigned to a category \(thus become user type "Category Manager"\)
+* Can be assigned to a category (thus become user type "Category Manager")
 * Can assign Contributor to indicator
 * Can promote Guest to Contributor
-* Can create and update categories and other entities \(except pages\)
+* Can create and update categories and other entities (except pages)
 * All the above
 
 #### Function: Category Manager
 
-The person responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.
+The person responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.
 
 For each 'Human Rights Body' category, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.
 
@@ -89,7 +89,7 @@ At each NMRF quarterly meeting each Manager should provide an overview of recent
 
 * Assign users to indicators
 * Oversee and follow-up data collection
-* Receive automated reminder emails when a progress report is overdue \(weekly, after due date has passed\) for indicators in the assigned area.
+* Receive automated reminder emails when a progress report is overdue (weekly, after due date has passed) for indicators in the assigned area.
 * Raise repeated failure to upload with the relevant Ministry at the next scheduled meeting of the National Mechanism for Reporting and Follow-Up.
 * Review and publish progress reports added by **Guest Contributors**
 * Should provide an overview of recently added data/information to the Working Group at each NMRF quarterly meeting

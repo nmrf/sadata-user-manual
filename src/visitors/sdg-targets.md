@@ -1,6 +1,6 @@
 ## 3.7 The Sustainable Development Goal Targets
 
-There is significant overlap between the SDGs and human rights \(E.g. SDG 5: Gender Equality and CEDAW\) and drawing these links helps to increase coordination in implementation and eliminate duplication of efforts and reporting.
+There is significant overlap between the SDGs and human rights (E.g. SDG 5: Gender Equality and CEDAW) and drawing these links helps to increase coordination in implementation and eliminate duplication of efforts and reporting.
 
 There are 169 internationally agreed SDG targets, all of which are contained within the application. A State using the application may choose to add additional actions and indicators that reflect how a country is setting about achieving the SDGs.
 
@@ -12,7 +12,7 @@ The 'SDG Targets' page works similarly to the 'Actions', 'Indicators' and 'Recom
 
 ### Grouping Recommendations
 
-By default SDG targets are grouped by specific SDG, showing users the targets contained for each individual SDG. If a user would like to group the SDG trggets differently simply click the cross next to 'SDGs'' \(see image above\) and select a different grouping from the drop down menu. For more instructions read the [Actions page](../visitors/actions.md).
+By default SDG targets are grouped by specific SDG, showing users the targets contained for each individual SDG. If a user would like to group the SDG trggets differently simply click the cross next to 'SDGs'' (see image above) and select a different grouping from the drop down menu. For more instructions read the [Actions page](../visitors/actions.md).
 
 ### Searching & filtering
 

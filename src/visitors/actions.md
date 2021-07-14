@@ -1,6 +1,6 @@
 ## 3.4 Actions (Implementation Plan)
 
-The 'Actions' page contains all of the actions the Government \(and other actors\) have committed to in order to implement State human rights obligations and the SDGs.
+The 'Actions' page contains all of the actions the Government (and other actors) have committed to in order to implement State human rights obligations and the SDGs.
 
 When you first arrive on this page, the default view is to group the actions by thematic cluster. This is the National Implementation Plan.
 
@@ -22,7 +22,7 @@ When you first arrive on this page, the default view is to group the actions by 
 
 The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst "Implementation View' gives the user a more detailed view and with direct access to any associated indicators and reports/data.  The user can toggle between the views in two ways:
 
-1. By clicking on 'Implementation View' towards the top right-hand corner of the screen \(see image at top of this page\). Once selected the user can revert by clicking on 'List View' in the same place.
+1. By clicking on 'Implementation View' towards the top right-hand corner of the screen (see image at top of this page). Once selected the user can revert by clicking on 'List View' in the same place.
 2. By clicking to expand the boxes in list view as described above.
 
 The difference between the two views is illustrated below.
@@ -57,13 +57,13 @@ _Please note, the default number of search results returned at any time is 20. I
 
 #### Filtering by Category, connected category, connection or attribute
 
-The filter list is a powerful tool for users, allowing them to filter actions \(and also indicators and recommendations, as discussed in chapters below\) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section.
+The filter list is a powerful tool for users, allowing them to filter actions (and also indicators and recommendations, as discussed in chapters below) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section.
 
 Clicking on any of the headings in the filter list will bring out the categories of that taxonomy:
 
 ![](../assets/Filter_list.png)
 
-The pop out menu shows the user all of the categories and the number beside each one shows how many actions each category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. \(Please note that this is test data\).
+The pop out menu shows the user all of the categories and the number beside each one shows how many actions each category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. (Please note that this is test data).
 
 The user can simply select which organisation they are interested in and the filter will be applied. If the list of options is long and the user is unable to see the one they would like, there is a search box within the filter pop-out.
 
@@ -71,6 +71,6 @@ For instance, if we select Office of the Attorney General then we are shown the 
 
 ![](../assets/AGO_Actions.png)
 
-The filter the user has applied appears in the filter box in the centre of the page \(circled in red\). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
+The filter the user has applied appears in the filter box in the centre of the page (circled in red). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
 
 ---

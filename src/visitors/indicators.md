@@ -6,13 +6,13 @@ The Indicators tab works in a very similar manner to the [Actions](../visitors/a
 
 ### Indicator Views
 
-Similar to the Actions tab, there are two different views for Indicators - the 'List' view and the 'Implementation' view. Users can select which view they prefer using the link below the bottom right-hand corner of the filtering text box \(see image above or read the [Actions page](../visitors/actions.md) for more details\)
+Similar to the Actions tab, there are two different views for Indicators - the 'List' view and the 'Implementation' view. Users can select which view they prefer using the link below the bottom right-hand corner of the filtering text box (see image above or read the [Actions page](../visitors/actions.md) for more details)
 
 ### Grouping Indicators
 
 Unlike actions, indicators do not have a default grouping already set when you land on the page.
 
-However, the user can still group the indicators in the same manner by using the drop down menu found below the filtering text box \(see image above\). For more instructions read the [Actions page](../visitors/actions.md).
+However, the user can still group the indicators in the same manner by using the drop down menu found below the filtering text box (see image above). For more instructions read the [Actions page](../visitors/actions.md).
 
 ### Filtering
 
@@ -22,7 +22,7 @@ A difference to be aware of is that the filter list for indicators is smaller th
 
 ### Accessing Progress Reports
 
-If a progress report has been uploaded for an indicator it will be visible to any visitor \(circled below\).
+If a progress report has been uploaded for an indicator it will be visible to any visitor (circled below).
 
 ![](../assets/Progress_Report.png)
 

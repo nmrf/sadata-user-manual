@@ -12,7 +12,7 @@ The SDG targets are internationally agreed so they are unlikely to need to chang
 
 ![](../assets/add_sdg_targets.png)
 
-Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
+Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page (pictured above).
 
 #### Adding a single SDG target:
 
@@ -30,7 +30,7 @@ Click on the 'Add Recommendation' icon and the following form will appear:
 
 5. Indicators: Clicking on the drop down menu allows the Administrator/Manager to link the SDG Target to any of the indicators stored. At the bottom of the drop down menu is also an 'Add' button where the Administrator/Manager can choose to add a new indicator from here to link to the SDG Target if they wish.
 
-6. Status: Automatically set to draft, the Administrator/Manager can change this to public once the SDG target is ready to be published on the public site. The status of SDG targets can also be changed in bulk using the filtering system on the SDG Target page \(see below\)
+6. Status: Automatically set to draft, the Administrator/Manager can change this to public once the SDG target is ready to be published on the public site. The status of SDG targets can also be changed in bulk using the filtering system on the SDG Target page (see below)
 
 7. Categories: Clicking on the drop down menu allows the Administrator/Manager to link the SDG target to any of the SDGs
 
@@ -38,7 +38,7 @@ Click on the 'Add Recommendation' icon and the following form will appear:
 
 #### Adding multiple SDG Targets
 
-By clicking on the 'Import' button \(top image\) the Administrator/Manager will be provided with a CSV template download \(see image below\) for batch importing multiple SDG Targets. Once in the required format the Administrator/Manager can click on the 'Select File' button and upload their file and all of the SDG Targets will automatically be imported. 
+By clicking on the 'Import' button (top image) the Administrator/Manager will be provided with a CSV template download (see image below) for batch importing multiple SDG Targets. Once in the required format the Administrator/Manager can click on the 'Select File' button and upload their file and all of the SDG Targets will automatically be imported. 
 
 ![](../assets/Batch_import_SDG_Targets.png)
 
@@ -48,7 +48,7 @@ There are also two ways in which SDG can be edited; individually and batch editi
 
 #### Individual editing
 
-Individual editing is as simple as finding the SDG Target you wish to edit, using the search and filtering functions and clicking on the SDG Target title in question, which brings up the following screen with an Edit button \(circled\):
+Individual editing is as simple as finding the SDG Target you wish to edit, using the search and filtering functions and clicking on the SDG Target title in question, which brings up the following screen with an Edit button (circled):
 
 ![](../assets/Edit_SDG_Target.png)
 
@@ -63,7 +63,7 @@ Clicking the edit button allows the Administrator/Manager to edit all of the fie
 
 #### Batch editing
 
-Batch editing of SDG Targets \(or other entities such as indicators, actions or SDG targets\) is a powerful feature that allows Administrators/Managers to efficiently edit SDG Targets in a variety of ways including:
+Batch editing of SDG Targets (or other entities such as indicators, actions or SDG targets) is a powerful feature that allows Administrators/Managers to efficiently edit SDG Targets in a variety of ways including:
 
 * By assigning multiple SDG Targets to an SDG
 * By linking multiple SDG Targets with Actions
@@ -74,9 +74,9 @@ Batch editing is a simple process - first the Administrator/Manager needs to ide
 
 1. The Administrator/Manager can select the SDG Targets they wish by first using the filtering and search functions on the 'SDG Targets' main page to bring up the relevant SDG Targets on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant SDG Targets have been identified the Administrator/Manager can either:
 
-  * Select individual recommendations using the checkbox next to each action \(see \#1 on image below\)
-  * Select all recommendations on the page displayed \(see \#2 on image below\)
-  * Select all recommendations returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
+  * Select individual recommendations using the checkbox next to each action (see \#1 on image below)
+  * Select all recommendations on the page displayed (see \#2 on image below)
+  * Select all recommendations returned by the search and filtering results if they do not fit onto a single display page (see \#3 on image below)
 ![](../assets/Batch_Edit_SDG_Targets.png)
 
 2. Once the relevant SDG Targets have been selected the Administrator/Manager can then use the menu on left hand side of the screen to link the selected SDG Target to any Action or Indicator, update the status or assign to a particular SDG. Batch editing SDG Targets is the same process as for actions and indicators. More details on how to carry out this function can be found [here](../members/actions.md).

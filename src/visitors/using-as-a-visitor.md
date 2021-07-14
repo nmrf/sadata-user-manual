@@ -2,10 +2,10 @@
 
 Whether you are an NGO or interested member of the public, this application allows visitors to:
 
-* Track how Government is performing in relation to its human rights and Sustainable Development Goal \(SDG\) targets and goals
-* Select and explore areas of interest in what the Government is doing and plans to do \(e.g. in the area of women's rights or in relation to a particular SDG target\)
+* Track how Government is performing in relation to its human rights and Sustainable Development Goal (SDG) targets and goals
+* Select and explore areas of interest in what the Government is doing and plans to do (e.g. in the area of women's rights or in relation to a particular SDG target)
 * Contribute own data to demonstrate what your organisation has been doing to help achieve these goals
-* [Register as a user](../howto/register.md) and become a guest contributor of information to the National Implementation Plan \(as an organisation or an individual\)
+* [Register as a user](../howto/register.md) and become a guest contributor of information to the National Implementation Plan (as an organisation or an individual)
 
 Once you click 'Explore' on the homepage the next page you will be taken to is the visitor dashboard, from where you can access all of the information contained within the database, tailored to your own needs using our advanced search and filtering systems.
 
@@ -16,7 +16,7 @@ _All information demonstrated is for illustrative purposes only_
 
 The headline bar allows you to navigate through the different types of information you can find within the tool:
 
-**Overview:** The landing page \(pictured above\)
+**Overview:** The landing page (pictured above)
 
 **Categories:** Categories are the ways in which actions, indicators, recommendations and the SDGs are indexed. The different types of categories are listed down the left hand side of the overview screen. You can look at the categories in more detail by clicking on this tab or on any of the categories in the list on this page. This will allow you to easily explore recommendations and actions within each category. For more details click [here](../visitors/categories.md).
 
@@ -24,7 +24,7 @@ The headline bar allows you to navigate through the different types of informati
 
 **Indicators:** Each action, as described above, has at least one indicator of success. This tab allows you to explore all indicators depending on your area of interest and is also an area where you can upload your own information relating to these indicators. For more information click [here](../visitors/indicators.md).
 
-**Recommendations:** Each country is party to a number of human rights treaties \(e.g Convention on the Elimination of All Forms of Discrimination Against Women\). For each treaty it has signed it has a range of legal obligations to implement and regularly receives recommendations from the respective Treaty Bodies on specific areas for improvement. Additionally each country undertakes a Universal periodic Review every 4.5 years and has a standing invitation to all United Nations Special Procedures. Out of both of these processes each country receives recommendations for how to implement its human rights obligations too.
+**Recommendations:** Each country is party to a number of human rights treaties (e.g Convention on the Elimination of All Forms of Discrimination Against Women). For each treaty it has signed it has a range of legal obligations to implement and regularly receives recommendations from the respective Treaty Bodies on specific areas for improvement. Additionally each country undertakes a Universal periodic Review every 4.5 years and has a standing invitation to all United Nations Special Procedures. Out of both of these processes each country receives recommendations for how to implement its human rights obligations too.
 
 This tab allows visitors to browse through all of the recommendations a country has received, and to see what the Government is doing to meet its commitments. This is the tab where visitors can view the overall Implementation Plan, assess progress or filter recommendations specific to their own area of interest. For more information click [here](../visitors/recommendations.md).
 
@@ -45,7 +45,7 @@ The Overview map is a visual representation of the information contained within 
 In the top right-hand corner of all pages are the additional links for visitors to access the following:
 
 * Sign-in, if they are a registered user
-* Register, if they wish to become a registered user \(for more information click [here](../howto/register.md)\)
+* Register, if they wish to become a registered user (for more information click [here](../howto/register.md))
 * Additional information pages, added by Administrators, such as 'About' and 'Contact Us'.
 
 ---

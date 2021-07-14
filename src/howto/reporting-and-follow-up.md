@@ -1,4 +1,4 @@
-## 2.2 How to: Report \(add data\)
+## 2.2 How to: Report (add data)
 
 Adding progress reports is critical to the success of using this tool. Progress reports contain the data required for each indicator of the National Implementation Plan. This regular entry of data allows States, civil society and other stakeholders to check progress of the Plan and ensures that required reporting is just a matter of analysing the data and writing the narrative.
 
@@ -12,13 +12,13 @@ Each indicator in the Implementation Plan is assigned to an [Indicator Manager](
 
 Once an email reminder hass been received the Indicator Manager simply needs to:
 
-1. Click on the link in the email \(not pictured\)
+1. Click on the link in the email (not pictured)
 
-2. Enter login details \(if not already signed in\)
+2. Enter login details (if not already signed in)
 
 3. Filter the indicators using the 'My Indicators' option and click on the relevant indicator
 
-4. Click on 'Add Report' \(1 or 2 in screenshot below\)
+4. Click on 'Add Report' (1 or 2 in screenshot below)
 
 ![](../assets/Add_report.png)
 
@@ -28,7 +28,7 @@ The Indicator Manager will then be taken to the following screen:
 
 The Indicator Manager simply needs to fill out the required fields:
 
-1. Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
+1. Title: The title of the progress report (E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
 
 2. Description: Full details of the progress report
 
@@ -44,7 +44,7 @@ depending on whether there is sensitive information contained within that should
 7. Save/cancel: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
 
 
-### Reporting as a Contributor \(Civil Society and Individuals\)
+### Reporting as a Contributor (Civil Society and Individuals)
 
 Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found [here](../howto/register.md).
 
@@ -60,7 +60,7 @@ Once a report is submitted by a Contributor the registered user the relevant [Ma
 
 ### Reporting as an Administrator
 
-An Administrator can also choose to submit reports at any time and in relation to any indicator. To do so, simply follow the instructions for reporting as a contributor \(above\). Reports submitted by Administrators can be made immediately public by  changing the drop down menu from 'draft' to 'public' when submitting the report.
+An Administrator can also choose to submit reports at any time and in relation to any indicator. To do so, simply follow the instructions for reporting as a contributor (above). Reports submitted by Administrators can be made immediately public by  changing the drop down menu from 'draft' to 'public' when submitting the report.
 
 ### Setting Up Indicator Managers
 

@@ -10,7 +10,7 @@ Each State around the world has a huge range of international and national oblig
 
 ### The Technology
 
-Sadata is built using [IMPACT OSS ↗](https://impactoss.org/impactoss/) \(**I**ntegrated **M**anagement and **P**lanning of **Act**ions **O**pen **S**ource **S**oftware\). For more information on this software and how it was made please take a look at its development history in the next chapter [History](history.md).
+Sadata is built using [IMPACT OSS ↗](https://impactoss.org/impactoss/) (**I**ntegrated **M**anagement and **P**lanning of **Act**ions **O**pen **S**ource **S**oftware). For more information on this software and how it was made please take a look at its development history in the next chapter [History](history.md).
 
 ### The Users
 
@@ -22,7 +22,7 @@ Sadata is a primarily a tool for States to plan and monitor implementation of it
 
 This manual is split into four parts, with the following three chapters following this introduction:
 
-> [**2. How To**](howto/index.md) - A quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation \(either as Government or civil society\) and editing.
+> [**2. How To**](howto/index.md) - A quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation (either as Government or civil society) and editing.
 
 > [**3. In Depth: Visitors**](visitors/index.md) - Everything visitors to the site need to know about how to use the tool from monitoring the implementation plan, to using the filtering system to find what the Government is doing in their area of interest to submitting information of their own.
 

@@ -12,7 +12,7 @@ There are two ways for an Administrator to add indicators:
 
 ![](../assets/Add_indicators.png)
 
-Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page \(pictured above\).
+Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page (pictured above).
 
 #### Adding a single indicator:
 
@@ -30,11 +30,11 @@ Click on the 'Add Indicator' icon and the following form will appear:
 
 5. SDG Targets: Clicking on the drop down menu allows the Administrator to link the indicator to any of the SDG targets. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new SDG Target from here to link to the indicator if they wish.
 
-6. Status: Automatically set to draft, the Administrator can change this to public once the indicator is ready to be published on the public site. The status of actions can also be changed in bulk using the filtering system on the indicator page \(see below\)
+6. Status: Automatically set to draft, the Administrator can change this to public once the indicator is ready to be published on the public site. The status of actions can also be changed in bulk using the filtering system on the indicator page (see below)
 
 7. Due date: The due date for the next indicator report
 
-8. Repeat? If the indicator requires regular report \(e.g. gender based violence statistics every quarter\) then a repeat data report due date can be set, meaning the user responsible for providing the data reports will receive regular email reminders on the dates set
+8. Repeat? If the indicator requires regular report (e.g. gender based violence statistics every quarter) then a repeat data report due date can be set, meaning the user responsible for providing the data reports will receive regular email reminders on the dates set
 
 9. Assigned user: Clicking on the drop down menu allows the Administrator to choose from all of the registered users who is responsible for this indicator. Once allocated, this user will receive automated email reminders when progress reports are due
 
@@ -42,7 +42,7 @@ Click on the 'Add Indicator' icon and the following form will appear:
 
 #### Adding multiple indicators
 
-By clicking on the 'Import' button \(top image\) the Administrator will be provided with a CSV template download \(see image below\) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported.
+By clicking on the 'Import' button (top image) the Administrator will be provided with a CSV template download (see image below) for batch importing multiple Indicators. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Indicators will automatically be imported.
 
 ![](../assets/Batch_import_indicators.png)
 
@@ -52,7 +52,7 @@ There are also two ways in which Indicators can be edited; individually and batc
 
 #### Individual editing
 
-Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button \(circled\):
+Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button (circled):
 
 ![](../assets/Edit_indicator.png)
 
@@ -68,21 +68,21 @@ Clicking the edit button allows the Administrator to edit all of the fields asso
 
 #### Batch editing
 
-Batch editing of indicators \(or other entities such as recommendations, actions or SDG targets\) is a powerful feature that allows Administrators to efficiently edit indicators in a variety of ways including:
+Batch editing of indicators (or other entities such as recommendations, actions or SDG targets) is a powerful feature that allows Administrators to efficiently edit indicators in a variety of ways including:
 
 * By setting the status of multiple indicators from draft to public
-* By linking multiple actions with any connection \(i.e. action or SDG targets\)
+* By linking multiple actions with any connection (i.e. action or SDG targets)
 
 Batch editing is a simple process - first the Administrator needs to identify and select the indicators they wish to batch edit and then secondly they update the selected indicators as they wish.
 
 1. The Administrator can select the indicators they wish by first using the filtering and search functions on the 'Indicators' main page to bring up the relevant indicators on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant indicators have been identified the Administrator can either:
 
-  * Select individual indicators using the checkbox next to each action \(see \#1 on image below\)
-  * Select all indicators on the page displayed \(see \#2 on image below\)
-  * Select all indicators returned by the search and filtering results if they do not fit onto a single display page \(see \#3 on image below\)
+  * Select individual indicators using the checkbox next to each action (see \#1 on image below)
+  * Select all indicators on the page displayed (see \#2 on image below)
+  * Select all indicators returned by the search and filtering results if they do not fit onto a single display page (see \#3 on image below)
 ![](../assets/Batch_edit_indictors.png)
 
-2. Once the relevant indicators have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public \(or vice versa\). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](../members/actions.md).
+2. Once the relevant indicators have been selected the Administrator can then use the menu on left hand side of the screen to link the selected indicators to any action or SDG target, or update the status from draft to public (or vice versa). Batch editing indicators is the same process as for actions. More details on how to carry out this function can be found [here](../members/actions.md).
 
 ### Adding Unscheduled & Scheduled Progress Reports
 
@@ -94,7 +94,7 @@ Clicking on either of these links will take the Administrator to the following f
 
 ![](../assets/Admin_add_progress_report.png)
 
-1. Title: The title of the progress report \(E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
+1. Title: The title of the progress report (E.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits'
 
 2. Description: Full details of the progress report
 

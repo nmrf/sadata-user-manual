@@ -36,12 +36,23 @@ In addition a new taxonomy "Sources" was introduced to allow differentiating the
 >
 > [3.3. Explore: Categories](visitors/categories.md)
 >
-> [4.4. Maintain: Add/edit categories](members/categories.md)
+> [4.4. Manage: Add/edit categories](members/categories.md)
 
 ### Bookmarks
 
-About Bookmarks
+The new bookmark feature allows all registered users, including guests (see [chapter 4.1](members/user-roles.md) for user roles), to store named bookmarks for all principal list views.
+
+> You can learn more about creating and managing bookmarks in the following chapters:
+>
+> [2.7. How to: Bookmark views](howto/bookmarks.md)
+>
+> [4.8. Manage: Add/edit/view bookmarks](members/bookmarks.md)
+
 
 ### Print
 
-About print
+All views are now optimised for print, with most views featuring a short-cut for using the built-in browser print function.
+
+> You can learn more about printing views in the following chapter:
+>
+> [2.8. How to: Print views](howto/print.md)

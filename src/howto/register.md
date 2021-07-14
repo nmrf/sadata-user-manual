@@ -6,7 +6,7 @@ Users have to be registered in the following way:
 
 1. Click on the 'Register' link in the top right hand corner of any page, as circled above.
 
-2. Complete the registration form, entering name, email address and a confirmed password \(see image below\)
+2. Complete the registration form, entering name, email address and a confirmed password (see image below)
 
 ![](../assets/Register_form.png)
 

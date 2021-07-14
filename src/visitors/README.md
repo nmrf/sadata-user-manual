@@ -1,4 +1,4 @@
-# 3. In Depth: Visitors
+# 3. In Depth: Explore (for visitors)
 
 [3.1. Using Sadata as a Visitor](../visitors/using-as-a-visitor.md)
 
@@ -10,6 +10,6 @@
 
 [3.5. Indicators](../visitors/indicators.md)
 
-[3.6. Objectives: recommendations, …](../visitors/recommendations.md)
+[3.6. Objectives: recommendations, …](../visitors/objectives.md)
 
 [3.7. Register](../visitors/register.md)

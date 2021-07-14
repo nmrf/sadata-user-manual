@@ -1,10 +1,10 @@
 ## 1.2 History
 
-[IMPACT OSS ↗](http://impactoss.org/) was designed and developed by human rights consultant [Mr. Ashley Bowe ↗](https://www.linkedin.com/in/ashley-bowe-a4716019/) and data visualisation agency [Unfold Data ↗](http://unfolddata.com/) with the help of Mr. Moana Eruera of the [New Zealand Human Rights Commission ↗](https://www.hrc.co.nz/) \(HRC\) who together would later form the [Impact Open Source Software Trust ↗](https://impactoss.org) with the mission of advancing the enjoyment of human rights and sustainable development by promoting and developing suitable open source technologies.
+[IMPACT OSS ↗](http://impactoss.org/) was designed and developed by human rights consultant [Mr. Ashley Bowe ↗](https://www.linkedin.com/in/ashley-bowe-a4716019/) and data visualisation agency [Unfold Data ↗](http://unfolddata.com/) with the help of Mr. Moana Eruera of the [New Zealand Human Rights Commission ↗](https://www.hrc.co.nz/) (HRC) who together would later form the [Impact Open Source Software Trust ↗](https://impactoss.org) with the mission of advancing the enjoyment of human rights and sustainable development by promoting and developing suitable open source technologies.
 
 ### Initial concept
 
-The initial concept for the software that became [IMPACT OSS ↗](https://impactoss.org/impactoss), the open source software behind Sadata, was developed by [Mr. Ashley Bowe ↗](https://www.linkedin.com/in/ashley-bowe-a4716019/) who was subsequently employed by the Regional Office for the Pacific \(ROP\) of the [Office of the United Nations High Commissioner for Human Rights ↗](http://www.ohchr.org/) to fundraise and project manage the development of the software.
+The initial concept for the software that became [IMPACT OSS ↗](https://impactoss.org/impactoss), the open source software behind Sadata, was developed by [Mr. Ashley Bowe ↗](https://www.linkedin.com/in/ashley-bowe-a4716019/) who was subsequently employed by the Regional Office for the Pacific (ROP) of the [Office of the United Nations High Commissioner for Human Rights ↗](http://www.ohchr.org/) to fundraise and project manage the development of the software.
 
 ### Development of Sadata version 1 (released in August 2017)
 

@@ -16,7 +16,7 @@ This can either be done by importing recommendations or articles in bulk or ente
 
 #### 2. Cluster your recommendations and articles
 
-By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and \(1\) use the filtering and search functions to find similar obligations, \(2\) select them and then \(3\) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
+By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and (1) use the filtering and search functions to find similar obligations, (2) select them and then (3) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
 
 ![](../assets/Clustering.png)
 
@@ -24,11 +24,11 @@ Alternatively, recommendations or articles could be allocated to clusters indivi
 
 #### 3. Add Actions and Indicators
 
-Now the framework for the National Implementation Plan has been created all that is left to do is add the actions \(and associated indicators\) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
+Now the framework for the National Implementation Plan has been created all that is left to do is add the actions (and associated indicators) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
 
 ![](../assets/Add_action.png)
 
-If adding multiple entries then the actions/indicators can then be assigned to clusters or individual recommendations/articles using the filter and edit process. If adding one by one then at the time of creation this can be done. Additionally, if you are creating a single action you can also create the indicator\(s\) associated with it as part of the same process, without having to click on the 'indicators' tab in the top menu bar. For more information on how to carry out these functions [click here](../members/actions.md).
+If adding multiple entries then the actions/indicators can then be assigned to clusters or individual recommendations/articles using the filter and edit process. If adding one by one then at the time of creation this can be done. Additionally, if you are creating a single action you can also create the indicator(s) associated with it as part of the same process, without having to click on the 'indicators' tab in the top menu bar. For more information on how to carry out these functions [click here](../members/actions.md).
 
 Whilst multiple indicators can be imported it is important to edit each one individually as this is where responsibility for an indicator can be allocated to a user. For instance if Rosemary Bowe is responsible for conducting human rights training for new police recruits every six months then she needs to be given responsibility for uploading the training data twice a year. This can be done when creating a new indicator or editing an old indicator. Rosemary must be an existing registered user or will need to be sent a registration link for this to happen.
 
@@ -44,7 +44,7 @@ The Implementation Plan is never finished! States will continue to receive addit
 
 The SDG Implementation Plan works in exactly the same way as above except for the need for clustering the targets as this has already occurred given they are grouped within specific SDGs. If a State is using the software for both human rights and SDG reporting then as soon as they have finished developing one then work has already started on the other, as actions will have been linked across the two plans. It then just requires the State to identify the gaps and add in extra actions and indicators.
 
-The SDG Implementation Plan can be developed on its own using the steps above \(omitting the thematic clustering\), as can the Human Rights Implementation Plan. however, States receive additional benefits from using the two in conjunction with each other as it eliminates duplication of reporting and activities across human rights obligations and the SDGs.
+The SDG Implementation Plan can be developed on its own using the steps above (omitting the thematic clustering), as can the Human Rights Implementation Plan. however, States receive additional benefits from using the two in conjunction with each other as it eliminates duplication of reporting and activities across human rights obligations and the SDGs.
 
 #### An Example Implementation Plan
 
