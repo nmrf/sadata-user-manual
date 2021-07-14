@@ -17,6 +17,11 @@ a:visited,
 a > .hljs {
     color: var(--links);
 }
+.content a:link,
+a:visited,
+a > .hljs {
+    font-weight: 600;
+}
 
 /* Menu Bar */
 
