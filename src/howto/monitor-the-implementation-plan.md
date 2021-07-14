@@ -1,8 +1,8 @@
-## 2.3 How to: Monitor the Implementation Plan
+## 2.4 How to: Monitor the Implementation Plan
 
 The monitoring of the implementation plan is crucial for both the State and civil society. It tells both when progress is falling behind what it should be and where that is happening. The tool makes it easy and simple to quickly check progress of the whole plan, or any part of the plan which may be of interest to the user.
 
-To view the human rights Implementation Plan and start monitoring click on  'Actions' in the top menu bar and then select 'Implementation view'. (To view the SDG Implementation Plan click on 'SDG Targets' and make the same selection.) 
+To view the human rights Implementation Plan and start monitoring click on  'Actions' in the top menu bar and then select 'Implementation view'. (To view the SDG Implementation Plan click on 'SDG Targets' and make the same selection.)
 
 ![](../assets/Imp_View_2.png)
 
@@ -26,5 +26,4 @@ i. scrolling down the list of thematic clusters to see where progress reports ar
 
 ii. clicking on progress reports to check data; or
 
-iii. using the filtering and search functions to look into any section of the implementation plan and identify overdue progress reports or analyse information already submitted as per points (i) and (ii). 
-
+iii. using the filtering and search functions to look into any section of the implementation plan and identify overdue progress reports or analyse information already submitted as per points (i) and (ii).

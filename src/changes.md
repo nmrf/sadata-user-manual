@@ -10,7 +10,7 @@ In addition to the previously existing international implementation frameworks "
 
 > You can learn more about frameworks in the following chapters:
 >
-> [2.1 How to: Create Implementation Plan](howto/creating-the-implementation-plan.md)
+> [2.2 How to: Create Implementation Plan](howto/creating-the-implementation-plan.md)
 >
 > [3.2 Explore: Frameworks](visitors/frameworks.md)
 
@@ -44,7 +44,7 @@ The new bookmark feature allows all registered users, including guests (see [cha
 
 > You can learn more about creating and managing bookmarks in the following chapters:
 >
-> [2.7. How to: Bookmark views](howto/bookmarks.md)
+> [2.8. How to: Bookmark views](howto/bookmarks.md)
 >
 > [4.8. Manage: Add/edit/view bookmarks](members/bookmarks.md)
 
@@ -55,4 +55,4 @@ All views are now optimised for print, with most views featuring a short-cut for
 
 > You can learn more about printing views in the following chapter:
 >
-> [2.8. How to: Print views](howto/print.md)
+> [2.9. How to: Print views](howto/print.md)

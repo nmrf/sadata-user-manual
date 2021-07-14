@@ -53,7 +53,7 @@ Each Action has a reference number and title describing the action. Users can en
 
 ![](../assets/Keyword_filter.png)
 
-_Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu_
+> _Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu_
 
 #### Filtering by Category, connected category, connection or attribute
 

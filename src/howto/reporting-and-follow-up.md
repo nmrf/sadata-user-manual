@@ -1,4 +1,4 @@
-## 2.2 How to: Report (add data)
+## 2.3 How to: Report (add data)
 
 Adding progress reports is critical to the success of using this tool. Progress reports contain the data required for each indicator of the National Implementation Plan. This regular entry of data allows States, civil society and other stakeholders to check progress of the Plan and ensures that required reporting is just a matter of analysing the data and writing the narrative.
 
@@ -6,7 +6,7 @@ Data can be entered through progress reports by civil servants, administrators o
 
 ### **Reporting as an Indicator Owner**
 
-Each indicator in the Implementation Plan is assigned to an [Indicator Manager](../members/user-roles.md) who is responsible for uploading the relevant information, either as a once off or on a regular basis. That Indicator Manager will receive an automated email when the information is due.
+Each indicator in the Implementation Plan is assigned to an Indicator Manager ([see 4.1. for user roles and responsibilities](../members/user-roles.md)) who is responsible for uploading the relevant information, either as a once off or on a regular basis. That Indicator Manager will receive an automated email when the information is due.
 
 ![](../assets/Email_reminder.png)
 
@@ -46,17 +46,17 @@ depending on whether there is sensitive information contained within that should
 
 ### Reporting as a Contributor (Civil Society and Individuals)
 
-Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found [here](../howto/register.md).
+Anyone is able to submit information via the application if they think it is relevant to a particular area of human rights or the SDGs. To do so you must first register as a user. Details on how to do so can be found [in chapter 2.7](../howto/register.md).
 
-Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found [here](../howto/filter-and-search.md).
+Secondly, and once logged in, you must navigate to the relevant indicator using the search or filtering functions. More details on using those functions can be found [in chapter 2.6](../howto/filter-and-search.md).
 
 Once the relevant indicator has been found the contributor simply needs to click on the 'Add report' button' as described above for Indicator Managers and follow the same set of instructions.
 
-_Reports submitted in this way will not automatically appear on the site. They will first be reviewed by a Manager and once approved will appear_
+> _Reports submitted in this way will not automatically appear on the site. They will first be reviewed by a Manager and once approved will appear_
 
 ### Reviewing Reports as a Manager
 
-Once a report is submitted by a Contributor the registered user the relevant [Manager](../members/user-roles.md) will receive an automated email informing them. The email notification will contain a link to the report - once the Manager has signed in they will be taken to the report to review the contents. To accept the contents of the report and make it public the Manager should change the status from 'draft' to 'public'.
+Once a report is submitted by a Contributor the registered user the relevant Manager ([see 4.1. for user roles and responsibilities](../members/user-roles.md)) will receive an automated email informing them. The email notification will contain a link to the report - once the Manager has signed in they will be taken to the report to review the contents. To accept the contents of the report and make it public the Manager should change the status from 'draft' to 'public'.
 
 ### Reporting as an Administrator
 
@@ -66,10 +66,10 @@ An Administrator can also choose to submit reports at any time and in relation t
 
 Setting up an Indicator Owner means assigning responsibility for a particular indicator to a registered user. That user will then be receive the automated report reminder emails and be responsible for uploading the report and data. This can only be done by Managers and Administrators.
 
-For an Indicator Manager to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [here](../howto/register.md). Once the person is a registered user the process is as follows:
+For an Indicator Manager to be assigned, the person in question must first be a registered user. If they are not the Administrator must contact them and request they register. Details on how to register can be found [in chapter 2.7](../howto/register.md). Once the person is a registered user the process is as follows:
 
-1. The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [here](../members/users-admin.md).
+1. The registered user role must be changed from 'no role assigned' to 'contributor'. To do so the Administrator needs to navigate to the 'Users' page and update their role. Full details on how to do so can be found [in chapter 4.9](../members/users-admin.md).
 
-2. The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found [here](../members/indicators.md).
+2. The Administrator must then find the indicator they wish to assign to the registered user. The quickest way to do this is via the 'Indicators' tab in the top menu bar and using the search and filter functions. Clicking on the indicator will allow the Administrator to choose to edit the indicator and once editing they can assign it to the desired registered user using the drop down menu and recording when reports should be uploaded. Full details on adding and editing indicators can be found [in chapter 4.5](../members/indicators.md).
 
 ---

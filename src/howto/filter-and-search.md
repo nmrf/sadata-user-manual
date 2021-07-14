@@ -1,4 +1,4 @@
-## 2.5 How to: Filter and Search
+## 2.6 How to: Filter and Search
 
 The filter and search functions of the application are powerful tools that can be used for a number of purposes, including:
 
@@ -54,6 +54,6 @@ In the example above we have filtered for recommendations that fall within the i
 
 ### Filtering to Edit
 
-Administrators can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to editing entities [click here](../howto/edit-and-create-entries.md).
+Administrators can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to edit entities [see previous chapter 2.5](../howto/edit-and-create-entries.md).
 
 ---

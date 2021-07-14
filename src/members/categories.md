@@ -26,6 +26,6 @@ To add a new category (i.e. a new human rights body, cycle, issue, cluster, etc.
 
 6. Website: If additional information on a category can be found via an external URL it can be noted  here and accessed by visitors to the site (e.g. The website for the Committee on Economic, Social and Cultural Rights)
 
-7. Category Manager: *Only visible for Human Rights Bodies and SDGs* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers click [here](../members/user-roles.md).
+7. Category Manager: *Only visible for Human Rights Bodies and SDGs* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers and other user roles [see chapter 4.1](../members/user-roles.md).
 
 ---

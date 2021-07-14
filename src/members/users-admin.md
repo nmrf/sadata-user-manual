@@ -1,4 +1,4 @@
-## 4.9 Users
+## 4.9 Users admin
 
 On the Users page Administrators and Managers can manage all of the registered users and perform the following functions:
 
@@ -27,7 +27,7 @@ Clicking on the 'Edit' link will allow the Administrator to edit all of the User
 
 Through the 'Users' tab, the Administrator can assign user to a particular organisation (i.e. record which organisation they work for/represent). This can either be done individually by editing the user profile as described above, or through batch editing.
 
-To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation (see image above). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing click [here](users/actions.md).
+To assign multiple users to a particular organisation in one go the Administrator can use the batch edit function. To do this the Administrator needs to identify the users it wishes to assign to an organisation (see image above). Once selected the Administrator clicks on the 'Organisation' category in the left hand menu bar, selects the relevant organisation and presses 'Update'. For more information on batch editing [see chapter 4.2](members/content.md).
 
 #### Promote a user (assign a user role)
 
@@ -47,6 +47,6 @@ Clicking on the user role drop down menu (circled) brings up the following optio
 
 The new role can be selected and the save button pressed to confirm the promotion.
 
-To read more about user roles and responsibilities [click here](../members/user-roles.md).
+To read more about user roles and responsibilities [see chapter 4.1](../members/user-roles.md).
 
 ---

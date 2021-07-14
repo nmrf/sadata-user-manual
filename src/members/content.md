@@ -1,4 +1,4 @@
-## 4.2 Add/edit overview
+## 4.2 Overview: adding & editing
 
 One of the roles of Administrators and Managers is adding and editing the base content, such as:
 
@@ -14,7 +14,7 @@ There are a variety of methods of adding and editing content, including through 
 
 ### 'Edit' v 'Filter' Mode
 
-'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](glossary.md).
+'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by category, connected category, connection or status ([see Glossary (1.4)](glossary.md) for details).
 
 ![](../assets/Filter.png)
 

@@ -1,4 +1,4 @@
-## 2.4 How to: Edit and Add Entities
+## 2.5 How to: Edit and Add Entities
 
 The database is made up of information entered into it by the State and is designed so that it is flexible and can be used in a way that meets the needs of any country. All of the information and categorisations are totally flexible and can be created and edited as needed. The following can be classified as entities within the database:
 
@@ -8,7 +8,7 @@ The database is made up of information entered into it by the State and is desig
 * Recommendations
 * SDG Targets
 
-_**Key Fact**_ _To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles [click here](../members/user-roles.md)._
+> _**Key Fact**_ _To edit or addentities you need to be assigned as an 'Administrator' or 'Manager' after you register as a user. For more information on user roles [see chapter 4.1](../members/user-roles.md)._
 
 ### Adding New Entities
 
@@ -18,7 +18,9 @@ Adding new entities is very straight forward. The Administrator or Manager simpl
 
 ![](../assets/Add_action.png)
 
-To add a single entity simply click on the 'add' button and enter all of the required details. For full details of what information is required refer to the 'add' section in the relevant pages for [categories](../members/categories.md), [actions](../members/actions.md), [indicators](../members/indicators.md), [recommendations ](../members/recommendations.md)or [SDG targets](../members/sdg-targets.md).
+To add a single entity simply click on the 'add' button and enter all of the required details.
+
+> For full details of what information is required refer to the 'add' section in the relevant pages for [categories (4.3)](../members/categories.md), [actions (4.4)](../members/actions.md), [indicators (4.5)](../members/indicators.md), or [objectives (4.6)](../members/objectives.md).
 
 **Importing Multiple Entities**
 
@@ -30,20 +32,20 @@ A time-efficient way to add new actions, indicators, recommendations or SDG targ
 
 2. Once step 1 has been completed the Administrator or Manager clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database.
 
-_**Key Fact**_ _When batch importing, it is only possible to import the following:_
-
-* _For actions: title, description, target date, target date comment_
-* _For indicators: title, reference, description_
-* _For recommendations: title, reference, government response_
-* _SDG target: title, reference, description_
-
-_It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function (see above) to assign, tag and link immediately after importing._
+> _**Key Fact**_ _When batch importing, it is only possible to import the following:_
+>
+> * _For actions: title, description, target date, target date comment_
+> * _For indicators: title, reference, description_
+> * _For recommendations: title, reference, government response_
+> * _SDG target: title, reference, description_
+>
+> _It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function (see above) to assign, tag and link immediately after importing._
 
 ### Editing Entities
 
 **'Edit' v 'Filter' Mode**
 
-'Filter' mode is available to all registered users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](glossary.md).
+'Filter' mode is available to all registered users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by category, connected category, connection or status.
 
 ![](../assets/Filter.png)
 
@@ -73,7 +75,7 @@ First the Administrator needs to navigate to where their entity can be found. To
 
 The same approach is required to any action, indicator, recommendation or SDG target - simply find the entity in question, click on it and hit the 'edit' button to get going.
 
-For more detailed instructions on how to edit please see the relevant sections for [categories](../members/categories.md), [actions](../members/actions.md), [indicators](../members/indicators.md), [recommendations ](../members/recommendations.md)and [SDG targets](../members/sdg-targets.md).
+> For more detailed instructions on how to edit please see the relevant sections for [categories (4.3)](../members/categories.md), [actions (4.4)](../members/actions.md), [indicators (4.5)](../members/indicators.md), or [objectives (4.6)](../members/objectives.md).
 
 **Batch editing**
 
@@ -94,7 +96,7 @@ The batch edit function works in the same manner for all of the above use cases 
 
 First the Administrator or Manager needs to identify and select the actions they wish to batch edit and then secondly they update the selected actions as they wish.
 
-1. The Administrator or Manager can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [here](../visitors/actions.md). Once the relevant actions have been identified the Administrator or Manager can either:
+1. The Administrator or Manager can select the actions they wish by first using the filtering and search functions to bring up the relevant actions on their screen. More information on how to use these functions can be found [in chapter 3.4](../visitors/actions.md). Once the relevant actions have been identified the Administrator or Manager can either:
 
   * Select individual actions using the checkbox next to each action (see \#1 on image below)
   * Select all actions on the page displayed (see \#2 on image below)
